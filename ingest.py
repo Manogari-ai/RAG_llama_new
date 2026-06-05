@@ -372,3 +372,4 @@ if __name__ == "__main__":
     else:
         for pdf in pdfs:
             process_single_pdf(os.path.join(DATA_DIR, pdf))
+

@@ -6,7 +6,8 @@ import os
 import time
 from datetime import datetime
 from nltk.stem import PorterStemmer
-
+from collections import Counter
+import math
 # ==========================================
 # FILES
 # ==========================================
@@ -67,66 +68,48 @@ STOPWORDS = {
     "a",
     "an",
     "the",
-    "is",
-    "are",
-    "was",
-    "were",
-    "be",
-    "been",
-    "have",
-    "has",
-    "had",
-    "do",
-    "does",
-    "did",
-    "will",
-    "would",
-    "can",
-    "could",
-    "should",
-    "may",
-    "might",
-    "in",
-    "on",
-    "at",
-    "by",
-    "for",
-    "of",
-    "to",
-    "from",
-    "with",
-    "and",
-    "or",
-    "but",
-    "not",
-    "if",
-    "as",
-    "it",
-    "its",
-    "this",
-    "that",
-    "what",
-    "which",
-    "who",
-    "how",
-    "when",
-    "where",
-    "tell",
-    "give",
-    "me",
-    "please",
-    "about",
-    "need",
-    "want",
-    "also",
-    "more",
-    "than",
-    "only",
-    "any",
-    "all",
-    "some",
 }
 
+
+word_freq = Counter()
+total_qa_questions = 0
+
+
+def build_word_frequency():
+
+    global word_freq
+    global total_qa_questions
+
+    word_freq.clear()
+    total_qa_questions = 0
+
+    for chunk in chunks:
+
+        norm = re.sub(r'(?<!\n)\s+(?=Q\s*:)', '\n', chunk)
+
+        blocks = re.split(r'(?=\nQ\s*:)', '\n' + norm)
+
+        for block in blocks:
+
+            qm = re.search(
+                r'Q\s*:\s*(.+?)(?=\nA\s*:|\nAns\s*:|\Z)',
+                block,
+                re.DOTALL | re.IGNORECASE
+            )
+
+            if not qm:
+                continue
+
+            q_text = qm.group(1)
+
+            words = set(
+                keywords(q_text)
+            )
+
+            for w in words:
+                word_freq[w] += 1
+
+            total_qa_questions += 1
 
 stemmer = PorterStemmer()
 
@@ -308,8 +291,16 @@ def find_exact_entry(query):
         if not title:
             continue
 
-        disc_hits = sum(1 for w in disc_words if w in title)
-        if disc_hits == 0:
+
+        matched_words = [
+            w
+            for w in disc_words
+            if w in title
+        ]
+        
+        disc_hits = len(matched_words)
+        
+        if disc_hits < len(disc_words):
             continue
 
         header_score = sum(3 for w in qwords if w in header)
@@ -567,41 +558,89 @@ def extract_qa_answer(query, results):
 # Does NOT rely on vector retrieval — runs on every query
 # before falling back to vector search.
 # ==========================================
+def idf_score(word):
+
+    freq = word_freq.get(word, 0)
+
+    return math.log(
+        (total_qa_questions + 1)
+        /
+        (freq + 1)
+    )
+
+def rare_query_words(text):
+
+    words = keywords(text)
+
+    scored = []
+
+    for w in words:
+
+        scored.append(
+            (
+                idf_score(w),
+                w
+            )
+        )
+
+    scored.sort(reverse=True)
+
+    return [w for _, w in scored]
+
+def normalize(text):
+
+    text = text.lower()
+
+    text = re.sub(
+        r'[^a-z0-9 ]',
+        ' ',
+        text
+    )
+
+    text = re.sub(
+        r'\s+',
+        ' ',
+        text
+    )
+
+    return text.strip()
+
 
 
 def direct_qa_search(query):
 
-    qwords = keywords(query)
+    query_lower = normalize(query)
 
-    if not qwords:
+    rare_words = rare_query_words(query)
+
+    if not rare_words:
         return None
 
-    best_answer = None
-    best_score = 0
-    best_question = ""
-    best_coverage = 0
+    # highest IDF words only
+    top_rare = rare_words[:2]
 
-    query_lower = query.lower().strip()
+    print(f"[RARE WORDS] {top_rare}")
+
+    qa_pairs = []
+
+    # =====================================
+    # LOAD ALL QA PAIRS
+    # =====================================
 
     for chunk in chunks:
 
-        # Normalize Q/A blocks
-        norm = re.sub(r'(?<!\n)\s+(?=Q\s*:)', '\n', chunk)
-        norm = re.sub(r'(?<!\n)\s+(?=A\s*:)', '\n', norm)
-        norm = re.sub(r'(?<!\n)\s+(?=Ans\s*:)', '\n', norm)
+        norm = re.sub(
+            r'(?<!\n)\s+(?=Q\s*:)',
+            '\n',
+            chunk
+        )
 
-        blocks = re.split(r'(?=\nQ\s*:)', '\n' + norm)
+        blocks = re.split(
+            r'(?=\nQ\s*:)',
+            '\n' + norm
+        )
 
         for block in blocks:
-
-            block = block.strip()
-
-            if not re.search(r'Q\s*:', block, re.IGNORECASE):
-                continue
-
-            # -------------------------
-            # Question
-            # -------------------------
 
             qm = re.search(
                 r'Q\s*:\s*(.+?)(?=\nA\s*:|\nAns\s*:|\Z)',
@@ -609,7 +648,13 @@ def direct_qa_search(query):
                 re.DOTALL | re.IGNORECASE
             )
 
-            if not qm:
+            am = re.search(
+                r'(?:A\s*:|Ans\s*:)\s*(.+?)(?=\nQ\s*:|\Z)',
+                block,
+                re.DOTALL | re.IGNORECASE
+            )
+
+            if not qm or not am:
                 continue
 
             q_text = re.sub(
@@ -618,155 +663,277 @@ def direct_qa_search(query):
                 qm.group(1)
             ).strip()
 
-            # -------------------------
-            # Answer
-            # -------------------------
-
-            am = re.search(
-                r'(?:A\s*:|Ans\s*:)\s*(.+?)(?=\nQ\s*:|\Z)',
-                block,
-                re.DOTALL | re.IGNORECASE
-            )
-
-            if not am:
-                continue
-
             a_text = re.sub(
                 r'\s+',
                 ' ',
                 am.group(1)
             ).strip()
 
-            if len(a_text) < 5:
-                continue
+            qa_pairs.append((q_text, a_text))
 
-            question_lower = q_text.lower().strip()
-            answer_lower = a_text.lower().strip()
+    # =====================================
+    # STEP 1 : EXACT QUESTION MATCH
+    # =====================================
 
-            # ==================================
-            # EXACT QUESTION MATCH
-            # ==================================
+    for q_text, a_text in qa_pairs:
 
-            if query_lower == question_lower:
+        if normalize(q_text) == query_lower:
 
-                print(
-                    f"[EXACT QUESTION MATCH] "
-                    f"{q_text[:80]}"
-                )
-
-                return a_text
-
-            # ==================================
-            # KEYWORDS
-            # ==================================
-
-            query_kw = set(qwords)
-            q_kw = set(keywords(q_text))
-            a_kw = set(keywords(a_text))
-
-            question_hits = len(
-                query_kw & q_kw
+            print(
+                f"[EXACT QUESTION MATCH] {q_text}"
             )
 
-            answer_hits = len(
-                query_kw & a_kw
-            )
+            return a_text
 
-            question_coverage = (
-                question_hits /
-                max(len(query_kw), 1)
-            )
+    # =====================================
+    # STEP 2 : RARE WORD MATCH IN QUESTION
+    # =====================================
 
-            answer_coverage = (
-                answer_hits /
-                max(len(query_kw), 1)
-            )
+    for q_text, a_text in qa_pairs:
 
-            # ==================================
-            # BASE SCORE
-            # ==================================
-
-            score = (
-                question_hits * 20 +
-                answer_hits * 8 +
-                question_coverage * 100 +
-                answer_coverage * 40
-            )
-
-            # ==================================
-            # QUERY PHRASE IN QUESTION
-            # ==================================
-
-            if query_lower in question_lower:
-                score += 200
-
-            # ==================================
-            # QUERY PHRASE IN ANSWER
-            # ==================================
-
-            if query_lower in answer_lower:
-                score += 100
-
-            # ==================================
-            # BIGRAM BONUS
-            # ==================================
-
-            for i in range(len(qwords) - 1):
-
-                bigram = (
-                    qwords[i]
-                    + " "
-                    + qwords[i + 1]
-                )
-
-                if bigram in question_lower:
-                    score += 10
-
-                if bigram in answer_lower:
-                    score += 5
-
-            # ==================================
-            # BEST MATCH
-            # ==================================
-
-            coverage = max(
-                question_coverage,
-                answer_coverage
-            )
-
-            if (
-                score > best_score
-                or (
-                    score == best_score
-                    and coverage > best_coverage
-                )
-            ):
-
-                best_score = score
-                best_answer = a_text
-                best_question = q_text
-                best_coverage = coverage
-
-                print(
-                    f"[QA] score={score:.2f} "
-                    f"coverage={coverage:.2f} "
-                    f"question='{q_text[:80]}'"
-                )
-
-    # ==================================
-    # FINAL CHECK
-    # ==================================
-
-    if best_answer and best_coverage >= 0.30:
-
-        print(
-            f"[QA-DIRECT] score={best_score:.2f} "
-            f"coverage={best_coverage:.2f}"
+        q_words = set(
+            keywords(q_text)
         )
 
-        return best_answer
+        rare_hits = sum(
+            1 for w in top_rare
+            if w in q_words
+        )
+
+        if rare_hits == len(top_rare):
+
+            print(
+                f"[RARE QUESTION MATCH] {q_text}"
+            )
+
+            return a_text
+
+    # =====================================
+    # STEP 3 : RARE WORD MATCH IN ANSWER
+    # =====================================
+
+    for q_text, a_text in qa_pairs:
+
+        a_words = set(
+            keywords(a_text)
+        )
+
+        rare_hits = sum(
+            1 for w in top_rare
+            if w in a_words
+        )
+
+        if rare_hits == len(top_rare):
+
+            print(
+                f"[RARE ANSWER MATCH] {q_text}"
+            )
+
+            return a_text
 
     return None
+
+
+def find_directory_entry(query):
+
+    q = query.lower()
+
+    # ---------------------------------
+    # Directory type detection
+    # ---------------------------------
+
+    directory_type = None
+
+    if (
+        "frro" in q
+        or "frro contact directory" in q
+    ):
+        directory_type = "frro"
+
+    elif (
+        "poe" in q
+        or "protector of emigrants" in q
+        or "poe office" in q
+    ):
+        directory_type = "poe"
+
+    # ---------------------------------
+    # Not a directory query
+    # ---------------------------------
+
+    if directory_type is None:
+        return None
+
+    qwords = set(keywords(query))
+
+    best_chunk = None
+    best_score = 0
+
+    for chunk in chunks:
+
+        text = chunk.lower()
+
+        # ---------------------------------
+        # FRRO directory only
+        # ---------------------------------
+
+        if directory_type == "frro":
+
+            if (
+                "in-charge:" not in text
+                or "address:" not in text
+                or "phone:" not in text
+                or "email:" not in text
+            ):
+                continue
+
+        # ---------------------------------
+        # POE directory only
+        # ---------------------------------
+
+        elif directory_type == "poe":
+
+            if (
+                "location:" not in text
+                or "contact:" not in text
+                or "jurisdiction:" not in text
+            ):
+                continue
+
+        chunk_words = set(keywords(chunk))
+
+        score = len(qwords & chunk_words)
+
+        if score > best_score:
+            best_score = score
+            best_chunk = chunk
+
+    if not best_chunk:
+        return None
+
+    clean = re.sub(
+        r"^\[.+?\]\s*",
+        "",
+        best_chunk,
+        flags=re.DOTALL
+    ).strip()
+
+    # ---------------------------------
+    # EMAIL
+    # ---------------------------------
+
+    if "email" in q:
+
+        m = re.search(
+            r"Email\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    # ---------------------------------
+    # PHONE / CONTACT
+    # ---------------------------------
+
+    if (
+        "phone" in q
+        or "fax" in q
+    ):
+
+        m = re.search(
+            r"Phone\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    if "contact" in q:
+
+        m = re.search(
+            r"Contact\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    # ---------------------------------
+    # ADDRESS / LOCATION
+    # ---------------------------------
+
+    if (
+        "address" in q
+        or "location" in q
+    ):
+
+        m = re.search(
+            r"Address\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+        m = re.search(
+            r"Location\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    # ---------------------------------
+    # IN-CHARGE
+    # ---------------------------------
+
+    if (
+        "incharge" in q
+        or "in-charge" in q
+    ):
+
+        m = re.search(
+            r"In-Charge\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    # ---------------------------------
+    # JURISDICTION
+    # ---------------------------------
+
+    if "jurisdiction" in q:
+
+        m = re.search(
+            r"Jurisdiction\s*:\s*(.+?)(?:\n|$)",
+            clean,
+            re.I | re.S
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    # ---------------------------------
+    # FULL ENTRY
+    # ---------------------------------
+
+    clean = re.sub(
+        r"^\d+\.\s*",
+        "",
+        clean
+    )
+
+    return clean
+
 
 
 def llm_answer(query, context):
@@ -970,30 +1137,22 @@ def ask(query):
 
         start_time = time.time()
 
+
         # ==========================================
-        # STEP 0 : EXACT ENTRY MATCH
+        # STEP 0 : DIRECTORY MATCH
         # ==========================================
         
-        best_chunk, field = find_exact_entry(query)
-        
-        if best_chunk:
-        
-            header, title, num = parse_chunk_parts(best_chunk)
-        
-            print(
-                f"[ASK] Exact match → "
-                f"header='{header[:35]}' "
-                f"title='{title[:30]}' "
-                f"field={field}"
-            )
-        
-            answer = format_entry(best_chunk, field)
+        directory_answer = find_directory_entry(query)
+
+        if directory_answer:
         
             duration_ms = (time.time() - start_time) * 1000
         
-            save_chat(query, answer, duration_ms)
+            save_chat(query, directory_answer, duration_ms)
         
-            return answer
+            print("[ASK] Directory Match")
+        
+            return directory_answer
         
         
         # ==========================================
@@ -1011,6 +1170,30 @@ def ask(query):
             print(f"[ASK] Direct QA → {qa_answer[:80]}")
         
             return qa_answer
+        # ==========================================
+        # STEP 1 : EXACT ENTRY MATCH
+        # ==========================================
+        
+        best_chunk, field = find_exact_entry(query)
+        
+        if best_chunk:
+        
+            header, title, num = parse_chunk_parts(best_chunk)
+        
+            print(
+                f"[ASK] Exact Entry → "
+                f"header='{header[:35]}' "
+                f"title='{title[:30]}' "
+                f"field={field}"
+            )
+        
+            answer = format_entry(best_chunk, field)
+        
+            duration_ms = (time.time() - start_time) * 1000
+        
+            save_chat(query, answer, duration_ms)
+        
+            return answer
 
         # ==========================================
         # STEP 1b: SECTION MATCH
@@ -1248,4 +1431,3 @@ def reload_db():
 
     except Exception as e:
         print(f"[RAG RELOAD ERROR] {e}")
-

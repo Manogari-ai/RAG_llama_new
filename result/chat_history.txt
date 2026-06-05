@@ -14055,3 +14055,1853 @@ Time Duration: 6.47ms
 Saved Time:
 2026-06-05 10:18:14
 
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 93.77ms
+
+Saved Time:
+2026-06-05 11:21:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.35ms
+
+Saved Time:
+2026-06-05 11:21:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 17.40ms
+
+Saved Time:
+2026-06-05 11:21:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.40ms
+
+Saved Time:
+2026-06-05 11:22:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 96.16ms
+
+Saved Time:
+2026-06-05 11:26:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.44ms
+
+Saved Time:
+2026-06-05 11:26:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 96.31ms
+
+Saved Time:
+2026-06-05 11:26:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 95.37ms
+
+Saved Time:
+2026-06-05 11:26:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.65ms
+
+Saved Time:
+2026-06-05 11:39:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: chennai frro contact
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.13ms
+
+Saved Time:
+2026-06-05 11:39:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 28789.27ms
+
+Saved Time:
+2026-06-05 12:07:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.12ms
+
+Saved Time:
+2026-06-05 12:07:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS
+
+🤖 AI:
+Emigration Clearance is a legal requirement under the Emigration Act, 1983. It is mandatory for Indian passport holders in the ECR (Emigration Check Required) category who are traveling to specific countries for employment.
+
+Time Duration: 28178.98ms
+
+Saved Time:
+2026-06-05 12:27:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 10.91ms
+
+Saved Time:
+2026-06-05 12:27:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 111.53ms
+
+Saved Time:
+2026-06-05 12:27:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.17ms
+
+Saved Time:
+2026-06-05 12:28:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 100.33ms
+
+Saved Time:
+2026-06-05 12:28:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 99.59ms
+
+Saved Time:
+2026-06-05 12:28:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS chennai
+
+🤖 AI:
+Chennai Office
+• Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078.
+• Contact: 044-29862069 | poechennai1@mea.gov.in
+• Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 6.81ms
+
+Saved Time:
+2026-06-05 12:28:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.17ms
+
+Saved Time:
+2026-06-05 12:28:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS Delhi Office
+
+🤖 AI:
+Delhi Office
+• Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001.
+• Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in
+• Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+Time Duration: 6.39ms
+
+Saved Time:
+2026-06-05 12:29:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS  Delhi Office Contact
+
+🤖 AI:
+Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in
+
+Time Duration: 6.44ms
+
+Saved Time:
+2026-06-05 12:29:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe office delhi contact
+
+🤖 AI:
+Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in
+
+Time Duration: 6.40ms
+
+Saved Time:
+2026-06-05 12:29:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+Medical Certificate format for Visa service
+
+Time Duration: 6.44ms
+
+Saved Time:
+2026-06-05 12:30:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 28196.95ms
+
+Saved Time:
+2026-06-05 12:34:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.23ms
+
+Saved Time:
+2026-06-05 12:34:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 169.50ms
+
+Saved Time:
+2026-06-05 12:55:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 3.58ms
+
+Saved Time:
+2026-06-05 12:55:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 105.50ms
+
+Saved Time:
+2026-06-05 12:55:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization.
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 98.83ms
+
+Saved Time:
+2026-06-05 12:55:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+Medical Certificate format for Visa service
+
+Time Duration: 6.49ms
+
+Saved Time:
+2026-06-05 12:55:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 6.35ms
+
+Saved Time:
+2026-06-05 12:56:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+The BoI is headed by the Commissioner of Immigration.
+
+Time Duration: 99.28ms
+
+Saved Time:
+2026-06-05 12:56:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+Medical Certificate format for Visa service
+
+Time Duration: 7.00ms
+
+Saved Time:
+2026-06-05 12:56:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.14ms
+
+Saved Time:
+2026-06-05 12:56:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 28571.93ms
+
+Saved Time:
+2026-06-05 13:05:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Please visit https://www.mea.gov.in/images/amb1/visa- facility-for-indian-nationals.pdf
+
+Time Duration: 76.37ms
+
+Saved Time:
+2026-06-05 13:05:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA expiry date is the last date allowing bearer access into India. Visa Expiry Date is the last date permitted for the stay of foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 71.45ms
+
+Saved Time:
+2026-06-05 13:05:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 93.11ms
+
+Saved Time:
+2026-06-05 13:09:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.76ms
+
+Saved Time:
+2026-06-05 13:09:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 94.36ms
+
+Saved Time:
+2026-06-05 13:09:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 95.38ms
+
+Saved Time:
+2026-06-05 13:09:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 96.15ms
+
+Saved Time:
+2026-06-05 13:10:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.08ms
+
+Saved Time:
+2026-06-05 14:10:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 107.48ms
+
+Saved Time:
+2026-06-05 14:32:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.37ms
+
+Saved Time:
+2026-06-05 14:32:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Q: What is an Overseas Citizen of India (OCI) Cardholder?
+A:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 109.78ms
+
+Saved Time:
+2026-06-05 14:35:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 103.74ms
+
+Saved Time:
+2026-06-05 14:46:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Q: What is an Overseas Citizen of India (OCI) Cardholder?
+A:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 110.57ms
+
+Saved Time:
+2026-06-05 14:46:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 8.46ms
+
+Saved Time:
+2026-06-05 14:57:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 8.91ms
+
+Saved Time:
+2026-06-05 14:57:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 100.50ms
+
+Saved Time:
+2026-06-05 14:57:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 101.00ms
+
+Saved Time:
+2026-06-05 14:57:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 16.11ms
+
+Saved Time:
+2026-06-05 14:59:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 34.94ms
+
+Saved Time:
+2026-06-05 14:59:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 31.07ms
+
+Saved Time:
+2026-06-05 14:59:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 93.61ms
+
+Saved Time:
+2026-06-05 14:59:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+It is your responsibility to ensure that Arrival and Departure seals are affixed to your passport at the immigration counter. If a seal is missed, contact the nearest FRRO or Immigration Post immediately to rectify it.
+
+Time Duration: 51.91ms
+
+Saved Time:
+2026-06-05 14:59:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS Rae Bareli Office
+
+🤖 AI:
+0. Cochin Office
+• Location: Ground Floor, RPO Building, Panampilli Nagar, Cochin.
+• Contact: 0484-2360187 | poecochin@mea.gov.in
+• Jurisdiction: Northern Kerala districts (Ernakulam, Thrissur, Kozhikode, etc.) and Lakshadweep.
+
+1. Delhi Office
+• Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001.
+• Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in
+• Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+1. Patna Office
+• Location: 5th Floor, A Block, Niyojan Bhawan, Bailey Road, Patna-800001.
+• Contact: poepatna@mea.gov.in
+• Jurisdiction: Bihar and Jharkhand.
+
+2. Rae Bareli Office
+• Location: 1st Floor, Rudra Plaza, Hospital Road, Rae Bareli, Uttar Pradesh.
+• Contact: 0535-2211122 | poerbl@mea.gov.in
+• Jurisdiction: Covers the state of Uttar Pradesh.
+
+2. Bengaluru Office
+• Location: RPO Building, 8th Block, 80 Feet Road, KHB Games Village, Koramangala, Bengaluru-560095.
+• Contact: poebengaluru@mea.gov.in
+• Jurisdiction: Karnataka and Goa.
+
+3. Jaipur Office
+• Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan.
+• Contact: 0141-2771528 | poejaipur@mea.gov.in
+• Jurisdiction: Covers the state of Rajasthan.
+
+3. Guwahati Office
+• Location: RPO Building, Rani Bagan, Basistha Road, 3rd Bylane, Guwahati-781028.
+• Contact: 8287020033 | poeguwahati@mea.gov.in
+• Jurisdiction: Arunachal Pradesh, Assam, Meghalaya, Mizoram, Manipur, Nagaland, and Tripura. POE Clearance
+
+4. Chandigarh Office
+• Location: 5th Block, Ground Floor, Room No. 27, Kendriya Sadan, Sector-9A, Chandigarh-160017.
+• Contact: 0172-2741790 | poechd@mea.gov.in
+• Jurisdiction: Punjab, Haryana, Chandigarh, Himachal Pradesh, and Jammu & Kashmir.
+
+5. Mumbai Office
+• Location: 4th Floor, "Videsh Bhavan," BKC, Plot No C-45, G Block, Bandra (East), Mumbai-400051.
+• Contact: 022-26520023 | poemumbai@mea.gov.in
+• Jurisdiction: Maharashtra, Gujarat, Goa, Madhya Pradesh, and UTs of Dadra & Nagar Haveli and Daman & Diu.
+
+6. Kolkata Office
+• Location: Room No. 18, A-Wing, MSO Building, 3rd Floor, DF Block, Salt Lake, Kolkata-700084.
+• Contact: 033-23343407 | poekol@mea.gov.in
+• Jurisdiction: West Bengal, Odisha, Chhattisgarh, Sikkim, and Andaman & Nicobar Islands.
+
+7. Hyderabad Office
+• Location: Regional Passport Office Building, 2nd Floor, 73, Red Cross Road, Shivaji Nagar, Secunderabad-500003.
+• Contact: 040-27772557 | poehyd@mea.gov.in
+• Jurisdiction: Andhra Pradesh and Telangana.
+
+8. Chennai Office
+• Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078.
+• Contact: 044-29862069 | poechennai1@mea.gov.in
+• Jurisdiction: Tamil Nadu and Puducherry.
+
+9. Trivandrum Office
+• Location: 5th Floor, NORKA Centre, Thycaud, Thiruvananthapuram-695014.
+• Contact: 0471-2336625 | poetvm2@mea.gov.in
+• Jurisdiction: Southern Kerala districts (Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam, Idukki, Alappuzha).
+
+Q: What is "Emigration Clearance" and who needs it?
+A: Emigration Clearance is a legal requirement under the Emigration
+Act, 1983. It is mandatory for Indian passport holders in the ECR
+(Emigration Check Required) category who are traveling to specific
+countries for employment.
+
+Time Duration: 100.21ms
+
+Saved Time:
+2026-06-05 15:01:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 17.56ms
+
+Saved Time:
+2026-06-05 15:10:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 37.02ms
+
+Saved Time:
+2026-06-05 15:10:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 31.36ms
+
+Saved Time:
+2026-06-05 15:10:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 91.39ms
+
+Saved Time:
+2026-06-05 15:10:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+It is your responsibility to ensure that Arrival and Departure seals are affixed to your passport at the immigration counter. If a seal is missed, contact the nearest FRRO or Immigration Post immediately to rectify it.
+
+Time Duration: 50.00ms
+
+Saved Time:
+2026-06-05 15:10:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 23.08ms
+
+Saved Time:
+2026-06-05 15:15:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 41.33ms
+
+Saved Time:
+2026-06-05 15:15:57
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 37.44ms
+
+Saved Time:
+2026-06-05 15:15:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 99.53ms
+
+Saved Time:
+2026-06-05 15:16:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+6. Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 8.42ms
+
+Saved Time:
+2026-06-05 15:16:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai Emai
+
+🤖 AI:
+6. Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 8.75ms
+
+Saved Time:
+2026-06-05 15:16:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai Email
+
+🤖 AI:
+6. Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 8.94ms
+
+Saved Time:
+2026-06-05 15:16:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai Email
+
+🤖 AI:
+6. Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 8.01ms
+
+Saved Time:
+2026-06-05 15:18:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 111.75ms
+
+Saved Time:
+2026-06-05 15:29:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 21.95ms
+
+Saved Time:
+2026-06-05 15:31:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 7.58ms
+
+Saved Time:
+2026-06-05 15:31:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 22.02ms
+
+Saved Time:
+2026-06-05 15:35:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 8.27ms
+
+Saved Time:
+2026-06-05 15:35:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 16.61ms
+
+Saved Time:
+2026-06-05 16:19:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 35.28ms
+
+Saved Time:
+2026-06-05 16:19:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 31.69ms
+
+Saved Time:
+2026-06-05 16:19:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization.
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 92.60ms
+
+Saved Time:
+2026-06-05 16:19:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.99ms
+
+Saved Time:
+2026-06-05 16:24:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai Email
+
+🤖 AI:
+chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 9.66ms
+
+Saved Time:
+2026-06-05 16:24:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS office  Rae Bareli Office
+
+🤖 AI:
+Rae Bareli Office • Location: 1st Floor, Rudra Plaza, Hospital Road, Rae Bareli, Uttar Pradesh. • Contact: 0535-2211122 | poerbl@mea.gov.in • Jurisdiction: Covers the state of Uttar Pradesh.
+
+Time Duration: 8.02ms
+
+Saved Time:
+2026-06-05 16:24:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 22.15ms
+
+Saved Time:
+2026-06-05 16:24:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 8.15ms
+
+Saved Time:
+2026-06-05 16:24:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 16.59ms
+
+Saved Time:
+2026-06-05 16:35:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 36.08ms
+
+Saved Time:
+2026-06-05 16:35:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 31.04ms
+
+Saved Time:
+2026-06-05 16:35:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 92.14ms
+
+Saved Time:
+2026-06-05 16:35:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 5.58ms
+
+Saved Time:
+2026-06-05 16:35:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 6.13ms
+
+Saved Time:
+2026-06-05 16:36:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai email
+
+🤖 AI:
+chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 5.68ms
+
+Saved Time:
+2026-06-05 16:37:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe bangalore
+
+🤖 AI:
+Delhi Office • Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001. • Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in • Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+Time Duration: 4.84ms
+
+Saved Time:
+2026-06-05 16:38:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: PROTECTOR OF EMIGRANTS bengaluru
+
+🤖 AI:
+Bengaluru Office • Location: RPO Building, 8th Block, 80 Feet Road, KHB Games Village, Koramangala, Bengaluru-560095. • Contact: poebengaluru@mea.gov.in • Jurisdiction: Karnataka and Goa.
+
+Time Duration: 6.14ms
+
+Saved Time:
+2026-06-05 16:39:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe Bengalore contact
+
+🤖 AI:
+011-23382472 / 23073908 | poedelhi@mea.gov.in • Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+Time Duration: 6.35ms
+
+Saved Time:
+2026-06-05 16:39:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe Bengaluru Contact
+
+🤖 AI:
+poebengaluru@mea.gov.in • Jurisdiction: Karnataka and Goa.
+
+Time Duration: 5.73ms
+
+Saved Time:
+2026-06-05 16:40:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+The BoI is headed by the Commissioner of Immigration.
+
+Time Duration: 16.03ms
+
+Saved Time:
+2026-06-05 16:41:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 16.53ms
+
+Saved Time:
+2026-06-05 16:41:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 18.00ms
+
+Saved Time:
+2026-06-05 16:41:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+Indian Missions typically require you to show a valid vaccination certificate before issuing a visa. Once verified, they will mark your visa with the endorsement: "Valid Yellow Fever Vaccination Certificate Checked.”
+
+Time Duration: 16.28ms
+
+Saved Time:
+2026-06-05 16:41:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 98.57ms
+
+Saved Time:
+2026-06-05 17:03:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 97.71ms
+
+Saved Time:
+2026-06-05 17:03:51
+
