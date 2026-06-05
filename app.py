@@ -109,4 +109,4 @@ if __name__ == "__main__":
     # in the child, but the parent's copy stays stale — causing exactly the
     # symptom you saw. Disabling the reloader means one process, one memory
     # space, and reload_db() always takes effect immediately.
-    app.run(host="0.0.0.0", port=8005, debug=True, use_reloader=False)
+    app.run(host="0.0.0.0", port=9005, debug=True, use_reloader=False)

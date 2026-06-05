@@ -5,6 +5,14 @@ import requests
 import numpy as np
 import pdfplumber
 
+# Optional: Vision RAG page rendering
+try:
+    import fitz  # PyMuPDF — pip install pymupdf
+    PYMUPDF_AVAILABLE = True
+except ImportError:
+    PYMUPDF_AVAILABLE = False
+    print("[INGEST] PyMuPDF not installed. Vision RAG disabled. Run: pip install pymupdf")
+
 # ==========================================
 # PATHS
 # ==========================================
@@ -12,6 +20,7 @@ import pdfplumber
 DATA_DIR = "data"
 INDEX_FILE = "vector_db/index.faiss"
 CHUNKS_FILE = "vector_db/chunks.txt"
+IMAGE_DIR = "vector_db/images"      # Page images for Vision RAG
 OLLAMA_EMBED_URL = "http://localhost:11434/api/embeddings"
 MODEL = "nomic-embed-text"
 session = requests.Session()
@@ -19,6 +28,7 @@ session = requests.Session()
 # ==========================================
 # EXTRACT TEXT
 # ==========================================
+
 def extract_full_text(pdf_path):
     all_text = ""
     with pdfplumber.open(pdf_path) as pdf:
@@ -33,7 +43,6 @@ def extract_full_text(pdf_path):
                 all_text += t + "\n"
 
     # Normalize inline Q:/A: pairs to separate lines
-    # Handles cases where pdfplumber merges lines: "Q: text A: answer Q: next"
     all_text = re.sub(r'\s+(?=Q\s*:)', '\n', all_text)
     all_text = re.sub(r'\s+(?=A\s*:)', '\n', all_text)
     all_text = re.sub(r'\s+(?=Ans\s*:)', '\n', all_text)
@@ -42,29 +51,54 @@ def extract_full_text(pdf_path):
 
 
 # ==========================================
+# VISION RAG: EXTRACT PAGE IMAGES
+# ==========================================
+
+def extract_page_images(pdf_path, dpi=150):
+    """
+    Render each PDF page as a JPEG image and save to IMAGE_DIR.
+    Filename encodes the source PDF + page number for scoring.
+    DPI=150 is a good balance between quality and file size.
+
+    Requires PyMuPDF (pip install pymupdf).
+    """
+    if not PYMUPDF_AVAILABLE:
+        return
+
+    os.makedirs(IMAGE_DIR, exist_ok=True)
+
+    pdf_stem = os.path.splitext(os.path.basename(pdf_path))[0]
+    # Sanitize filename: replace spaces and special chars
+    pdf_stem = re.sub(r"[^\w\-]", "_", pdf_stem).lower()
+
+    doc = fitz.open(pdf_path)
+    mat = fitz.Matrix(dpi / 72, dpi / 72)   # 72 dpi = 1x scale
+
+    saved = 0
+    for page_num in range(len(doc)):
+        page = doc[page_num]
+        pix = page.get_pixmap(matrix=mat)
+        out_path = os.path.join(IMAGE_DIR, f"{pdf_stem}_page_{page_num + 1:04d}.jpg")
+        pix.save(out_path)
+        saved += 1
+
+    doc.close()
+    print(f"[VISION] Saved {saved} page images → {IMAGE_DIR}/")
+
+
+# ==========================================
 # SECTION SPLITTER
 # ==========================================
 
 SECTION_HEADER_RE = re.compile(r'^[A-Z][A-Z\s:&/()\-]{8,}$', re.MULTILINE)
 
-# Matches inline FAQ title lines like:
-#   "FAQ (Frequently Asked Questions)"  or  "FAQ"  on its own line
 FAQ_INLINE_RE = re.compile(
     r'(?:^|\n)(FAQ\s*(?:\([^)]*\))?)\s*\n',
     re.IGNORECASE
 )
 
+
 def split_into_sections(text):
-    """
-    1. Find all ALL-CAPS section headers.
-    2. Also detect inline FAQ markers (e.g. "FAQ (Frequently Asked Questions)")
-       that pdfplumber merges into a section body instead of emitting as a header.
-    3. For any section whose body contains an inline FAQ marker, split it there:
-       - The part before the FAQ marker keeps the original header.
-       - The FAQ part gets header "FAQ".
-    4. Within each FAQ body, further split on numbered sub-topics if present
-       (e.g. "1.What is an ETA?" starts a new FAQ topic group).
-    """
     positions = [(m.start(), m.group().strip()) for m in SECTION_HEADER_RE.finditer(text)]
     if not positions:
         return [("CONTENT", text)]
@@ -77,7 +111,6 @@ def split_into_sections(text):
         if body:
             raw_sections.append((header, body))
 
-    # ── Pass 2: split any section body that embeds an FAQ sub-header ──
     sections = []
     for header, body in raw_sections:
         faq_m = FAQ_INLINE_RE.search(body)
@@ -92,6 +125,7 @@ def split_into_sections(text):
             sections.append((header, body))
 
     return sections
+
 
 # ==========================================
 # CHUNKERS
@@ -116,14 +150,9 @@ def fix_malformed_qa(body):
         i += 1
     return "\n".join(fixed)
 
-def chunk_qa(header, body):
-    """
-    Split Q:/A: body into ONE chunk per Q/A pair.
-    Each chunk: [HEADER]\nQ: question\nA: answer
-    """
-    body = fix_malformed_qa(body)
 
-    # Normalize: ensure Q: and A: are on their own lines
+def chunk_qa(header, body):
+    body = fix_malformed_qa(body)
     body = re.sub(r'\s+(?=Q\s*:)', '\n', body)
     body = re.sub(r'\s+(?=A\s*:)', '\n', body)
     body = re.sub(r'\s+(?=Ans\s*:)', '\n', body)
@@ -132,32 +161,22 @@ def chunk_qa(header, body):
     chunks = []
     for part in parts:
         part = part.strip()
-        # Must have both Q and A to be a valid pair
         if len(part) >= 40 and re.search(r'Q\s*:', part, re.IGNORECASE) and \
            re.search(r'(?:A\s*:|Ans\s*:)', part, re.IGNORECASE):
             chunks.append(f"[{header}]\n{part}")
     return chunks
 
+
 def chunk_numbered_qa(header, body):
-    """
-    Split numbered Q&A into ONE chunk per Q/A pair.
-    Handles two formats:
-      a) "1. Question?\nAns: answer"   (space after number)
-      b) "1.Question?\nAns: answer"    (no space — common in pdfplumber output)
-    Each output chunk: [HEADER]\nQ: question\nA: answer
-    """
-    # Normalise Ans: onto its own line
     body = re.sub(r'\s+(?=Ans\s*:)', '\n', body)
     body = re.sub(r'\s+(?=A\s*:)', '\n', body)
 
-    # Split at each numbered item — handles both "1. " and "1."
     parts = re.split(r"(?=\n\d+[\.:]\ *\S)", "\n" + body)
     chunks = []
     for part in parts:
         part = part.strip()
         if len(part) < 20:
             continue
-        # Extract question: strip leading number
         q_m = re.match(r'^\d+[\.:]\ *(.*?)(?=\n(?:Ans|A)\s*:|\Z)', part, re.DOTALL | re.IGNORECASE)
         a_m = re.search(r'(?:Ans|A)\s*:\s*(.+)', part, re.DOTALL | re.IGNORECASE)
         if q_m and a_m:
@@ -168,16 +187,11 @@ def chunk_numbered_qa(header, body):
             if len(q_text) >= 5 and len(a_text) >= 5:
                 chunks.append(f"[{header}]\nQ: {q_text}\nA: {a_text}")
         elif len(part) >= 40:
-            # No clean Q/A split but still meaningful — keep as-is
             chunks.append(f"[{header}]\n{part}")
     return chunks
 
+
 def chunk_numbered_list(header, body):
-    """
-    Split numbered list into ONE chunk per entry.
-    Collapses entire body to one line first to handle
-    PDF layout artifacts, then splits on 'N. Word' pattern.
-    """
     oneline = re.sub(r'\s+', ' ', body).strip()
     positions = [m.start() for m in re.finditer(r'(?=\d+\.\s+[A-Z][a-z])', oneline)]
 
@@ -192,30 +206,12 @@ def chunk_numbered_list(header, body):
             chunks.append(f"[{header}]\n{entry}")
     return chunks
 
+
 def chunk_bullet_entries(header, body):
-    """
-    Split a bullet-point directory into ONE chunk per named entry.
-
-    Handles the POE format:
-        1. Delhi Office
-        • Location: ...
-        • Contact: ...
-        • Jurisdiction: ...
-        2. Rae Bareli Office
-        • Location: ...
-
-    Strategy:
-    1. Collapse body to one line
-    2. Find all "N. Title" positions
-    3. Slice between them → each entry is one chunk
-    """
     oneline = re.sub(r'\s+', ' ', body).strip()
-
-    # Match "N. SomeTitle" where title starts with capital letter
     entry_starts = [m.start() for m in re.finditer(r'(?=\d+\.\s+[A-Z][A-Za-z])', oneline)]
 
     if not entry_starts:
-        # No numbered entries — fall back to bullet-group chunks
         lines = [l.strip() for l in body.split("\n") if l.strip()]
         chunks = []
         block = [f"[{header}]"]
@@ -234,8 +230,8 @@ def chunk_bullet_entries(header, body):
         entry = oneline[start:end].strip()
         if len(entry) >= 40:
             chunks.append(f"[{header}]\n{entry}")
-
     return chunks
+
 
 def chunk_section(header, body):
     qa_count   = len(re.findall(r"^\s*Q\s*:", body, re.MULTILINE | re.IGNORECASE))
@@ -244,39 +240,34 @@ def chunk_section(header, body):
     bullet_cnt = len(re.findall(r"^[•]\s", body, re.MULTILINE))
     o_bullet   = len(re.findall(r"^o\s+", body, re.MULTILINE))
 
-    # ── Numbered FAQ format: "1.What is X?\nAns: answer" ──
-    # Detected when numbered items are questions (end with ?) followed by Ans:
-    # This must be checked BEFORE the generic num_entry path.
     numbered_faq = (
-        ans_count >= 2
-        and num_entry >= 2
+        ans_count >= 2 and num_entry >= 2
         and len(re.findall(r'^\d+[\.:]\s*\w', body, re.MULTILINE)) >= 2
     )
     if numbered_faq and qa_count == 0:
         return chunk_numbered_qa(header, body)
 
-    # ── Mixed body: directory entries + Q&A in the same section ──
-    # Split at the first Q: or "N. Q:" line so both parts are chunked correctly.
     if (qa_count >= 2 or ans_count >= 2) and (num_entry >= 3 or bullet_cnt >= 3):
         qa_split = re.search(r'\n(?=\s*(?:\d+[\.:]\s*)?Q\s*:)', body, re.IGNORECASE)
         if not qa_split:
-            # Also split at first numbered question (e.g. "1.What is")
-            qa_split = re.search(r'\n(?=\s*\d+[\.:]\s*(?:What|How|Is|Are|Can|Does|Who|Why|When|Where)\b)', body, re.IGNORECASE)
+            qa_split = re.search(
+                r'\n(?=\s*\d+[\.:]\s*(?:What|How|Is|Are|Can|Does|Who|Why|When|Where)\b)',
+                body, re.IGNORECASE
+            )
         if qa_split:
             dir_body = body[:qa_split.start()].strip()
             qa_body  = body[qa_split.start():].strip()
-            chunks = []
+            result = []
             if dir_body:
-                chunks.extend(chunk_section(header, dir_body))
+                result.extend(chunk_section(header, dir_body))
             if qa_body:
-                chunks.extend(chunk_section(header, qa_body))
-            return chunks
+                result.extend(chunk_section(header, qa_body))
+            return result
 
     if qa_count > 0:
         return chunk_qa(header, body)
     if ans_count >= 2:
         return chunk_numbered_qa(header, body)
-    # Section has numbered entries AND bullets inside each entry (like POE or FRRO)
     if num_entry >= 3 and (bullet_cnt >= 3 or o_bullet >= 3):
         return chunk_bullet_entries(header, body)
     if num_entry >= 3:
@@ -286,6 +277,7 @@ def chunk_section(header, body):
     if len(body) >= 40:
         return [f"[{header}]\n{body}"]
     return []
+
 
 # ==========================================
 # EMBEDDING
@@ -303,6 +295,7 @@ def get_embedding(text):
         print("Embedding error:", e)
         return None
 
+
 # ==========================================
 # PROCESS PDF
 # ==========================================
@@ -311,6 +304,7 @@ def process_single_pdf(pdf_path):
     print(f"\nProcessing: {pdf_path}")
     os.makedirs("vector_db", exist_ok=True)
 
+    # ── Text extraction and chunking ──
     print("Extracting text...")
     raw_text = extract_full_text(pdf_path)
     print(f"Total chars: {len(raw_text)}")
@@ -332,12 +326,12 @@ def process_single_pdf(pdf_path):
         print("ERROR: No chunks generated")
         return
 
-    # Verify: show first 6 chunks
     print("\n[SAMPLE CHUNKS — verify each is ONE entry]")
     for c in all_chunks[:6]:
         print(f"  >>> {c[:180]}")
         print()
 
+    # ── Embed and save ──
     embeddings, valid_chunks = [], []
     for chunk in all_chunks:
         emb = get_embedding(chunk)
@@ -361,6 +355,11 @@ def process_single_pdf(pdf_path):
         f.write("\n---CHUNK---\n".join(valid_chunks))
 
     print(f"\nDone! {INDEX_FILE}, {CHUNKS_FILE}")
+
+    # ── Vision RAG: extract page images ──
+    print("\nExtracting page images for Vision RAG...")
+    extract_page_images(pdf_path)
+
 
 # ==========================================
 # MAIN

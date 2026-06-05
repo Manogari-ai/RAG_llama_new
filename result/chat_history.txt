@@ -10500,3 +10500,3558 @@ Time Duration: 20.35ms
 Saved Time:
 2026-06-03 12:15:38
 
+
+==================================================
+
+Chatbot
+
+🧑 You: Where can I find official guidelines regarding APIS
+
+🤖 AI:
+You can download the following documents from the official portal: 1. Immigration and Foreigners Rules,2025(967 KB) 2. APIS Guidelines to the Carriers (155 KB) 3. FAQs (181 KB) 4. Time Limit for compliance with APIS(11KB) 5. Stabilization of APIS Data (11 kB)
+
+Time Duration: 22.34ms
+
+Saved Time:
+2026-06-03 12:31:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: major seaports? Who are the jurisdictional  FRROs? in chennai
+
+🤖 AI:
+Jurisdiction is as given below: • FRRO Mumbai: Mumbai, Nhava Sheva (JNPT), and Mormugao (Goa). • FRRO Ahmedabad: Kandla and Mundra. • FRRO Bangalore: New Mangalore. • FRRO Hyderabad: Dhamra (Odisha). • FRRO Chennai: Chennai and Kattupalli. • FRRO Trivandrum: Kovalam-Vizhinjam, Kollam, and Vizhinjam International Seaport. • FRRO Cochin: Cochin Port and Vallarpadam. • FRRO Calicut: Calicut. Authorities for and several Assam river ports (Karimganj, Pandu, Dhubri, Silghat) are currently pending notification.
+
+Time Duration: 21.00ms
+
+Saved Time:
+2026-06-03 12:36:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: The BoI was established in
+
+🤖 AI:
+The BoI was established in 1971.
+
+Time Duration: 20.06ms
+
+Saved Time:
+2026-06-03 12:51:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+What are the limitations for OCI cardholders in India? While OCI holders enjoy many benefits, there are certain restrictions:
+• Voting: You are not entitled to vote in Indian elections.
+• Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures.
+• Employment: You are generally not eligible for appointment to public services or government posts.
+• Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 24.36ms
+
+Saved Time:
+2026-06-03 12:58:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 24.67ms
+
+Saved Time:
+2026-06-03 12:59:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: explansionof oci
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 24.22ms
+
+Saved Time:
+2026-06-03 12:59:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what is oci
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 20.32ms
+
+Saved Time:
+2026-06-03 13:00:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 20.48ms
+
+Saved Time:
+2026-06-03 13:00:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+What are the limitations for OCI cardholders in India? While OCI holders enjoy many benefits, there are certain restrictions:
+• Voting: You are not entitled to vote in Indian elections.
+• Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures.
+• Employment: You are generally not eligible for appointment to public services or government posts.
+• Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 24.59ms
+
+Saved Time:
+2026-06-03 13:01:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 20.69ms
+
+Saved Time:
+2026-06-03 13:02:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+Foreigners registered as OCI cardholders are exempt from the requirement to register with jurisdictional FRROs, regardless of how long they stay in India.
+
+Time Duration: 20.84ms
+
+Saved Time:
+2026-06-03 14:42:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application?
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 23.82ms
+
+Saved Time:
+2026-06-03 14:42:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How many Chief Immigration Officers are there
+
+🤖 AI:
+There are 24 Chief Immigration Officers functioning at Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur, Guwahati, New Jalpaiguri, Dhamra, and Mopa.
+
+Time Duration: 20.47ms
+
+Saved Time:
+2026-06-03 16:51:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: iS BIOMETRICS REQUIRED TO GET TOURIST VISA OF INDIA
+
+🤖 AI:
+The maximum aggregate stay for a foreigner in a single calendar year (whether on a regular Tourist Visa, an e-Tourist Visa, or both) cannot exceed 180 days. Additionally, you must adhere to the specific continuous stay stay-stipulation limit endorsed on your visa upon arrival.
+
+Time Duration: 21.64ms
+
+Saved Time:
+2026-06-03 16:52:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is comissioner of immigration
+
+🤖 AI:
+Under the 2025 regulations of the Bureau of Immigration, all foreign nationals applying for an Indian visa or OCI registration are required to provide biometric information before approval is granted.
+
+Time Duration: 6.73ms
+
+Saved Time:
+2026-06-03 16:56:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is  Commissioner of Immigration
+
+🤖 AI:
+Under the 2025 regulations of the Bureau of Immigration, all foreign nationals applying for an Indian visa or OCI registration are required to provide biometric information before approval is granted.
+
+Time Duration: 5.53ms
+
+Saved Time:
+2026-06-03 16:58:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 20.46ms
+
+Saved Time:
+2026-06-03 17:00:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 20.27ms
+
+Saved Time:
+2026-06-03 17:03:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Foreign seamen joining vessels that operate on international routes (Foreign Run) must be in possession of a Transit Visa.
+
+Time Duration: 30.82ms
+
+Saved Time:
+2026-06-03 17:06:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 20.48ms
+
+Saved Time:
+2026-06-03 17:14:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+No. The X-1 Visa is primarily for visiting and staying with family. If your purpose is professional, you should apply for an Employment or Business Visa, even if you are of Indian origin.
+
+Time Duration: 20.79ms
+
+Saved Time:
+2026-06-03 17:20:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+The Business Visa is for individuals engaging in commercial activities. The sub-categories are: • B-1: For general business activities, including maintenance and repair (MRO) of aircraft or ships. • B-2: For sports persons and coaches on contract with remuneration. • B-3: For cultural or commercial performances (acting, dance, music, etc.). • B-4: Production Investment Business Visa (available only via the e-Visa platform). • B-5 (Conference): For attending international seminars, workshops, or conferences. • B-6 (Film): For shooting feature films, reality TV, web series, or location scouting.
+
+Time Duration: 20.89ms
+
+Saved Time:
+2026-06-03 17:22:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 20.84ms
+
+Saved Time:
+2026-06-03 17:55:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+No. The X-1 Visa is primarily for visiting and staying with family. If your purpose is professional, you should apply for an Employment or Business Visa, even if you are of Indian origin.
+
+Time Duration: 21.42ms
+
+Saved Time:
+2026-06-03 18:08:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 24.29ms
+
+Saved Time:
+2026-06-03 18:36:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 23.79ms
+
+Saved Time:
+2026-06-03 18:37:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 23.88ms
+
+Saved Time:
+2026-06-03 18:37:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+No. A foreign national on a Business Visa is not permitted to take a salary or remuneration in India. If you are intended to be on an Indian payroll or receive a salary locally, you must apply for an Employment Visa instead.
+
+Time Duration: 24.60ms
+
+Saved Time:
+2026-06-03 18:38:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, the attendants who arrive with you are the ones authorized to stay. Changing an attendant while in India is a complex process and is usually only considered in extreme circumstances or emergencies, requiring fresh documentation and approval from the FRRO. Study in India: Student Visa FAQ Q. What kind of visa do I need to study in India? A: If you are pursuing a full-time, structured on-campus course or research at a government-recognized institution, you must obtain a Student Visa. Q. Is there a specific visa for studying Yoga or Indian culture? A: Yes. If you intend to study Yoga, Vedic culture, Indian dance, music, or Buddhist studies at an approved institution, you are required to hold a Student (S-3) Visa. Q. I am coming to India for an internship. Which visa should I apply for? A: Foreigners joining internships at Indian companies, educational institutions, NGOs, or foreign missions must obtain a Student (S-6) Visa.
+
+Time Duration: 23.29ms
+
+Saved Time:
+2026-06-03 18:42:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 25.45ms
+
+Saved Time:
+2026-06-04 10:31:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 24.28ms
+
+Saved Time:
+2026-06-04 10:32:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 24.29ms
+
+Saved Time:
+2026-06-04 10:32:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 24.74ms
+
+Saved Time:
+2026-06-04 10:40:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+The BoI is headed by the Commissioner of Immigration.
+
+Time Duration: 24.10ms
+
+Saved Time:
+2026-06-04 10:40:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 24.77ms
+
+Saved Time:
+2026-06-04 10:54:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 25.08ms
+
+Saved Time:
+2026-06-04 11:17:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 25.12ms
+
+Saved Time:
+2026-06-04 11:17:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 31.63ms
+
+Saved Time:
+2026-06-04 11:17:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 38.33ms
+
+Saved Time:
+2026-06-04 11:18:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+No. If a person of Tibetan origin travels from India using any travel document other than the official Certificate of Identity, they will become ineligible for long-term status in India upon their return.
+
+Time Duration: 33.85ms
+
+Saved Time:
+2026-06-04 11:20:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+No. If a person of Tibetan origin travels from India using any travel document other than the official Certificate of Identity, they will become ineligible for long-term status in India upon their return.
+
+Time Duration: 34.49ms
+
+Saved Time:
+2026-06-04 11:27:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 32.79ms
+
+Saved Time:
+2026-06-04 11:30:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+There are 15 FRROs. They are located in Ahmedabad, Amritsar, Bangalore, Calicut, Chandigarh, Chennai, Cochin, Delhi, Guwahati, Hyderabad, Jaipur, Kolkata, Lucknow, Mumbai, and Trivandrum.
+
+Time Duration: 34.75ms
+
+Saved Time:
+2026-06-04 11:30:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 38.53ms
+
+Saved Time:
+2026-06-04 11:30:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 31.98ms
+
+Saved Time:
+2026-06-04 11:34:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 32.98ms
+
+Saved Time:
+2026-06-04 11:35:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 24.55ms
+
+Saved Time:
+2026-06-04 11:35:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 25.01ms
+
+Saved Time:
+2026-06-04 11:35:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 24.58ms
+
+Saved Time:
+2026-06-04 11:41:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 23.91ms
+
+Saved Time:
+2026-06-04 11:45:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP) at Ahmedabad (Gujarat) is FRRO Ahmedabad. • The controlling authority for the Immigration Check Post (ICP) at Lucknow (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Amritsar (Punjab) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Varanasi (Uttar Pradesh) is FRRO Lucknow. • The controlling authority for the Immigration Check Post (ICP) at Bagdogra (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Bangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Calicut (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Chandigarh (Haryana) is FRRO Amritsar. • The controlling authority for the Immigration Check Post (ICP) at Chennai (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Cochin (Kerala) is FRRO Cochin. • The controlling authority for the Immigration Check Post (ICP) at Coimbatore (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Dabolim (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Delhi (National Capital Territory of Delhi) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Gaya (Bihar) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Guwahati (Assam) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Hyderabad (Telangana) is FRRO Hyderabad. • The controlling authority for the Immigration Check Post (ICP) at Indore (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Jaipur (Rajasthan) is FRRO Delhi. • The controlling authority for the Immigration Check Post (ICP) at Kolkata (West Bengal) is FRRO Kolkata. • The controlling authority for the Immigration Check Post (ICP) at Kannur (Kerala) is FRRO Calicut. • The controlling authority for the Immigration Check Post (ICP) at Mangalore (Karnataka) is FRRO Bangalore. • The controlling authority for the Immigration Check Post (ICP) at Mumbai (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Manohar International Airport, Mopa (Goa) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Nagpur (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Pune (Maharashtra) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Trichy (Tamil Nadu) is FRRO Chennai. • The controlling authority for the Immigration Check Post (ICP) at Trivandrum (Kerala) is FRRO Trivandrum. • The controlling authority for the Immigration Check Post (ICP) at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is FRRO Mumbai. • The controlling authority for the Immigration Check Post (ICP) at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar. • The controlling authority for the Immigration Check Post (ICP) at Madurai (Tamil Nadu) is FRO/SP Madurai. • The controlling authority for the Immigration Check Post (ICP) at Patna (Bihar) is FRO/SP Patna. • The controlling authority for the Immigration Check Post (ICP) at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair. • The controlling authority for the Immigration Check Post (ICP) at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir. • The controlling authority for the Immigration Check Post (ICP) at Surat (Gujarat) is FRO/SP Surat. • The controlling authority for the Immigration Check Post (ICP) at Tirupati (Andhra Pradesh) is FRO/SP Tirupati. • The controlling authority for the Immigration Check Post (ICP) at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam. • The controlling authority for the Immigration Check Post (ICP) at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 23.89ms
+
+Saved Time:
+2026-06-04 11:51:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 27.76ms
+
+Saved Time:
+2026-06-04 12:02:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 23.39ms
+
+Saved Time:
+2026-06-04 12:02:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 23.52ms
+
+Saved Time:
+2026-06-04 12:03:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 27.27ms
+
+Saved Time:
+2026-06-04 12:03:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 23.96ms
+
+Saved Time:
+2026-06-04 12:03:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 24.27ms
+
+Saved Time:
+2026-06-04 12:03:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 24.06ms
+
+Saved Time:
+2026-06-04 12:04:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+Foreigners registered as OCI cardholders are exempt from the requirement to register with jurisdictional FRROs, regardless of how long they stay in India.
+
+Time Duration: 23.08ms
+
+Saved Time:
+2026-06-04 12:04:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application?
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 26.92ms
+
+Saved Time:
+2026-06-04 12:04:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 24.61ms
+
+Saved Time:
+2026-06-04 12:05:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 22.99ms
+
+Saved Time:
+2026-06-04 12:05:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Foreign seamen joining vessels that operate on international routes (Foreign Run) must be in possession of a Transit Visa.
+
+Time Duration: 23.39ms
+
+Saved Time:
+2026-06-04 12:06:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application?
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 26.48ms
+
+Saved Time:
+2026-06-04 12:16:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application?
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 26.91ms
+
+Saved Time:
+2026-06-04 12:17:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 23.54ms
+
+Saved Time:
+2026-06-04 12:17:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 26.98ms
+
+Saved Time:
+2026-06-04 12:17:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Foreign seamen joining vessels that operate on international routes (Foreign Run) must be in possession of a Transit Visa.
+
+Time Duration: 23.69ms
+
+Saved Time:
+2026-06-04 12:17:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Foreign seamen joining vessels that operate on international routes (Foreign Run) must be in possession of a Transit Visa.
+
+Time Duration: 23.54ms
+
+Saved Time:
+2026-06-04 12:33:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 117.56ms
+
+Saved Time:
+2026-06-04 12:33:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 116.62ms
+
+Saved Time:
+2026-06-04 12:33:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 115.42ms
+
+Saved Time:
+2026-06-04 12:34:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application?
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 120.84ms
+
+Saved Time:
+2026-06-04 12:34:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+Yes. The maximum time a foreigner can stay in India on a Tourist or e-Tourist Visa is 180 days total within a single calendar year (January to December). Even if you have a multi-year visa, you must ensure your combined visits don't cross this 180-day threshold.
+
+Time Duration: 115.73ms
+
+Saved Time:
+2026-06-04 12:34:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Permanent Residency  Status
+
+🤖 AI:
+PRS (Permanent Residency Status) is specifically designed for foreign investors looking for long-term stay options.
+
+Time Duration: 17863.08ms
+
+Saved Time:
+2026-06-04 12:37:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 120.20ms
+
+Saved Time:
+2026-06-04 12:40:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+Yes. The maximum time a foreigner can stay in India on a Tourist or e-Tourist Visa is 180 days total within a single calendar year (January to December). Even if you have a multi-year visa, you must ensure your combined visits don't cross this 180-day threshold.
+
+Time Duration: 115.11ms
+
+Saved Time:
+2026-06-04 12:42:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.33ms
+
+Saved Time:
+2026-06-04 12:51:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: hat are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 74.70ms
+
+Saved Time:
+2026-06-04 12:52:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.56ms
+
+Saved Time:
+2026-06-04 12:52:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 79.69ms
+
+Saved Time:
+2026-06-04 12:52:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 80.31ms
+
+Saved Time:
+2026-06-04 12:53:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.37ms
+
+Saved Time:
+2026-06-04 12:53:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 78.65ms
+
+Saved Time:
+2026-06-04 12:53:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 75.46ms
+
+Saved Time:
+2026-06-04 12:54:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can OCI cardholders take entrance exams for Indian  colleges
+
+🤖 AI:
+Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
+
+Time Duration: 79.19ms
+
+Saved Time:
+2026-06-04 12:57:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 79.74ms
+
+Saved Time:
+2026-06-04 13:00:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.38ms
+
+Saved Time:
+2026-06-04 13:01:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 80.71ms
+
+Saved Time:
+2026-06-04 13:06:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.73ms
+
+Saved Time:
+2026-06-04 13:07:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 75.67ms
+
+Saved Time:
+2026-06-04 13:07:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.98ms
+
+Saved Time:
+2026-06-04 13:07:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 138.38ms
+
+Saved Time:
+2026-06-04 13:08:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+0. Hyderabad
+o In-Charge: Sh. Venkata Appala Naidu Chintan, IPS
+o Address: Sardar Vallabhai Patel BoI OCR Complex, Shamshabad-Pahadishareef Road near GMR Township, Mamidipally, Shamshabad, Telangana - 501218
+o Phone: 040-29880374, 040-29880375
+o Email: frrohyd@nic.in
+
+1. Ahmedabad
+o In-Charge: Smt. Sweta Shrimali, IPS
+o Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, Ahmedabad, Gujarat
+o Phone: 079-26306606, 079-26306607 (Fax)
+o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
+
+1. Jaipur
+o In-Charge: Sh. Ramesh Yadav, IPS
+o Address: Plot No 01, Jhalana Doongri, Opposite Aranya Bhawan, Jaipur - 302004
+o Phone: 0141-2950422, 0141-2950423
+o Email: frro.jaipur@gov.in
+
+2. Amritsar
+o In-Charge: Sh. Manjeet Singh
+o Address: 208, Near Govind Park, Basant Avenue, Amritsar, Punjab
+o Phone: 0183-2560464 (T), 0183-2500465 (Fax)
+o Email: frroasr@nic.in
+
+2. Kolkata
+o In-Charge: Ms. Nidhi Rani, IPS
+o Address: 237, A.J.C Bose Road, Kolkata
+o Phone: 033-22900549 (T)
+o Email: frrokol@nic.in
+
+3. Bangalore
+o In-Charge: Sh. Santosh Babu K, IPS
+o Address: 5th Floor, A Block, TTMC, BMTC Bus Stand Building, K.H. Road, Shantinagar, Bangalore - 560027
+o Phone: 080-22218195, 080-22218183, 080-22218110, 080-22218196 (Fax)
+o Email: frroblr-ka@nic.in; ad-frroblr@mha.gov.in (OCI/PIO Enquiries)
+
+3. Lucknow
+o In-Charge: Shri. Harsh Singh, IPS
+o Address: FRRO, 12th Floor Hall, No. 1, Kendriya Bhawan, Sec-H Aliganj, Lucknow
+o Phone: 0522-2432431 (T), 0522-2432430 (Fax), 0522- 2987897 (Visa Services)
+o Email: frrolko@nic.in
+
+4. Calicut
+o In-Charge: Sh. Krishnaraj, IPS
+o Address: 6th floor, Nikarthil Chambers, Opposite Sarvaram Bio Park, Mini Bypass Road, Arayidathupalam, Kozhikode, Kerala - 673004
+o Phone: 0495-2323550, 0495-2320650
+o Email: frro-clt@nic.in; frrocal@nic.in
+
+4. Mumbai
+o In-Charge: Ms. Niyati Thaker Dave, IPS
+o Address: Annex-II Bldg., 3rd Floor, Badruddin Tayyabji Marg, Behind St. Xavier's College, C.S.T, Mumbai - 400001 (beside Times of India building)
+o Phone: 022-22621169 (T), 022-22620721 (Fax), 022- 22620446 (Visa Services), 022-22621167 (PIO/OCI)
+o Email: frromum@nic.in
+
+5. Chandigarh
+o In-Charge: Dr. Deepak Siwach, IPS
+o Address: First Floor, BSNL Telephone Exchange, Sector 37 D, Chandigarh - 160036
+o Phone: 0172-2991498, 0172-2993217, 0172-2991495
+o Email: frrochd.support@mha.gov.in
+
+5. Trivandrum
+o In-Charge: Sh. Aravind Menon, IPS
+o Address: T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022
+o Phone: 0471-2573512 (T), 0471-2573514 (Fax)
+o Email: frrotvm@nic.in
+
+6. Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+7. Cochin
+o In-Charge: Sh. Krishnaraj, IPS
+o Address: 2nd Floor, Airlines Offices Building, Cochin International Airport Ltd., Airport PO, Cochin - 683111
+o Phone: 0484-2611654, 0484-2611652 (Fax/Support)
+o Email: frrococ@nic.in; frrococ-helpdesk@mha.gov.in; oci.frrococ@gov.in (OCI Desk)
+
+8. Delhi
+o In-Charge: Sh. Deepak Yadav, IPS
+o Address: Level-2, East Block-VIII, Sector-1, R.K Puram, New Delhi - 110066
+o Phone: 011-26711384 (T), 011-26711348 (Fax), 011- 26711443/011-26713851 (Support), 011-26184824/011- 26194311 (OCI)
+o Email: frrodli@nic.in; frrodli.support@nic.in
+
+9. Guwahati
+o In-Charge: Sh. Inom Saikia
+o Address: LGBI Airport, Borjhar, Guwahati - 781015
+o Phone: 0361-2841466
+o Email: chioghy-asm@nic.in
+
+Time Duration: 84.29ms
+
+Saved Time:
+2026-06-04 13:08:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+0. Hyderabad
+o In-Charge: Sh. Venkata Appala Naidu Chintan, IPS
+o Address: Sardar Vallabhai Patel BoI OCR Complex, Shamshabad-Pahadishareef Road near GMR Township, Mamidipally, Shamshabad, Telangana - 501218
+o Phone: 040-29880374, 040-29880375
+o Email: frrohyd@nic.in
+
+1. Ahmedabad
+o In-Charge: Smt. Sweta Shrimali, IPS
+o Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, Ahmedabad, Gujarat
+o Phone: 079-26306606, 079-26306607 (Fax)
+o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
+
+1. Jaipur
+o In-Charge: Sh. Ramesh Yadav, IPS
+o Address: Plot No 01, Jhalana Doongri, Opposite Aranya Bhawan, Jaipur - 302004
+o Phone: 0141-2950422, 0141-2950423
+o Email: frro.jaipur@gov.in
+
+2. Amritsar
+o In-Charge: Sh. Manjeet Singh
+o Address: 208, Near Govind Park, Basant Avenue, Amritsar, Punjab
+o Phone: 0183-2560464 (T), 0183-2500465 (Fax)
+o Email: frroasr@nic.in
+
+2. Kolkata
+o In-Charge: Ms. Nidhi Rani, IPS
+o Address: 237, A.J.C Bose Road, Kolkata
+o Phone: 033-22900549 (T)
+o Email: frrokol@nic.in
+
+3. Bangalore
+o In-Charge: Sh. Santosh Babu K, IPS
+o Address: 5th Floor, A Block, TTMC, BMTC Bus Stand Building, K.H. Road, Shantinagar, Bangalore - 560027
+o Phone: 080-22218195, 080-22218183, 080-22218110, 080-22218196 (Fax)
+o Email: frroblr-ka@nic.in; ad-frroblr@mha.gov.in (OCI/PIO Enquiries)
+
+3. Lucknow
+o In-Charge: Shri. Harsh Singh, IPS
+o Address: FRRO, 12th Floor Hall, No. 1, Kendriya Bhawan, Sec-H Aliganj, Lucknow
+o Phone: 0522-2432431 (T), 0522-2432430 (Fax), 0522- 2987897 (Visa Services)
+o Email: frrolko@nic.in
+
+4. Calicut
+o In-Charge: Sh. Krishnaraj, IPS
+o Address: 6th floor, Nikarthil Chambers, Opposite Sarvaram Bio Park, Mini Bypass Road, Arayidathupalam, Kozhikode, Kerala - 673004
+o Phone: 0495-2323550, 0495-2320650
+o Email: frro-clt@nic.in; frrocal@nic.in
+
+4. Mumbai
+o In-Charge: Ms. Niyati Thaker Dave, IPS
+o Address: Annex-II Bldg., 3rd Floor, Badruddin Tayyabji Marg, Behind St. Xavier's College, C.S.T, Mumbai - 400001 (beside Times of India building)
+o Phone: 022-22621169 (T), 022-22620721 (Fax), 022- 22620446 (Visa Services), 022-22621167 (PIO/OCI)
+o Email: frromum@nic.in
+
+5. Chandigarh
+o In-Charge: Dr. Deepak Siwach, IPS
+o Address: First Floor, BSNL Telephone Exchange, Sector 37 D, Chandigarh - 160036
+o Phone: 0172-2991498, 0172-2993217, 0172-2991495
+o Email: frrochd.support@mha.gov.in
+
+5. Trivandrum
+o In-Charge: Sh. Aravind Menon, IPS
+o Address: T.C. 30/1398-3, First Floor, Amrith Plaza, Nalumukku, P.O. Pettah, Thiruvananthapuram - 695022
+o Phone: 0471-2573512 (T), 0471-2573514 (Fax)
+o Email: frrotvm@nic.in
+
+6. Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+7. Cochin
+o In-Charge: Sh. Krishnaraj, IPS
+o Address: 2nd Floor, Airlines Offices Building, Cochin International Airport Ltd., Airport PO, Cochin - 683111
+o Phone: 0484-2611654, 0484-2611652 (Fax/Support)
+o Email: frrococ@nic.in; frrococ-helpdesk@mha.gov.in; oci.frrococ@gov.in (OCI Desk)
+
+8. Delhi
+o In-Charge: Sh. Deepak Yadav, IPS
+o Address: Level-2, East Block-VIII, Sector-1, R.K Puram, New Delhi - 110066
+o Phone: 011-26711384 (T), 011-26711348 (Fax), 011- 26711443/011-26713851 (Support), 011-26184824/011- 26194311 (OCI)
+o Email: frrodli@nic.in; frrodli.support@nic.in
+
+9. Guwahati
+o In-Charge: Sh. Inom Saikia
+o Address: LGBI Airport, Borjhar, Guwahati - 781015
+o Phone: 0361-2841466
+o Email: chioghy-asm@nic.in
+
+Time Duration: 83.13ms
+
+Saved Time:
+2026-06-04 13:11:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 80.08ms
+
+Saved Time:
+2026-06-04 13:11:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 80.40ms
+
+Saved Time:
+2026-06-04 13:11:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide:
+• Passenger and Crew Manifest (Form V).
+• Advance Passenger Information (API): Data including Name,
+Gender, DOB, Nationality, Passport/Visa details, and Flight info.
+• Passenger Name Record (PNR): Comprehensive travel and
+payment data.
+
+Time Duration: 79.11ms
+
+Saved Time:
+2026-06-04 13:12:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 79.17ms
+
+Saved Time:
+2026-06-04 13:12:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 77.05ms
+
+Saved Time:
+2026-06-04 13:12:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: explansionof oci
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 78.15ms
+
+Saved Time:
+2026-06-04 13:12:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 75.99ms
+
+Saved Time:
+2026-06-04 13:13:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 80.02ms
+
+Saved Time:
+2026-06-04 13:13:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 80.00ms
+
+Saved Time:
+2026-06-04 13:13:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 75.99ms
+
+Saved Time:
+2026-06-04 14:26:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 92.74ms
+
+Saved Time:
+2026-06-04 14:57:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 97.11ms
+
+Saved Time:
+2026-06-04 14:57:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 96.77ms
+
+Saved Time:
+2026-06-04 14:57:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 95.28ms
+
+Saved Time:
+2026-06-04 14:57:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 26.39ms
+
+Saved Time:
+2026-06-04 15:00:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 24.55ms
+
+Saved Time:
+2026-06-04 15:02:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 41.65ms
+
+Saved Time:
+2026-06-04 15:02:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 40.53ms
+
+Saved Time:
+2026-06-04 15:03:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 39.94ms
+
+Saved Time:
+2026-06-04 15:03:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 40.54ms
+
+Saved Time:
+2026-06-04 15:03:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 121.27ms
+
+Saved Time:
+2026-06-04 15:07:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 119.61ms
+
+Saved Time:
+2026-06-04 15:07:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 79.74ms
+
+Saved Time:
+2026-06-04 15:19:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 80.31ms
+
+Saved Time:
+2026-06-04 15:19:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 77.16ms
+
+Saved Time:
+2026-06-04 15:20:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: entrance exams for Indian  colleges
+
+🤖 AI:
+Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
+
+Time Duration: 79.59ms
+
+Saved Time:
+2026-06-04 15:32:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: NEET, JEE
+
+🤖 AI:
+Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
+
+Time Duration: 21691.15ms
+
+Saved Time:
+2026-06-04 15:32:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: SPECIAL PERMISSIONS REQUIRED BY OCI CARDHOLDERS
+
+🤖 AI:
+The OCI Cardholders shall be required to obtain a special
+permission or a Special Permit, as the case may be, from the
+competent authority or the Foreigners Regional Registration Officer
+or the Indian Mission concerned, if they intend to undertake the
+following:
+i. Research.
+ii. Any missionary or Tabligh or Mountaineering or Journalistic
+activities;
+iii. Internship in any foreign Diplomatic Missions or foreign
+Government organizations in India or to take up employment in
+any foreign Diplomatic Missions in India;
+iv. To visit any place which falls within the Protected or Restricted
+or Prohibited areas as notified by the Government of India
+Points to remember:
+OCI Cardholders who are staying aboard and intend to visit India for
+Research activities are advised to obtain the Special Permit from the
+concerned Indian Mission abroad before commencing Research in
+India.
+Please visit www.mha.gov.in for more info
+Traveling to India: General Guidelines
+
+Time Duration: 76.54ms
+
+Saved Time:
+2026-06-04 15:33:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Traveling to India: General Guidelines
+
+🤖 AI:
+Similar to Nepalese citizens, Bhutanese nationals traveling directly
+from Bhutan do not have a stay limit and can enter using a
+government-issued photo ID or a passport. If they arrive from a
+country other than Bhutan or India, they must have a valid passport
+and an Indian visa.
+
+Time Duration: 76.24ms
+
+Saved Time:
+2026-06-04 15:33:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Are there specific entry points for Pakistani nationals
+
+🤖 AI:
+Yes. Pakistani nationals arriving by air can only enter India through
+the International Check Posts (ICPs) in Delhi, Mumbai, and
+Chennai.
+
+Time Duration: 76.67ms
+
+Saved Time:
+2026-06-04 15:33:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 80.39ms
+
+Saved Time:
+2026-06-04 15:34:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 77.12ms
+
+Saved Time:
+2026-06-04 15:34:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 78.91ms
+
+Saved Time:
+2026-06-04 15:34:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa
+category - including OCI (Overseas Citizen of India) registration-must
+provide their biometric information to the issuing authority before the
+visa or registration is granted.
+
+Time Duration: 81.84ms
+
+Saved Time:
+2026-06-04 15:34:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 81.23ms
+
+Saved Time:
+2026-06-04 15:39:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 80.70ms
+
+Saved Time:
+2026-06-04 15:39:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa
+category - including OCI (Overseas Citizen of India) registration-must
+provide their biometric information to the issuing authority before the
+visa or registration is granted.
+
+Time Duration: 81.23ms
+
+Saved Time:
+2026-06-04 15:39:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+No. The X-1 Visa is primarily for visiting and staying with family. If
+your purpose is professional, you should apply for an Employment or
+Business Visa, even if you are of Indian origin.
+
+Time Duration: 75.53ms
+
+Saved Time:
+2026-06-04 15:39:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 76.57ms
+
+Saved Time:
+2026-06-04 15:41:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 76.09ms
+
+Saved Time:
+2026-06-04 15:46:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 79.80ms
+
+Saved Time:
+2026-06-04 15:46:16
+
+
+==================================================
+Chatbot
+🧑 You: eta
+🤖 AI:
+You
+can find complete details and access online services at the official OCI
+portal: https://ociservices.gov.in, or by visiting your nearest Indian
+Mission or FRRO.
+Q. Is the OCI card a replacement for my national passport?
+A: No. Your foreign passport remains your primary travel
+document. The OCI card is technically a life-long visa, not a travel
+document itself. You must carry both your valid national passport and
+your OCI card at all times while traveling to or staying in India.
+Time Duration: 27.34ms
+Saved Time: 2026-06-04 16:07:48
+
+==================================================
+Chatbot
+🧑 You: Eta
+🤖 AI:
+You
+can find complete details and access online services at the official OCI
+portal: https://ociservices.gov.in, or by visiting your nearest Indian
+Mission or FRRO.
+Q. Is the OCI card a replacement for my national passport?
+A: No. Your foreign passport remains your primary travel
+document. The OCI card is technically a life-long visa, not a travel
+document itself. You must carry both your valid national passport and
+your OCI card at all times while traveling to or staying in India.
+Time Duration: 27.31ms
+Saved Time: 2026-06-04 16:07:55
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 74.86ms
+
+Saved Time:
+2026-06-04 16:09:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 81.13ms
+
+Saved Time:
+2026-06-04 16:09:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 74.62ms
+
+Saved Time:
+2026-06-04 16:42:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 78.66ms
+
+Saved Time:
+2026-06-04 16:42:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 107.94ms
+
+Saved Time:
+2026-06-04 16:42:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 95.18ms
+
+Saved Time:
+2026-06-04 16:43:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 108.37ms
+
+Saved Time:
+2026-06-04 16:47:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 106.78ms
+
+Saved Time:
+2026-06-04 16:47:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 92.38ms
+
+Saved Time:
+2026-06-04 16:47:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 93.25ms
+
+Saved Time:
+2026-06-04 16:47:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 101.49ms
+
+Saved Time:
+2026-06-04 16:47:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 96.62ms
+
+Saved Time:
+2026-06-04 16:48:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 96.08ms
+
+Saved Time:
+2026-06-04 16:48:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 99.67ms
+
+Saved Time:
+2026-06-04 16:48:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 8.08ms
+
+Saved Time:
+2026-06-04 16:48:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 96.77ms
+
+Saved Time:
+2026-06-04 16:50:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 97.45ms
+
+Saved Time:
+2026-06-04 16:50:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 95.48ms
+
+Saved Time:
+2026-06-04 16:50:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 5.08ms
+
+Saved Time:
+2026-06-04 16:50:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. The maximum time a foreigner can stay in India on a Tourist or e-Tourist Visa is 180 days total within a single calendar year (January to December). Even if you have a multi-year visa, you must ensure your combined visits don't cross this 180-day threshold.
+
+Time Duration: 98.51ms
+
+Saved Time:
+2026-06-04 16:50:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 97.54ms
+
+Saved Time:
+2026-06-04 16:51:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 96.37ms
+
+Saved Time:
+2026-06-04 16:52:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 8.16ms
+
+Saved Time:
+2026-06-04 16:52:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 96.21ms
+
+Saved Time:
+2026-06-04 16:52:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. The maximum time a foreigner can stay in India on a Tourist or e-Tourist Visa is 180 days total within a single calendar year (January to December). Even if you have a multi-year visa, you must ensure your combined visits don't cross this 180-day threshold.
+
+Time Duration: 96.37ms
+
+Saved Time:
+2026-06-04 16:53:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 96.72ms
+
+Saved Time:
+2026-06-04 16:53:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 76.60ms
+
+Saved Time:
+2026-06-04 17:33:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 77.81ms
+
+Saved Time:
+2026-06-04 17:33:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India?
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 77.09ms
+
+Saved Time:
+2026-06-04 17:34:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 80.53ms
+
+Saved Time:
+2026-06-04 17:34:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS
+Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC),
+Nauroji Nagar, New Delhi - 110029
+Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 76.08ms
+
+Saved Time:
+2026-06-04 17:45:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 75.10ms
+
+Saved Time:
+2026-06-04 17:47:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 78.17ms
+
+Saved Time:
+2026-06-04 17:47:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 11.49ms
+
+Saved Time:
+2026-06-04 17:52:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 15.72ms
+
+Saved Time:
+2026-06-04 17:52:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: FRRO Chennai
+
+🤖 AI:
+• The controlling authority for the Immigration Check Post (ICP)
+at Ahmedabad (Gujarat) is FRRO Ahmedabad.
+• The controlling authority for the Immigration Check Post (ICP)
+at Lucknow (Uttar Pradesh) is FRRO Lucknow.
+• The controlling authority for the Immigration Check Post (ICP)
+at Amritsar (Punjab) is FRRO Amritsar.
+• The controlling authority for the Immigration Check Post (ICP)
+at Varanasi (Uttar Pradesh) is FRRO Lucknow.
+• The controlling authority for the Immigration Check Post (ICP)
+at Bagdogra (West Bengal) is FRRO Kolkata.
+• The controlling authority for the Immigration Check Post (ICP)
+at Bangalore (Karnataka) is FRRO Bangalore.
+• The controlling authority for the Immigration Check Post (ICP)
+at Calicut (Kerala) is FRRO Calicut.
+• The controlling authority for the Immigration Check Post (ICP)
+at Chandigarh (Haryana) is FRRO Amritsar.
+• The controlling authority for the Immigration Check Post (ICP)
+at Chennai (Tamil Nadu) is FRRO Chennai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Cochin (Kerala) is FRRO Cochin.
+• The controlling authority for the Immigration Check Post (ICP)
+at Coimbatore (Tamil Nadu) is FRRO Chennai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Dabolim (Goa) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Delhi (National Capital Territory of Delhi) is FRRO Delhi.
+• The controlling authority for the Immigration Check Post (ICP)
+at Gaya (Bihar) is FRRO Kolkata.
+• The controlling authority for the Immigration Check Post (ICP)
+at Guwahati (Assam) is FRRO Kolkata.
+• The controlling authority for the Immigration Check Post (ICP)
+at Hyderabad (Telangana) is FRRO Hyderabad.
+• The controlling authority for the Immigration Check Post (ICP)
+at Indore (Madhya Pradesh) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Jaipur (Rajasthan) is FRRO Delhi.
+• The controlling authority for the Immigration Check Post (ICP)
+at Kolkata (West Bengal) is FRRO Kolkata.
+• The controlling authority for the Immigration Check Post (ICP)
+at Kannur (Kerala) is FRRO Calicut.
+• The controlling authority for the Immigration Check Post (ICP)
+at Mangalore (Karnataka) is FRRO Bangalore.
+• The controlling authority for the Immigration Check Post (ICP)
+at Mumbai (Maharashtra) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Manohar International Airport, Mopa (Goa) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Nagpur (Maharashtra) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Pune (Maharashtra) is FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Trichy (Tamil Nadu) is FRRO Chennai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Trivandrum (Kerala) is FRRO Trivandrum.
+• The controlling authority for the Immigration Check Post (ICP)
+at Raja Bhoj International Airport, Bhopal (Madhya Pradesh) is
+FRRO Mumbai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Bhubaneswar (Odisha) is FRO/SP Bhubaneswar.
+• The controlling authority for the Immigration Check Post (ICP)
+at Madurai (Tamil Nadu) is FRO/SP Madurai.
+• The controlling authority for the Immigration Check Post (ICP)
+at Patna (Bihar) is FRO/SP Patna.
+• The controlling authority for the Immigration Check Post (ICP)
+at Port Blair (Andaman & Nicobar Islands) is FRO/SP Port Blair.
+• The controlling authority for the Immigration Check Post (ICP)
+at Srinagar (Jammu & Kashmir) is FRO/SP Kashmir.
+• The controlling authority for the Immigration Check Post (ICP)
+at Surat (Gujarat) is FRO/SP Surat.
+• The controlling authority for the Immigration Check Post (ICP)
+at Tirupati (Andhra Pradesh) is FRO/SP Tirupati.
+• The controlling authority for the Immigration Check Post (ICP)
+at Visakhapatnam (Andhra Pradesh) is FRO/SP Visakhapatnam.
+• The controlling authority for the Immigration Check Post (ICP)
+at Vijayawada (Andhra Pradesh) is FRO/SP Vijayawada.
+
+Time Duration: 11.83ms
+
+Saved Time:
+2026-06-04 17:53:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 15.50ms
+
+Saved Time:
+2026-06-04 17:53:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 74.58ms
+
+Saved Time:
+2026-06-04 18:02:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals:
+1. T-72 hours
+2. T-24 hours
+3. T-08 hours
+4. T-0 hours (Where T is the scheduled time of arrival in or
+departure from India).
+
+Time Duration: 81.63ms
+
+Saved Time:
+2026-06-04 18:02:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 76.42ms
+
+Saved Time:
+2026-06-04 18:03:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+Q: What if I have a job offer in a safer part of Iraq?
+A: For employment in provinces other than the five listed above, you
+must follow these two mandatory steps:
+1. Register on the e-Migrate portal of the Government of India.
+2. Inform the Embassy of India in Baghdad or the Consulate
+General of India in Erbil before you travel.
+
+Time Duration: 80.35ms
+
+Saved Time:
+2026-06-04 18:03:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 90.90ms
+
+Saved Time:
+2026-06-04 18:16:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 92.07ms
+
+Saved Time:
+2026-06-04 18:16:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 90.73ms
+
+Saved Time:
+2026-06-04 18:16:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 92.37ms
+
+Saved Time:
+2026-06-04 18:16:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+There are 15 FRROs. They are located in Ahmedabad, Amritsar, Bangalore, Calicut, Chandigarh, Chennai, Cochin, Delhi, Guwahati, Hyderabad, Jaipur, Kolkata, Lucknow, Mumbai, and Trivandrum.
+
+Time Duration: 91.01ms
+
+Saved Time:
+2026-06-04 18:16:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 6.47ms
+
+Saved Time:
+2026-06-04 18:29:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 95.96ms
+
+Saved Time:
+2026-06-04 18:29:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.44ms
+
+Saved Time:
+2026-06-04 18:29:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 96.23ms
+
+Saved Time:
+2026-06-04 18:29:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 95.22ms
+
+Saved Time:
+2026-06-04 18:29:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 7.19ms
+
+Saved Time:
+2026-06-05 10:15:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 93.87ms
+
+Saved Time:
+2026-06-05 10:15:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 93.11ms
+
+Saved Time:
+2026-06-05 10:15:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 93.72ms
+
+Saved Time:
+2026-06-05 10:15:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai
+o In-Charge: Sh. P. Ve Arunshakthikumar, IPS
+o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.67ms
+
+Saved Time:
+2026-06-05 10:15:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India?
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.51ms
+
+Saved Time:
+2026-06-05 10:16:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 95.06ms
+
+Saved Time:
+2026-06-05 10:17:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 6.41ms
+
+Saved Time:
+2026-06-05 10:17:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 6.54ms
+
+Saved Time:
+2026-06-05 10:17:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+Medical Certificate format for Visa service
+
+Time Duration: 6.47ms
+
+Saved Time:
+2026-06-05 10:18:14
+
