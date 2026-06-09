@@ -1069,6 +1069,7 @@ def direct_qa_search(query: str) -> str | None:
         return score
 
     # ── 3. Weighted match in QUESTIONS ──────────────────────────────────────
+
     best_q_answer: str | None = None
     best_q_score:  float       = 0.0
     for q_text, a_text in qa_pairs:
@@ -1081,10 +1082,6 @@ def direct_qa_search(query: str) -> str | None:
         if score > best_q_score:
             best_q_score  = score
             best_q_answer = a_text
-
-    if best_q_answer:
-        print(f"[RARE QUESTION MATCH] score={best_q_score:.2f}")
-        return best_q_answer
 
     # ── 4. Weighted match in ANSWERS ────────────────────────────────────────
     best_a_answer: str | None = None
@@ -1100,7 +1097,22 @@ def direct_qa_search(query: str) -> str | None:
             best_a_score  = score
             best_a_answer = a_text
 
-    if best_a_answer:
+    # ── Pick best of Q-match vs A-match ─────────────────────────────────────
+    # Both run fully — then compare scores.
+    # A-match wins if its score is meaningfully higher (×1.2 threshold).
+    # This prevents a weak Q-match ("work" in tourist visa question) from
+    # blocking a strong A-match ("working hours" phrase in the actual answer).
+    if best_q_answer and best_a_answer:
+        if best_a_score >= best_q_score * 1.2:
+            print(f"[RARE ANSWER MATCH] score={best_a_score:.2f} beats Q score={best_q_score:.2f}")
+            return best_a_answer
+        else:
+            print(f"[RARE QUESTION MATCH] score={best_q_score:.2f}")
+            return best_q_answer
+    elif best_q_answer:
+        print(f"[RARE QUESTION MATCH] score={best_q_score:.2f}")
+        return best_q_answer
+    elif best_a_answer:
         print(f"[RARE ANSWER MATCH] score={best_a_score:.2f}")
         return best_a_answer
 

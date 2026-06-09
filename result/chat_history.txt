@@ -21356,3 +21356,453 @@ Time Duration: 943.21ms
 Saved Time:
 2026-06-09 12:09:35
 
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the procedure to be followed if child is born in  India to parents of foreign nationality
+
+🤖 AI:
+Click here for details child born in India click here to contact your jurisdictional FRRO. Contact Details of Bureau of Immigration Headquarters: Support Centre, Bureau of Immigration e-mail ID: support-boi@mha.gov.in (For any queries regarding Immigration, Visa etc) Helpline Number: 011-24300666 Working hours: 0930 Hrs. to 1800 Hrs. IST (Indian Time) (Monday to Friday, except public holidays) Forms
+
+Time Duration: 109.46ms
+
+Saved Time:
+2026-06-09 12:30:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Working hours
+
+🤖 AI:
+Generally, no. Conversion of a Tourist Visa into any other visa type is not permitted while you are inside the country. If your purpose of stay changes, you usually need to leave India and apply for the correct visa category from abroad.
+
+Time Duration: 252.73ms
+
+Saved Time:
+2026-06-09 12:30:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Working hours
+
+🤖 AI:
+Click here for details child born in India click here to contact your jurisdictional FRRO. Contact Details of Bureau of Immigration Headquarters: Support Centre, Bureau of Immigration e-mail ID: support-boi@mha.gov.in (For any queries regarding Immigration, Visa etc) Helpline Number: 011-24300666 Working hours: 0930 Hrs. to 1800 Hrs. IST (Indian Time) (Monday to Friday, except public holidays) Forms
+
+Time Duration: 966.04ms
+
+Saved Time:
+2026-06-09 12:39:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 1006.38ms
+
+Saved Time:
+2026-06-09 12:39:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 1038.20ms
+
+Saved Time:
+2026-06-09 12:40:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 1363.09ms
+
+Saved Time:
+2026-06-09 12:41:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 1510.69ms
+
+Saved Time:
+2026-06-09 12:41:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 883.86ms
+
+Saved Time:
+2026-06-09 12:41:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 1231.24ms
+
+Saved Time:
+2026-06-09 12:41:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 14.79ms
+
+Saved Time:
+2026-06-09 12:42:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 30.97ms
+
+Saved Time:
+2026-06-09 12:42:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 976.88ms
+
+Saved Time:
+2026-06-09 12:42:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 1214.17ms
+
+Saved Time:
+2026-06-09 12:42:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 893.98ms
+
+Saved Time:
+2026-06-09 12:42:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 872.09ms
+
+Saved Time:
+2026-06-09 12:42:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 1102.80ms
+
+Saved Time:
+2026-06-09 12:42:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+You are considered a Foreigner of Indian Origin if you meet one of two criteria: a. You have held an Indian passport at any time in the past. b. You, or any of your parents, grandparents, or great-grandparents, were born in and were permanent residents of India.
+
+Time Duration: 977.96ms
+
+Saved Time:
+2026-06-09 12:42:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Your biometric data remains valid for 10 years from the date it was captured.
+
+Time Duration: 1090.17ms
+
+Saved Time:
+2026-06-09 12:43:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 1426.46ms
+
+Saved Time:
+2026-06-09 12:43:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 3077.64ms
+
+Saved Time:
+2026-06-09 12:43:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I provide my biometrics after arriving in India, or must I do it during the application process
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 1378.75ms
+
+Saved Time:
+2026-06-09 12:43:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the biometric submission requirements for applicants applying from abroad and within India
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 1216.70ms
+
+Saved Time:
+2026-06-09 12:44:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Who is required to provide biometrics, and are there any age-based exemptions
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 1134.38ms
+
+Saved Time:
+2026-06-09 12:44:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When should biometric data be captured for visa registration
+
+🤖 AI:
+Your biometric data remains valid for 10 years from the date it was captured.
+
+Time Duration: 1362.33ms
+
+Saved Time:
+2026-06-09 12:44:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Is biometric enrollment mandatory at the time of application
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 1291.25ms
+
+Saved Time:
+2026-06-09 12:44:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the options for providing biometrics if I am applying from outside India
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 1358.09ms
+
+Saved Time:
+2026-06-09 12:44:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Are children and senior citizens required to submit biometric
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 1259.57ms
+
+Saved Time:
+2026-06-09 12:44:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 74.55ms
+
+Saved Time:
+2026-06-09 12:46:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 87.44ms
+
+Saved Time:
+2026-06-09 12:46:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe jaipur
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 75.19ms
+
+Saved Time:
+2026-06-09 12:46:52
+
