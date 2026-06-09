@@ -15905,3 +15905,5454 @@ Time Duration: 97.71ms
 Saved Time:
 2026-06-05 17:03:51
 
+
+==================================================
+
+Chatbot
+
+🧑 You: The BoI was established
+
+🤖 AI:
+The BoI was established in 1971.
+
+Time Duration: 31.15ms
+
+Saved Time:
+2026-06-08 10:14:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Contact details of Commissioner, Bureau of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 24.87ms
+
+Saved Time:
+2026-06-08 10:14:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Who leads the Bureau of Immigration
+
+🤖 AI:
+The BoI is headed by the Commissioner of Immigration.
+
+Time Duration: 24.37ms
+
+Saved Time:
+2026-06-08 10:14:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How many Immigration Check Posts
+
+🤖 AI:
+There is a total of 114 Immigration Check Posts across India, covering air, sea, land, rail, and river routes to manage international traffic.
+
+Time Duration: 30.35ms
+
+Saved Time:
+2026-06-08 10:16:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 196.08ms
+
+Saved Time:
+2026-06-08 10:16:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Q: What are the rules for Pakistan, Bangladesh, and  Afghanistan nationals?
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 40.61ms
+
+Saved Time:
+2026-06-08 10:52:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 46.39ms
+
+Saved Time:
+2026-06-08 10:53:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 202.94ms
+
+Saved Time:
+2026-06-08 10:55:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 30.51ms
+
+Saved Time:
+2026-06-08 10:59:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 33.25ms
+
+Saved Time:
+2026-06-08 11:00:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 36.02ms
+
+Saved Time:
+2026-06-08 11:05:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 40.58ms
+
+Saved Time:
+2026-06-08 11:07:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 12.53ms
+
+Saved Time:
+2026-06-08 11:19:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What happens to the fee if my application is rejected
+
+🤖 AI:
+If registration is not granted, an amount of USD 250 (or local equivalent) will be refunded. Please note that the processing fee (USD 25 or ₹1400 in India) is non-refundable.
+
+Time Duration: 12.14ms
+
+Saved Time:
+2026-06-08 11:19:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What activities are strictly prohibited on a Visa or OCI
+
+🤖 AI:
+Foreigners (including OCI holders) are strictly prohibited from engaging in religious preaching, making speeches at religious places, distributing religious pamphlets, or engaging in religious conversion activities.
+
+Time Duration: 39.88ms
+
+Saved Time:
+2026-06-08 11:19:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Are there any health requirements for entry?
+
+🤖 AI:
+• Yellow Fever: If you are arriving from or have visited a Yellow Fever endemic country within the last 6 days, you must possess a valid vaccination certificate from an authorized center. • Public Health Emergencies: If arriving from a country with a WHO-declared public health risk, you may be required to undergo medical screening as directed by the Ministry of Health.
+
+Time Duration: 36.88ms
+
+Saved Time:
+2026-06-08 11:19:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Do air crew members need a visa to enter India
+
+🤖 AI:
+Yes. Crew members of scheduled and non-scheduled flights, including chartered and special flights, are generally required to obtain a Business Visa or an e-Business Visa of the appropriate duration.
+
+Time Duration: 34.35ms
+
+Saved Time:
+2026-06-08 11:19:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 6.95ms
+
+Saved Time:
+2026-06-08 11:20:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 7.51ms
+
+Saved Time:
+2026-06-08 11:20:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai email
+
+🤖 AI:
+chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 9.89ms
+
+Saved Time:
+2026-06-08 11:20:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 8.46ms
+
+Saved Time:
+2026-06-08 11:20:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai location
+
+🤖 AI:
+Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 6.41ms
+
+Saved Time:
+2026-06-08 11:20:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 190.55ms
+
+Saved Time:
+2026-06-08 11:21:06
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 201.41ms
+
+Saved Time:
+2026-06-08 11:22:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: I’m just passing through India to another country. Do I
+need a Transit Visa?
+A: Yes, if your sole purpose is to travel through India to a destination
+outside the country, a Transit Visa is required. However, there are
+specific exceptions for air and sea travelers who stay within
+designated areas.
+
+Q: How long is a Transit Visa valid for?
+A: Ordinarily, it is valid for a single journey and must be used for
+entry within 15 days from the date it was issued. Note that its validity
+will never exceed the validity of the visa you hold for your final
+destination country.
+
+Q: How long can I stay in India on a Transit Visa?
+A: A Transit Visa is only for "direct transit." This means each visit
+cannot exceed 3 days. If you plan to stay in India for more than 72
+hours, you must apply for an appropriate visa category (like a Tourist
+Visa).
+Air & Sea Travel Exceptions
+
+Q: I have a layover at an Indian airport. Do I need a visa if I
+don't leave the airport?
+A: You do not need a Transit Visa if you are in direct transit by air and
+remain within the specified precincts of the airport for less than 24
+hours. If your layover exceeds 24 hours, or if you need to leave the
+airport precincts (e.g., to stay at a hotel outside), a Transit Visa is
+required.
+
+Q: I’m traveling by ship. Do I need a visa when we dock at an
+Indian port?
+A: No, a Transit Visa is not required as long as you do not leave the
+ship while it is at the port.
+
+Q: Can I leave my ship to catch a flight from a nearby airport?
+A: Yes, but only with prior approval from the competent authority.
+You must hold a valid ticket for a scheduled air service and will only
+be allowed to leave the ship to proceed directly to the designated
+airport.
+Important Restrictions & Extensions
+
+Q: What happens if I don't travel within the 15-day validity
+period?
+A: If you do not perform your journey through India within the validity
+period of your Transit Visa, the visa will lapse. You will need to apply
+and pay for a fresh Transit Visa.
+
+Q: Can I extend my Transit Visa if my plans change?
+A: Generally, no. Transit Visas are not extendable. Extensions are only
+granted in extreme emergencies, such as medical illness, inclement
+weather, or major strikes/traffic disruptions.
+
+Q: Can I use a Transit Visa to do a quick 4-day tour?
+A: No. If you intend to stay in India for more than 3 days for any
+reason, you must obtain a visa of the appropriate category, such as
+an e-Tourist Visa.
+India Transit Regulations
+
+Q: I have a layover in India. Do I always need a Transit Visa?
+A: Not necessarily. If you are traveling by air and staying inside the
+airport's transit area for less than 24 hours, you do not need a visa.
+However, if your layover is longer than 24 hours or you plan to leave
+the airport, you must have a Transit Visa.
+
+Q: How long can I actually stay in the country on a Transit
+Visa?
+A: A Transit Visa is strictly for short stops. You can stay for a
+maximum of 3 days (72 hours) per visit. If you plan to be in India for
+more than 3 days, you’ll need to apply for a different category, like a
+Tourist Visa.
+
+Q: I am traveling by sea. Do I need a visa when the ship stops
+at an Indian port?
+A: If you stay on board the ship while it is docked, you do not need a
+visa. If you intend to leave the ship to catch a flight, you will need a
+visa and prior approval from the competent authorities to proceed to
+the airport.
+
+Q: How long is the Transit Visa valid once it is issued?
+A: Generally, a Transit Visa is valid for a single journey and must be
+used within 15 days of being issued. Also, keep in mind that its
+validity cannot exceed the validity of the visa you hold for your final
+destination country.
+
+Q: My flight was delayed due to bad weather. Can I extend my
+Transit Visa?
+A: Normally, Transit Visas cannot be extended. However, exceptions
+are made for extreme emergencies such as inclement weather,
+strikes, or medical illness. Outside of these rare cases, the 3-day limit
+is firm.
+
+Q: What happens if I don't use my Transit Visa within the 15-
+day window?
+A: If you don't perform your journey within that period, the visa
+becomes invalid. You cannot renew it; you would have to apply and
+pay for a fresh Transit Visa.
+
+Q: Can I leave the airport to stay at a hotel for two nights on
+this visa?
+A: Yes! As long as your stay is under 3 days, a Transit Visa allows you
+to leave the airport precincts. If your hotel stay or visit exceeds 3
+days, you must obtain an appropriate category visa, such as a Tourist
+Visa, before you arrive.
+
+Time Duration: 200.37ms
+
+Saved Time:
+2026-06-08 11:24:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Foreigners desiring to work in India must arrive on a valid Employment Visa. This is typically reserved for highly skilled or qualified professionals.
+
+Time Duration: 70.66ms
+
+Saved Time:
+2026-06-08 11:38:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Foreigners desiring to work in India must arrive on a valid Employment Visa. This is typically reserved for highly skilled or qualified professionals.
+
+Time Duration: 81.22ms
+
+Saved Time:
+2026-06-08 11:49:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Foreigners desiring to work in India must arrive on a valid Employment Visa. This is typically reserved for highly skilled or qualified professionals.
+
+Time Duration: 76.04ms
+
+Saved Time:
+2026-06-08 12:04:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Yes. Foreign nationals (except Pakistani nationals) who arrive in India on any other type of visa (such as a Business or Student visa) are permitted to engage in activities typically allowed under a Tourist Visa.
+
+Time Duration: 150.19ms
+
+Saved Time:
+2026-06-08 12:07:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 99.85ms
+
+Saved Time:
+2026-06-08 12:14:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is a Transit Visa
+
+🤖 AI:
+The TR Visa is solely for the purpose of traveling through India to reach a final destination in another country.
+
+Time Duration: 79.48ms
+
+Saved Time:
+2026-06-08 12:15:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What documents do I need if I apply within India
+
+🤖 AI:
+In addition to the standard forms, you must provide: • A copy of a long-duration visa (not a Tourist, Missionary, or Mountaineering visa) that has at least 3 months of validity remaining. • Your Registration Certificate (RC/RP) issued by the FRRO/FRO.
+
+Time Duration: 71.18ms
+
+Saved Time:
+2026-06-08 12:15:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 80.80ms
+
+Saved Time:
+2026-06-08 12:15:57
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 80.06ms
+
+Saved Time:
+2026-06-08 12:18:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 80.02ms
+
+Saved Time:
+2026-06-08 12:25:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 172.35ms
+
+Saved Time:
+2026-06-08 12:30:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 8.52ms
+
+Saved Time:
+2026-06-08 12:39:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Q: Do I need to provide biometrics when applying for an
+Indian visa?
+A: Yes. Under the 2025 Order, every foreigner applying for any visa
+category - including OCI (Overseas Citizen of India) registration-must
+provide their biometric information to the issuing authority before the
+visa or registration is granted.
+
+Q: Who can collect my biometrics while I am in India?
+A: If you are identified as a foreigner while in India, you may be
+required to provide biometrics on the Central Government's electronic
+portal by any of the following authorities:
+• Specified State or Union Territory authorities.
+• Civil authorities or Registration Officers.
+• Immigration Officers.
+• Border Guarding Forces or the Coast Guard.
+
+Q: How long is my captured biometric information valid?
+A: Your biometric data remains valid for 10 years from the date it was
+captured.
+
+Q: What if I have poor fingerprints or missing fingers?
+A: The regulations provide the following exemptions:
+• Poor/No Fingerprints: You are exempt from fingerprinting;
+however, your facial traits or iris scan will be captured instead.
+• Missing Fingers: If you have fewer than ten fingers, you are only
+required to provide fingerprints for your existing fingers.
+
+Q: Where can I find the technical specifications for these
+biometrics?
+A: Biometrics are captured according to specifications set by the
+Central Government, which may be updated periodically. For the most
+current technical details, please visit the Ministry of Home Affairs
+website at www.mha.gov.in.
+
+Time Duration: 375.52ms
+
+Saved Time:
+2026-06-08 12:39:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+The BoI oversees registration services and visa-related formalities for foreign nationals residing in India, ensuring all activities comply with the relevant Acts, Rules, and Regulations.
+
+Time Duration: 147.02ms
+
+Saved Time:
+2026-06-08 12:44:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Q: What is an Overseas Citizen of India (OCI) Cardholder?
+A:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 364.66ms
+
+Saved Time:
+2026-06-08 12:51:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Q: What is an Overseas Citizen of India (OCI) Cardholder?
+A:
+An OCI Cardholder is a foreign national who is officially registered by
+the Government of India under Section 7A of The Citizenship
+(Amendment) Act, 2015. The scheme was created to help the Indian
+Diaspora maintain a strong connection with India through benefits
+like hassle-free travel and a friendly investment regime.
+
+Time Duration: 482.88ms
+
+Saved Time:
+2026-06-08 12:52:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 450.43ms
+
+Saved Time:
+2026-06-08 12:52:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 360.06ms
+
+Saved Time:
+2026-06-08 12:52:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+If you are coming to India for a job or to work with an NGO, you would apply for an Employment Visa. This includes both standard company hires and intra-company transferees.
+
+Time Duration: 362.79ms
+
+Saved Time:
+2026-06-08 12:53:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 545.88ms
+
+Saved Time:
+2026-06-08 12:59:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 615.95ms
+
+Saved Time:
+2026-06-08 12:59:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 10.22ms
+
+Saved Time:
+2026-06-08 12:59:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 377.89ms
+
+Saved Time:
+2026-06-08 12:59:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 66.36ms
+
+Saved Time:
+2026-06-08 14:31:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 164.54ms
+
+Saved Time:
+2026-06-08 14:31:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 90.26ms
+
+Saved Time:
+2026-06-08 14:31:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 160.02ms
+
+Saved Time:
+2026-06-08 14:31:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 36.23ms
+
+Saved Time:
+2026-06-08 14:31:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 42.11ms
+
+Saved Time:
+2026-06-08 14:31:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro phone
+
+🤖 AI:
+079-26306606, 079-26306607 (Fax) o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
+
+Time Duration: 33.47ms
+
+Saved Time:
+2026-06-08 14:31:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+You should apply for a Tourist Visa if your sole objective for visiting India is: • Recreation or sightseeing. • A casual visit to meet friends or relatives. • Attending a short-term yoga program (up to 6 months). • Short-duration medical treatment (including Indian systems of medicine).
+
+Time Duration: 184.14ms
+
+Saved Time:
+2026-06-08 14:32:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Which visa should I apply for if I need medical treatment
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 5.53ms
+
+Saved Time:
+2026-06-08 14:49:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Miscellaneous
+
+🤖 AI:
+These are for specific circumstances: • X-1: For Persons of Indian Origin (PIO) and their foreign spouses/children. • X-2: For those joining approved organizations like Auroville, Aurobindo Ashram, or Buddhist Monasteries. • X-4: A specific stay visa for Afghan Nationals. • X-Misc: For any legitimate purpose not covered by other categories.
+
+Time Duration: 83.59ms
+
+Saved Time:
+2026-06-08 14:49:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+1. How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+2. Do I need to visit the FRRO with hard copies? Yes. After you have submitted your application online, you are required to bring the original versions of all uploaded documents to the concerned FRRO for physical verification.
+
+3. Is a personal interview mandatory? If you are applying for a new OCI registration, a personal interview is mandatory. However, children below the age of 12 years are exempt from this requirement.
+
+4. When do I provide my biometrics?
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage.
+• Applying in India: Biometrics must be captured at the application stage at the FRRO.
+• Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+5. Can I collect my OCI card through someone else? Yes. You can collect it in person or send an authorized representative with your passport. However, if a representative collects it, you must be physically present in the country where the OCI card is being issued at the time of collection.
+
+6. What happens to the fee if my application is rejected? If registration is not granted, an amount of USD 250 (or local equivalent) will be refunded. Please note that the processing fee (USD 25 or ₹1400 in India) is non-refundable.
+
+7. Does an OCI cardholder lose their original citizenship? No. Registering as an OCI cardholder does not affect your current foreign citizenship.
+
+8. What are the limitations for OCI cardholders in India? While OCI holders enjoy many benefits, there are certain restrictions:
+• Voting: You are not entitled to vote in Indian elections.
+• Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures.
+• Employment: You are generally not eligible for appointment to public services or government posts.
+• Property: You cannot acquire agricultural or plantation properties in India.
+
+9. Can OCI cardholders take entrance exams for Indian colleges? Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
+
+Time Duration: 189.71ms
+
+Saved Time:
+2026-06-08 14:50:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+1. How do I submit my OCI application? Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+2. Do I need to visit the FRRO with hard copies? Yes. After you have submitted your application online, you are required to bring the original versions of all uploaded documents to the concerned FRRO for physical verification.
+
+3. Is a personal interview mandatory? If you are applying for a new OCI registration, a personal interview is mandatory. However, children below the age of 12 years are exempt from this requirement.
+
+4. When do I provide my biometrics?
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage.
+• Applying in India: Biometrics must be captured at the application stage at the FRRO.
+• Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+5. Can I collect my OCI card through someone else? Yes. You can collect it in person or send an authorized representative with your passport. However, if a representative collects it, you must be physically present in the country where the OCI card is being issued at the time of collection.
+
+6. What happens to the fee if my application is rejected? If registration is not granted, an amount of USD 250 (or local equivalent) will be refunded. Please note that the processing fee (USD 25 or ₹1400 in India) is non-refundable.
+
+7. Does an OCI cardholder lose their original citizenship? No. Registering as an OCI cardholder does not affect your current foreign citizenship.
+
+8. What are the limitations for OCI cardholders in India? While OCI holders enjoy many benefits, there are certain restrictions:
+• Voting: You are not entitled to vote in Indian elections.
+• Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures.
+• Employment: You are generally not eligible for appointment to public services or government posts.
+• Property: You cannot acquire agricultural or plantation properties in India.
+
+9. Can OCI cardholders take entrance exams for Indian colleges? Yes. You are eligible for national entrance tests like NEET, JEE (Mains/Advanced), and others. However, you are not eligible for admission to seats reserved exclusively for Indian citizens.
+
+Time Duration: 251.58ms
+
+Saved Time:
+2026-06-08 14:51:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 429.03ms
+
+Saved Time:
+2026-06-08 14:53:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+Q: When should Advance Passenger Information (API) be
+submitted?
+A:
+• Arrivals to India: Within 15 minutes of "wheels-off" from the
+port of embarkation outside India.
+• Departures from India: Immediately after boarding is closed
+or "wheels-off" within India.
+• Format required: UNEDIFACT-PAXLST.
+
+Time Duration: 200.12ms
+
+Saved Time:
+2026-06-08 14:53:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Q: What are the major seaports? Who are the jurisdictional
+FRROs?
+A: Jurisdiction is as given below:
+• FRRO Mumbai: Mumbai, Nhava Sheva (JNPT), and Mormugao
+(Goa).
+• FRRO Ahmedabad: Kandla and Mundra.
+• FRRO Bangalore: New Mangalore.
+• FRRO Hyderabad: Dhamra (Odisha).
+• FRRO Chennai: Chennai and Kattupalli.
+• FRRO Trivandrum: Kovalam-Vizhinjam, Kollam, and
+Vizhinjam International Seaport.
+• FRRO Cochin: Cochin Port and Vallarpadam.
+• FRRO Calicut: Calicut.
+Authorities for and several Assam river ports (Karimganj, Pandu,
+Dhubri, Silghat) are currently pending notification.
+
+Time Duration: 258.58ms
+
+Saved Time:
+2026-06-08 14:55:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 234.57ms
+
+Saved Time:
+2026-06-08 14:55:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (
+
+Time Duration: 220.41ms
+
+Saved Time:
+2026-06-08 14:56:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Kattupalli.
+
+🤖 AI:
+Q: What are the major seaports? Who are the jurisdictional
+FRROs?
+A: Jurisdiction is as given below:
+• FRRO Mumbai: Mumbai, Nhava Sheva (JNPT), and Mormugao
+(Goa).
+• FRRO Ahmedabad: Kandla and Mundra.
+• FRRO Bangalore: New Mangalore.
+• FRRO Hyderabad: Dhamra (Odisha).
+• FRRO Chennai: Chennai and Kattupalli.
+• FRRO Trivandrum: Kovalam-Vizhinjam, Kollam, and
+Vizhinjam International Seaport.
+• FRRO Cochin: Cochin Port and Vallarpadam.
+• FRRO Calicut: Calicut.
+Authorities for and several Assam river ports (Karimganj, Pandu,
+Dhubri, Silghat) are currently pending notification.
+
+Time Duration: 260.50ms
+
+Saved Time:
+2026-06-08 14:56:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+Q: Which visa should I apply for if I need medical treatment?
+A:
+• M-1: For general medical treatment (excluding Ayush).
+• M-3: Specifically for treatment under Ayush systems
+(Ayurveda, Yoga, etc.).
+• M-2 & M-4: For Medical Attendants accompanying patients
+on M-1 or M-3 visas, respectively.
+
+Time Duration: 239.70ms
+
+Saved Time:
+2026-06-08 14:57:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: Are there any tax obligations?
+A: Yes. Every foreign national conducting business in India is required
+to comply with all Indian taxation rules and regulations pertaining to
+their business activities.
+Quick Checklist for Business Visitors
+• Primary Purpose: Business set-up, meetings, or commercial
+sports.
+• Payment Rule: No Indian salary permitted (use Employment
+Visa for salary).
+• Stay Limit: Register with FRRO if staying over 180 days in a
+year.
+• Extension Bar: Must meet the ₹1 crore annual turnover
+requirement.
+Here is the information regarding Medical and Medical Attendant visas
+in India, structured into a conversational Q&A format for a chatbot.
+Medical Treatment & Attendant Visa FAQ
+
+Time Duration: 223.78ms
+
+Saved Time:
+2026-06-08 14:57:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Q: Are there any tax obligations?
+A: Yes. Every foreign national conducting business in India is required
+to comply with all Indian taxation rules and regulations pertaining to
+their business activities.
+Quick Checklist for Business Visitors
+• Primary Purpose: Business set-up, meetings, or commercial
+sports.
+• Payment Rule: No Indian salary permitted (use Employment
+Visa for salary).
+• Stay Limit: Register with FRRO if staying over 180 days in a
+year.
+• Extension Bar: Must meet the ₹1 crore annual turnover
+requirement.
+Here is the information regarding Medical and Medical Attendant visas
+in India, structured into a conversational Q&A format for a chatbot.
+Medical Treatment & Attendant Visa FAQ
+
+Time Duration: 265.52ms
+
+Saved Time:
+2026-06-08 14:59:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 69.55ms
+
+Saved Time:
+2026-06-08 15:11:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2917.65ms
+
+Saved Time:
+2026-06-08 15:15:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 898.68ms
+
+Saved Time:
+2026-06-08 15:15:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 197.55ms
+
+Saved Time:
+2026-06-08 15:15:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 810.31ms
+
+Saved Time:
+2026-06-08 15:15:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 213.91ms
+
+Saved Time:
+2026-06-08 15:15:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 882.91ms
+
+Saved Time:
+2026-06-08 15:15:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 70.69ms
+
+Saved Time:
+2026-06-08 15:15:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Hadd
+
+Time Duration: 66.52ms
+
+Saved Time:
+2026-06-08 15:16:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (
+
+Time Duration: 72.71ms
+
+Saved Time:
+2026-06-08 15:16:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Hadd
+
+Time Duration: 68.59ms
+
+Saved Time:
+2026-06-08 15:18:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Hadd
+
+Time Duration: 62.55ms
+
+Saved Time:
+2026-06-08 15:18:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro address
+
+🤖 AI:
+Ahmedabad o In-Charge: Smt. Sweta Shrimali, IPS o Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, Ahmedabad, Gujarat o Phone: 079-26306606, 079-26306607 (Fax) o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
+
+Time Duration: 71.67ms
+
+Saved Time:
+2026-06-08 15:21:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 73.09ms
+
+Saved Time:
+2026-06-08 15:21:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 65.32ms
+
+Saved Time:
+2026-06-08 15:21:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 80.26ms
+
+Saved Time:
+2026-06-08 15:21:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 79.90ms
+
+Saved Time:
+2026-06-08 15:24:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries)
+
+Time Duration: 68.72ms
+
+Saved Time:
+2026-06-08 15:24:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006
+
+Time Duration: 70.23ms
+
+Saved Time:
+2026-06-08 15:24:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai in-incharge
+
+🤖 AI:
+Sh. P. Ve Arunshakthikumar, IPS
+
+Time Duration: 80.54ms
+
+Saved Time:
+2026-06-08 15:25:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 65.74ms
+
+Saved Time:
+2026-06-08 15:25:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe location
+
+🤖 AI:
+Delhi Office • Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001. • Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in • Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+Time Duration: 67.24ms
+
+Saved Time:
+2026-06-08 15:25:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai location
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 62.67ms
+
+Saved Time:
+2026-06-08 15:25:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai location
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 63.21ms
+
+Saved Time:
+2026-06-08 15:26:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai contact
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 64.85ms
+
+Saved Time:
+2026-06-08 15:26:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai contact
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 69.61ms
+
+Saved Time:
+2026-06-08 15:30:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai Jurisdiction
+
+🤖 AI:
+Tamil Nadu and Puducherry.
+
+Time Duration: 74.04ms
+
+Saved Time:
+2026-06-08 15:30:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai contact
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 71.61ms
+
+Saved Time:
+2026-06-08 15:30:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai Contact
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 63.72ms
+
+Saved Time:
+2026-06-08 15:30:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai email
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 65.74ms
+
+Saved Time:
+2026-06-08 15:31:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai email
+
+🤖 AI:
+chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 67.44ms
+
+Saved Time:
+2026-06-08 15:31:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 70.83ms
+
+Saved Time:
+2026-06-08 15:31:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 67.02ms
+
+Saved Time:
+2026-06-08 15:31:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 74.66ms
+
+Saved Time:
+2026-06-08 15:37:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (
+
+Time Duration: 80.25ms
+
+Saved Time:
+2026-06-08 15:38:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai contact
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 67.58ms
+
+Saved Time:
+2026-06-08 15:41:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 77.28ms
+
+Saved Time:
+2026-06-08 15:41:19
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai
+
+🤖 AI:
+Chennai Office • Location: Rayala Towers, Tower 2, 4th Floor, Anna Salai, Chennai-600078. • Contact: 044-29862069 | poechennai1@mea.gov.in • Jurisdiction: Tamil Nadu and Puducherry.
+
+Time Duration: 64.30ms
+
+Saved Time:
+2026-06-08 15:41:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai Contact
+
+🤖 AI:
+044-29862069 | poechennai1@mea.gov.in •
+
+Time Duration: 70.32ms
+
+Saved Time:
+2026-06-08 15:41:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe chennai Jurisdiction
+
+🤖 AI:
+Tamil Nadu and Puducherry.
+
+Time Duration: 76.61ms
+
+Saved Time:
+2026-06-08 15:42:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the FTI-TTP program mentioned on the website
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 827.33ms
+
+Saved Time:
+2026-06-08 15:42:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the FTI-TTP program mentioned on the website
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 883.84ms
+
+Saved Time:
+2026-06-08 15:47:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the FTI-TTP program mentioned on the website
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 878.41ms
+
+Saved Time:
+2026-06-08 15:51:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How can I check my travel history if my passport isn't stamped
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 38.72ms
+
+Saved Time:
+2026-06-08 15:52:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: In case I reach the Departure Immigration Counter few  hours after the expiry of my Visa, will I be allowed to depart  from India on that Visa
+
+🤖 AI:
+It may be considered on case to case basis by the Immigration Authorities.
+
+Time Duration: 48.64ms
+
+Saved Time:
+2026-06-08 15:53:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How can I check my travel history if my passport isn't stamped
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 46.64ms
+
+Saved Time:
+2026-06-08 15:54:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the FTI-TTP program mentioned on the website
+
+🤖 AI:
+You can view your arrival and departure details online. Simply log in to your Fast Track Immigration (FTI-TTP) profile on the official website: ftittp.mha.gov.in. Q5: What is the FTI-TTP program mentioned on the website? A: It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 853.40ms
+
+Saved Time:
+2026-06-08 15:54:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: I used an e-Gate at the airport, but my passport wasn't  stamped. Is this a problem
+
+🤖 AI:
+No, it’s perfectly normal! If you use the automated e-Gates (part of the Fast Track Immigration program), the system processes your clearance digitally. Your passport will not receive a physical ink stamp.
+
+Time Duration: 50.35ms
+
+Saved Time:
+2026-06-08 15:54:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the consequences of visiting these areas without  a permit
+
+🤖 AI:
+Visiting a Restricted or Protected area without a valid permit is a serious legal offense. Under the Immigration and Foreigners Act, 2025, strict action will be taken against anyone found in violation of these security protocols.
+
+Time Duration: 46.98ms
+
+Saved Time:
+2026-06-08 15:54:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is an ETA?
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 27.91ms
+
+Saved Time:
+2026-06-08 15:55:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the difference between “ETA Expiry date” and “Visa  Expiry Date
+
+🤖 AI:
+ETA expiry date is the last date allowing bearer access into India. Visa Expiry Date is the last date permitted for the stay of foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 63.80ms
+
+Saved Time:
+2026-06-08 15:55:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: difference between “ETA Expiry date” and “Visa  Expiry Date”
+
+🤖 AI:
+ETA expiry date is the last date allowing bearer access into India. Visa Expiry Date is the last date permitted for the stay of foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 203.58ms
+
+Saved Time:
+2026-06-08 15:55:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 212.97ms
+
+Saved Time:
+2026-06-08 15:55:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 814.00ms
+
+Saved Time:
+2026-06-08 15:55:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2909.19ms
+
+Saved Time:
+2026-06-08 15:55:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: explansionof oci
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 848.08ms
+
+Saved Time:
+2026-06-08 15:56:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 842.13ms
+
+Saved Time:
+2026-06-08 15:56:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 875.29ms
+
+Saved Time:
+2026-06-08 15:59:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 831.87ms
+
+Saved Time:
+2026-06-08 15:59:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 807.39ms
+
+Saved Time:
+2026-06-08 16:03:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 830.40ms
+
+Saved Time:
+2026-06-08 16:08:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 863.91ms
+
+Saved Time:
+2026-06-08 16:09:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 859.79ms
+
+Saved Time:
+2026-06-08 16:09:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 854.06ms
+
+Saved Time:
+2026-06-08 16:15:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 1194.89ms
+
+Saved Time:
+2026-06-08 16:17:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 880.81ms
+
+Saved Time:
+2026-06-08 16:20:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 759.28ms
+
+Saved Time:
+2026-06-08 16:23:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 874.03ms
+
+Saved Time:
+2026-06-08 16:26:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 859.78ms
+
+Saved Time:
+2026-06-08 16:32:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I visit any part of India with my OCI card?
+
+🤖 AI:
+A: Generally yes, but OCI cardholders must obtain a Protected Area Permit (PAP) or Restricted Area Permit (RAP) to visit any location designated as a Protected or Restricted Area by the Government of India.
+
+Time Duration: 17.50ms
+
+Saved Time:
+2026-06-08 16:36:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 857.14ms
+
+Saved Time:
+2026-06-08 16:36:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 43.81ms
+
+Saved Time:
+2026-06-08 16:42:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Is a personal interview mandatory
+
+🤖 AI:
+If you are applying for a new OCI registration, a personal interview is mandatory. However, children below the age of 12 years are exempt from this requirement.
+
+Time Duration: 12.28ms
+
+Saved Time:
+2026-06-08 16:43:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the mandatory arrival procedure for foreigners
+
+🤖 AI:
+You must complete and submit an e-Arrival card online within 72 hours before arrival via https://indianvisaonline.gov.in/earrival or the official "Indian Visa Su-Swagatam" mobile app.
+
+Time Duration: 19.44ms
+
+Saved Time:
+2026-06-08 16:43:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Is it possible to work for two different Indian companies  at the same time
+
+🤖 AI:
+No. Foreigners are prohibited from working for more than one company simultaneously on an Employment Visa.
+
+Time Duration: 298.48ms
+
+Saved Time:
+2026-06-08 16:43:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: I’m a professional and I've been offered a job in India.  What visa should I apply for
+
+🤖 AI:
+You must comply with all Indian legal requirements, including meeting the minimum salary threshold and fulfilling all tax liabilities. Q1: I’m a professional and I've been offered a job in India. What visa should I apply for? A: You should apply for an Employment Visa. This visa is specifically for highly skilled or qualified professionals who have been appointed by an Indian company or a foreign firm working on a project in India. Q2: I want to volunteer at an NGO in India. Is there a specific visa for that? A: Yes, even for voluntary work, you need an Employment (E-3) Visa. This applies whether you are working for free or receiving a small honorarium (which is capped at Rs. 10,000 per month). Q3: If I own the majority of shares in a company I’m starting in India, do I still need an Employment Visa? A: No, in that case, you should enter on a Business Visa. If you are a promoter or a majority shareholder/owner of a company, the Business Visa is the correct category for your entry. Q4: Can I switch to a different company while I’m already in India on an Employment Visa? A: Unfortunately, no. You aren't allowed to change employers while your current visa is active. If you decide to take a job with a different company, you must leave India and apply for a fresh Employment Visa under your new employer. Q5: Is it possible to work for two different Indian companies at the same time? A: No, that is not permitted. Under the terms of an Employment Visa, you are only allowed to work for one company at a time. Q6: Are there any specific salary requirements I should know about? A: Yes, generally you must earn a gross salary of more than Rs. 16.25 lakhs per year to qualify for an Employment Visa. However, the government does exempt certain sectors from this rule from time to time, so it's worth checking if your specific industry is on that list. Q7: What do I need to do if I quit my job or my contract ends? A: If you discontinue your employment, you (or your employer) must inform the concerned FRRO/FRO office. Additionally, you are responsible for ensuring all legal requirements are met before you leave, such as paying your final tax liabilities.
+
+Time Duration: 962.44ms
+
+Saved Time:
+2026-06-08 16:43:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: I want to volunteer at an NGO in India. Is there a specific  visa for that
+
+🤖 AI:
+Yes, even for voluntary work, you need an Employment (E-3) Visa. This applies whether you are working for free or receiving a small honorarium (which is capped at Rs. 10,000 per month).
+
+Time Duration: 102.26ms
+
+Saved Time:
+2026-06-08 16:46:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What do I need to do if I quit my job or my contract ends
+
+🤖 AI:
+If you discontinue your employment, you (or your employer) must inform the concerned FRRO/FRO office. Additionally, you are responsible for ensuring all legal requirements are met before you leave, such as paying your final tax liabilities.
+
+Time Duration: 42.24ms
+
+Saved Time:
+2026-06-08 16:46:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: I’m just passing through India to another country. Do I  need a Transit Visa?
+
+🤖 AI:
+Yes, if your sole purpose is to travel through India to a destination outside the country, a Transit Visa is required. However, there are specific exceptions for air and sea travelers who stay within designated areas.
+
+Time Duration: 130.27ms
+
+Saved Time:
+2026-06-08 16:46:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: I have a layover in India. Do I always need a Transit Visa
+
+🤖 AI:
+Not necessarily. If you are traveling by air and staying inside the airport's transit area for less than 24 hours, you do not need a visa. However, if your layover is longer than 24 hours or you plan to leave the airport, you must have a Transit Visa.
+
+Time Duration: 47.14ms
+
+Saved Time:
+2026-06-08 16:46:36
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the FTI-TTP program mentioned on the website
+
+🤖 AI:
+It stands for the Fast Track Immigration – Trusted Traveller Programme. It’s a government initiative that allows pre-verified Indian nationals and OCI cardholders to use biometric e-gates for faster, contactless immigration clearance.
+
+Time Duration: 54.89ms
+
+Saved Time:
+2026-06-08 16:46:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is the difference between “ETA Expiry date” and “Visa  Expiry Date
+
+🤖 AI:
+ETA expiry date is the last date allowing bearer access into India. Visa Expiry Date is the last date permitted for the stay of foreigner in India subjected to any stay stipulation applicable.
+
+Time Duration: 87.02ms
+
+Saved Time:
+2026-06-08 16:47:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What is an ETA
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 42.82ms
+
+Saved Time:
+2026-06-08 16:47:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 231.66ms
+
+Saved Time:
+2026-06-08 16:47:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 888.67ms
+
+Saved Time:
+2026-06-08 16:47:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 244.70ms
+
+Saved Time:
+2026-06-08 16:47:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 828.45ms
+
+Saved Time:
+2026-06-08 16:47:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 87.59ms
+
+Saved Time:
+2026-06-08 16:47:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 87.61ms
+
+Saved Time:
+2026-06-08 16:47:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro bangalore
+
+🤖 AI:
+Bangalore o In-Charge: Sh. Santosh Babu K, IPS o Address: 5th Floor, A Block, TTMC, BMTC Bus Stand Building, K.H. Road, Shantinagar, Bangalore - 560027 o Phone: 080-22218195, 080-22218183, 080-22218110, 080-22218196 (Fax) o Email: frroblr-ka@nic.in; ad-frroblr@mha.gov.in (OCI/PIO Enquiries)
+
+Time Duration: 80.58ms
+
+Saved Time:
+2026-06-08 16:47:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe jaipur
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 84.03ms
+
+Saved Time:
+2026-06-08 16:48:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe location
+
+🤖 AI:
+ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001. •
+
+Time Duration: 79.82ms
+
+Saved Time:
+2026-06-08 16:48:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe jaipur location
+
+🤖 AI:
+CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. •
+
+Time Duration: 89.22ms
+
+Saved Time:
+2026-06-08 16:48:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2982.11ms
+
+Saved Time:
+2026-06-08 16:48:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 18.06ms
+
+Saved Time:
+2026-06-08 16:48:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what is oci
+
+🤖 AI:
+No. Staying in India without a valid passport is illegal, even for OCI cardholders. You must ensure your foreign passport is valid throughout the duration of your stay in the country.
+
+Time Duration: 241.27ms
+
+Saved Time:
+2026-06-08 16:49:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 275.93ms
+
+Saved Time:
+2026-06-08 16:50:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 29.77ms
+
+Saved Time:
+2026-06-08 16:50:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 18.48ms
+
+Saved Time:
+2026-06-08 16:51:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 263.06ms
+
+Saved Time:
+2026-06-08 16:51:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 240.56ms
+
+Saved Time:
+2026-06-08 16:51:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 276.55ms
+
+Saved Time:
+2026-06-08 16:51:56
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 296.30ms
+
+Saved Time:
+2026-06-08 16:53:05
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 959.04ms
+
+Saved Time:
+2026-06-08 16:53:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 977.77ms
+
+Saved Time:
+2026-06-08 16:53:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a Afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 994.55ms
+
+Saved Time:
+2026-06-08 16:54:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the rules for Pakistan, Bangladesh, and  Afghanistan nationals
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 128.62ms
+
+Saved Time:
+2026-06-08 16:54:32
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 280.33ms
+
+Saved Time:
+2026-06-08 16:54:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 240.16ms
+
+Saved Time:
+2026-06-08 16:56:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 243.10ms
+
+Saved Time:
+2026-06-08 16:58:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a Afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 929.89ms
+
+Saved Time:
+2026-06-08 16:59:07
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a Afghanistan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2998.79ms
+
+Saved Time:
+2026-06-08 17:16:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 900.98ms
+
+Saved Time:
+2026-06-08 17:17:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+No. An e-Tourist or regular Tourist Visa is non-extendable and non-convertible. Once the visa expires or your permitted stay is over, you must depart the country.
+
+Time Duration: 271.30ms
+
+Saved Time:
+2026-06-08 17:17:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+No. An e-Tourist or regular Tourist Visa is non-extendable and non-convertible. Once the visa expires or your permitted stay is over, you must depart the country.
+
+Time Duration: 243.82ms
+
+Saved Time:
+2026-06-08 17:19:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 245.21ms
+
+Saved Time:
+2026-06-08 17:19:50
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 267.76ms
+
+Saved Time:
+2026-06-08 17:22:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 310.19ms
+
+Saved Time:
+2026-06-08 17:23:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 1330.65ms
+
+Saved Time:
+2026-06-08 17:30:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+No. An e-Tourist or regular Tourist Visa is non-extendable and non-convertible. Once the visa expires or your permitted stay is over, you must depart the country.
+
+Time Duration: 273.11ms
+
+Saved Time:
+2026-06-08 17:30:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+No. An e-Tourist or regular Tourist Visa is non-extendable and non-convertible. Once the visa expires or your permitted stay is over, you must depart the country.
+
+Time Duration: 264.97ms
+
+Saved Time:
+2026-06-08 17:31:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+No. An e-Tourist or regular Tourist Visa is non-extendable and non-convertible. Once the visa expires or your permitted stay is over, you must depart the country.
+
+Time Duration: 247.21ms
+
+Saved Time:
+2026-06-08 17:31:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 258.97ms
+
+Saved Time:
+2026-06-08 17:31:46
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 277.27ms
+
+Saved Time:
+2026-06-08 17:37:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 252.72ms
+
+Saved Time:
+2026-06-08 17:37:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to change visa type
+
+🤖 AI:
+Yes, if you need to convert your visa type, you can submit an application to your jurisdictional FRRO via their e-services portal at https://indianfrro.gov.in/eservices/home.jsp. For more specific details on the requirements, you can refer to the Registration Authority section of that website. Here is the information structured into a clean, conversational Q&A format designed for a chatbot to help users determine their eligibility for an OCI card. OVERSEAS CITIZEN OF INDIA (OCI) Eligibility FAQ
+
+Time Duration: 248.23ms
+
+Saved Time:
+2026-06-08 17:44:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+No. Visa extension and conversion services are strictly available only to foreign nationals who are physically present in India at the time of application.
+
+Time Duration: 280.19ms
+
+Saved Time:
+2026-06-08 17:44:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Is there a specific visa for long-term investors
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 8.05ms
+
+Saved Time:
+2026-06-08 17:45:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 237.46ms
+
+Saved Time:
+2026-06-08 17:45:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2949.43ms
+
+Saved Time:
+2026-06-08 17:46:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 283.67ms
+
+Saved Time:
+2026-06-08 17:46:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 253.57ms
+
+Saved Time:
+2026-06-08 17:46:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 226.40ms
+
+Saved Time:
+2026-06-08 17:47:12
+
+
+==================================================
+
+Chatbot
+
+🧑 You: foreign investors
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 853.83ms
+
+Saved Time:
+2026-06-08 17:47:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: foreign investor
+
+🤖 AI:
+Yes. Investors may apply for PRS (Permanent Residency Status), specifically designed for foreign investors looking for long- term stay options.
+
+Time Duration: 899.63ms
+
+Saved Time:
+2026-06-08 17:47:49
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a  foreign investors in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 266.25ms
+
+Saved Time:
+2026-06-08 17:48:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 268.11ms
+
+Saved Time:
+2026-06-08 17:48:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Afghanistan
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 254.65ms
+
+Saved Time:
+2026-06-08 17:49:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Afghanisthan
+
+🤖 AI:
+⚠️ No data found in PDF
+
+Time Duration: 805.52ms
+
+Saved Time:
+2026-06-08 17:49:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: FRRO bangalur
+
+🤖 AI:
+Ahmedabad o In-Charge: Smt. Sweta Shrimali, IPS o Address: 235, Ground Floor, HUDCO Bhawan, Iswar Bhuvan Road, Navrangpura, Ahmedabad, Gujarat o Phone: 079-26306606, 079-26306607 (Fax) o Email: frroamd@nic.in; afrro-boi.ahd@nic.in (Enquiries)
+
+Time Duration: 88.28ms
+
+Saved Time:
+2026-06-08 17:49:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 16.01ms
+
+Saved Time:
+2026-06-08 17:52:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I collect my OCI card through someone else
+
+🤖 AI:
+Yes. You can collect it in person or send an authorized representative with your passport. However, if a representative collects it, you must be physically present in the country where the OCI card is being issued at the time of collection.
+
+Time Duration: 22.29ms
+
+Saved Time:
+2026-06-08 17:52:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 24.66ms
+
+Saved Time:
+2026-06-08 17:53:15
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 232.24ms
+
+Saved Time:
+2026-06-08 17:53:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 889.18ms
+
+Saved Time:
+2026-06-08 17:53:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 226.37ms
+
+Saved Time:
+2026-06-08 17:53:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 891.03ms
+
+Saved Time:
+2026-06-08 17:53:51
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 985.00ms
+
+Saved Time:
+2026-06-08 17:55:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investors in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 291.74ms
+
+Saved Time:
+2026-06-08 17:56:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 256.71ms
+
+Saved Time:
+2026-06-09 10:10:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 849.98ms
+
+Saved Time:
+2026-06-09 10:10:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 246.39ms
+
+Saved Time:
+2026-06-09 10:10:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization.
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 941.89ms
+
+Saved Time:
+2026-06-09 10:10:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro contact chennai
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 80.48ms
+
+Saved Time:
+2026-06-09 10:10:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 84.26ms
+
+Saved Time:
+2026-06-09 10:11:01
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai address
+
+🤖 AI:
+Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o
+
+Time Duration: 83.88ms
+
+Saved Time:
+2026-06-09 10:11:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe jaipur
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 73.76ms
+
+Saved Time:
+2026-06-09 10:11:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 2956.19ms
+
+Saved Time:
+2026-06-09 10:11:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 20.54ms
+
+Saved Time:
+2026-06-09 10:11:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 295.28ms
+
+Saved Time:
+2026-06-09 10:12:04
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 18.59ms
+
+Saved Time:
+2026-06-09 10:12:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 14.25ms
+
+Saved Time:
+2026-06-09 10:12:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 269.77ms
+
+Saved Time:
+2026-06-09 10:12:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 259.47ms
+
+Saved Time:
+2026-06-09 10:12:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 278.00ms
+
+Saved Time:
+2026-06-09 10:12:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: f i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 294.93ms
+
+Saved Time:
+2026-06-09 10:13:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 940.30ms
+
+Saved Time:
+2026-06-09 10:13:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 274.90ms
+
+Saved Time:
+2026-06-09 10:13:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 15.41ms
+
+Saved Time:
+2026-06-09 10:14:17
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Applying from abroad
+
+🤖 AI:
+Foreign nationals who are abroad and seeking an Indian PCC, may approach the Indian Mission/ Post in their respective country for obtaining a PCC. NEWBORN REGISTRATION: Q&A for Foreigners in India
+
+Time Duration: 256.21ms
+
+Saved Time:
+2026-06-09 10:14:27
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 956.39ms
+
+Saved Time:
+2026-06-09 10:15:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 282.96ms
+
+Saved Time:
+2026-06-09 10:16:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 972.42ms
+
+Saved Time:
+2026-06-09 10:16:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I provide my biometrics after arriving in India, or must I do it during the application proces
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 974.55ms
+
+Saved Time:
+2026-06-09 10:16:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 917.60ms
+
+Saved Time:
+2026-06-09 10:43:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 285.32ms
+
+Saved Time:
+2026-06-09 10:43:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 982.93ms
+
+Saved Time:
+2026-06-09 10:44:38
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 17.34ms
+
+Saved Time:
+2026-06-09 10:48:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 3030.62ms
+
+Saved Time:
+2026-06-09 11:02:22
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 292.34ms
+
+Saved Time:
+2026-06-09 11:04:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 928.54ms
+
+Saved Time:
+2026-06-09 11:05:14
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I provide my biometrics after arriving in India, or must I do it during the application process
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 982.31ms
+
+Saved Time:
+2026-06-09 11:05:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 4089.49ms
+
+Saved Time:
+2026-06-09 11:25:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 3058.16ms
+
+Saved Time:
+2026-06-09 11:26:41
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 22.67ms
+
+Saved Time:
+2026-06-09 11:27:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Your biometric data remains valid for 10 years from the date it was captured.
+
+Time Duration: 346.72ms
+
+Saved Time:
+2026-06-09 11:28:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 331.75ms
+
+Saved Time:
+2026-06-09 11:28:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 3018.95ms
+
+Saved Time:
+2026-06-09 11:29:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 279.86ms
+
+Saved Time:
+2026-06-09 11:30:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 931.59ms
+
+Saved Time:
+2026-06-09 11:30:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 288.31ms
+
+Saved Time:
+2026-06-09 11:30:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 1013.10ms
+
+Saved Time:
+2026-06-09 11:30:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 3233.06ms
+
+Saved Time:
+2026-06-09 11:37:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 394.25ms
+
+Saved Time:
+2026-06-09 11:37:40
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+If you are identified as a foreigner while in India, you may be required to provide biometrics on the Central Government's electronic portal by any of the following authorities: • Specified State or Union Territory authorities. • Civil authorities or Registration Officers. • Immigration Officers. • Border Guarding Forces or the Coast Guard.
+
+Time Duration: 310.34ms
+
+Saved Time:
+2026-06-09 11:37:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+If you are identified as a foreigner while in India, you may be required to provide biometrics on the Central Government's electronic portal by any of the following authorities: • Specified State or Union Territory authorities. • Civil authorities or Registration Officers. • Immigration Officers. • Border Guarding Forces or the Coast Guard.
+
+Time Duration: 400.97ms
+
+Saved Time:
+2026-06-09 11:46:18
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 372.10ms
+
+Saved Time:
+2026-06-09 11:46:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 310.91ms
+
+Saved Time:
+2026-06-09 11:46:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 271.02ms
+
+Saved Time:
+2026-06-09 11:46:59
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 303.32ms
+
+Saved Time:
+2026-06-09 11:47:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 378.65ms
+
+Saved Time:
+2026-06-09 11:47:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 382.87ms
+
+Saved Time:
+2026-06-09 11:47:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 260.62ms
+
+Saved Time:
+2026-06-09 11:47:47
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 307.73ms
+
+Saved Time:
+2026-06-09 11:47:55
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 14.21ms
+
+Saved Time:
+2026-06-09 11:48:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 19.15ms
+
+Saved Time:
+2026-06-09 11:48:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 328.01ms
+
+Saved Time:
+2026-06-09 11:48:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 227.49ms
+
+Saved Time:
+2026-06-09 11:48:33
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 300.52ms
+
+Saved Time:
+2026-06-09 11:48:37
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 236.42ms
+
+Saved Time:
+2026-06-09 11:48:39
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+You should apply for a Medical (M) Visa. This category covers both the patients seeking treatment—whether in standard hospitals or Ayush systems—and their designated medical attendants.
+
+Time Duration: 274.14ms
+
+Saved Time:
+2026-06-09 11:48:45
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Electronic Travel Authorization
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 1083.30ms
+
+Saved Time:
+2026-06-09 11:55:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: eta
+
+🤖 AI:
+ETA is an Electronic Travel Authorization. It allows the bearer access into the issuing country (India). ETA is NOT eVisa. When the bearer of ETA is allowed entry into India by the Immigration Officer, it becomes eVisa. eVisa will be stamped on the Passport of the foreigner at the designated ICPs on production of valid ETA.
+
+Time Duration: 255.16ms
+
+Saved Time:
+2026-06-09 11:55:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 242.42ms
+
+Saved Time:
+2026-06-09 11:55:26
+
+
+==================================================
+
+Chatbot
+
+🧑 You: pnr of india
+
+🤖 AI:
+PNR data must be submitted at four specific intervals: 1. T-72 hours 2. T-24 hours 3. T-08 hours 4. T-0 hours (Where T is the scheduled time of arrival in or departure from India).
+
+Time Duration: 314.16ms
+
+Saved Time:
+2026-06-09 11:55:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: oci means
+
+🤖 AI:
+You are considered a Foreigner of Indian Origin if you meet one of two criteria: a. You have held an Indian passport at any time in the past. b. You, or any of your parents, grandparents, or great-grandparents, were born in and were permanent residents of India.
+
+Time Duration: 264.72ms
+
+Saved Time:
+2026-06-09 11:55:34
+
+
+==================================================
+
+Chatbot
+
+🧑 You: explansionof oci
+
+🤖 AI:
+An OCI Cardholder is a foreign national who is officially registered by the Government of India under Section 7A of The Citizenship (Amendment) Act, 2015. The scheme was created to help the Indian Diaspora maintain a strong connection with India through benefits like hassle-free travel and a friendly investment regime.
+
+Time Duration: 273.36ms
+
+Saved Time:
+2026-06-09 11:55:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: what is oci
+
+🤖 AI:
+No. Staying in India without a valid passport is illegal, even for OCI cardholders. You must ensure your foreign passport is valid throughout the duration of your stay in the country.
+
+Time Duration: 287.60ms
+
+Saved Time:
+2026-06-09 11:56:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 41.08ms
+
+Saved Time:
+2026-06-09 11:56:30
+
+
+==================================================
+
+Chatbot
+
+🧑 You: info about airlines to international flights
+
+🤖 AI:
+Airline station managers must provide: • Passenger and Crew Manifest (Form V). • Advance Passenger Information (API): Data including Name, Gender, DOB, Nationality, Passport/Visa details, and Flight info. • Passenger Name Record (PNR): Comprehensive travel and payment data.
+
+Time Duration: 255.35ms
+
+Saved Time:
+2026-06-09 11:56:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the limitations for OCI cardholders in India
+
+🤖 AI:
+While OCI holders enjoy many benefits, there are certain restrictions: • Voting: You are not entitled to vote in Indian elections. • Public Office: You cannot hold constitutional posts (President, Vice-President, Judge of the Supreme Court/High Court) or be a member of Parliament or State Legislatures. • Employment: You are generally not eligible for appointment to public services or government posts. • Property: You cannot acquire agricultural or plantation properties in India.
+
+Time Duration: 26.10ms
+
+Saved Time:
+2026-06-09 11:56:52
+
+
+==================================================
+
+Chatbot
+
+🧑 You: How do I submit my OCI application
+
+🤖 AI:
+Applications for registration as an OCI Cardholder must be submitted online at https://ociservices.gov.in. You will find detailed information about the specific documents required for your case on that portal.
+
+Time Duration: 18.59ms
+
+Saved Time:
+2026-06-09 11:57:00
+
+
+==================================================
+
+Chatbot
+
+🧑 You: who is Commissioner of Immigration
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 325.61ms
+
+Saved Time:
+2026-06-09 11:57:08
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Yellow Fever vaccination
+
+🤖 AI:
+You only need a valid Yellow Fever Vaccination Certificate if you are arriving from or have transited through a Yellow Fever endemic country by air or sea.
+
+Time Duration: 262.48ms
+
+Saved Time:
+2026-06-09 11:57:13
+
+
+==================================================
+
+Chatbot
+
+🧑 You: are there any visa for a foreign investor in india
+
+🤖 AI:
+Generally, no. Foreign nationals are strictly prohibited from commissioning surrogacy in India. Note: The only exception to this rule is for OCI (Overseas Citizen of India) cardholders, who are permitted under specific guidelines.
+
+Time Duration: 392.59ms
+
+Saved Time:
+2026-06-09 11:57:21
+
+
+==================================================
+
+Chatbot
+
+🧑 You: if i need to visit india for the medical treatment which visa i should apply
+
+🤖 AI:
+• M-1: For general medical treatment (excluding Ayush). • M-3: Specifically for treatment under Ayush systems (Ayurveda, Yoga, etc.). • M-2 & M-4: For Medical Attendants accompanying patients on M-1 or M-3 visas, respectively.
+
+Time Duration: 360.95ms
+
+Saved Time:
+2026-06-09 11:58:02
+
+
+==================================================
+
+Chatbot
+
+🧑 You: i'm a afghanisthan national i would like to start business in india what are the types of visa
+
+🤖 AI:
+Specific regulations apply: • P-1 to P-3: Specific visas for Pakistan nationals (Visitors or Pilgrims). • X-3: A double-entry visa for Bangladesh nationals applying for third-country visas in India. • LTV (Long Term Visa): Available for certain categories of citizens from Afghanistan, Bangladesh, and Pakistan.
+
+Time Duration: 288.72ms
+
+Saved Time:
+2026-06-09 11:58:10
+
+
+==================================================
+
+Chatbot
+
+🧑 You: how to apply for an e-visa
+
+🤖 AI:
+To apply for a visa, you should complete the online application form available at the official government website: https://indianvisaonline.gov.in. Please keep in mind that a valid visa along with your passport is mandatory for travel to India, unless you are an OCI cardholder or belong to a category exempted under a specific bilateral agreement.
+
+Time Duration: 268.64ms
+
+Saved Time:
+2026-06-09 11:58:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: At what stage do I need to submit my biometric information
+
+🤖 AI:
+Your biometric data remains valid for 10 years from the date it was captured.
+
+Time Duration: 335.64ms
+
+Saved Time:
+2026-06-09 11:58:43
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When are biometrics required during the application process
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 333.85ms
+
+Saved Time:
+2026-06-09 11:58:53
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Where and when should I complete biometric enrollment
+
+🤖 AI:
+⚠️ No relevant information found in the PDF for your question.
+
+Time Duration: 3035.03ms
+
+Saved Time:
+2026-06-09 11:59:23
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I provide my biometrics after arriving in India, or must I do it during the application process
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 376.56ms
+
+Saved Time:
+2026-06-09 11:59:31
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the biometric submission requirements for applicants applying from abroad and within India
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 339.42ms
+
+Saved Time:
+2026-06-09 11:59:58
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Who is required to provide biometrics, and are there any age-based exemptions
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 312.06ms
+
+Saved Time:
+2026-06-09 12:00:16
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When should biometric data be captured for visa registration
+
+🤖 AI:
+Your biometric data remains valid for 10 years from the date it was captured.
+
+Time Duration: 362.98ms
+
+Saved Time:
+2026-06-09 12:00:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Is biometric enrollment mandatory at the time of application
+
+🤖 AI:
+If registration is not granted, an amount of USD 250 (or local equivalent) will be refunded. Please note that the processing fee (USD 25 or ₹1400 in India) is non-refundable.
+
+Time Duration: 316.86ms
+
+Saved Time:
+2026-06-09 12:00:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: What are the options for providing biometrics if I am applying from outside India
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 370.46ms
+
+Saved Time:
+2026-06-09 12:01:03
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Are children and senior citizens required to submit biometrics
+
+🤖 AI:
+Yes. It is mandatory for all OCI applicants to have their fingerprints and facial biometrics captured (where technically feasible) during the registration process.
+
+Time Duration: 340.80ms
+
+Saved Time:
+2026-06-09 12:01:11
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics
+
+🤖 AI:
+• Applying from abroad: You can provide biometrics at the application stage at the Mission or upon arrival at the Immigration Check Post in India. However, it is highly recommended to do it during the application stage. • Applying in India: Biometrics must be captured at the application stage at the FRRO. • Exemptions: Applicants above 70 years or below 12 years of age are exempt from biometric capturing.
+
+Time Duration: 16.55ms
+
+Saved Time:
+2026-06-09 12:01:35
+
+
+==================================================
+
+Chatbot
+
+🧑 You: When do I provide my biometrics Exemptions
+
+🤖 AI:
+Yes. Under the 2025 Order, every foreigner applying for any visa category - including OCI (Overseas Citizen of India) registration-must provide their biometric information to the issuing authority before the visa or registration is granted.
+
+Time Duration: 294.84ms
+
+Saved Time:
+2026-06-09 12:01:42
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai
+
+🤖 AI:
+Chennai o In-Charge: Sh. P. Ve Arunshakthikumar, IPS o Address: Shastri Bhawan Annexe, Building No. 26 Haddows Road, Nungabakkam, Chennai - 600006 o Phone: 044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o Email: chiochn@nic.in; frrochn@nic.in
+
+Time Duration: 77.40ms
+
+Saved Time:
+2026-06-09 12:03:09
+
+
+==================================================
+
+Chatbot
+
+🧑 You: frro chennai phone
+
+🤖 AI:
+044-28251721, 044-23454971 (Fax), 044-29510706 (OCI queries) o
+
+Time Duration: 90.22ms
+
+Saved Time:
+2026-06-09 12:03:20
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe
+
+🤖 AI:
+Delhi Office • Location: ISIL Building, VK Krishna Menon Bhawan, 4th Floor, 9 Bhagwandas Road, New Delhi-110001. • Contact: 011-23382472 / 23073908 | poedelhi@mea.gov.in • Jurisdiction: Delhi, Uttarakhand, parts of Uttar Pradesh (Shamli, Meerut, Ghaziabad, etc.), parts of Haryana (Gurgaon, Faridabad, etc.), and parts of Rajasthan (Alwar, Bharatpur).
+
+Time Duration: 69.14ms
+
+Saved Time:
+2026-06-09 12:03:24
+
+
+==================================================
+
+Chatbot
+
+🧑 You: poe jaipur
+
+🤖 AI:
+Jaipur Office • Location: CFC Building, RIICO, Sitapura Industrial Area, Sitapura, India Gate, Tonk Road, Jaipur, Rajasthan. • Contact: 0141-2771528 | poejaipur@mea.gov.in • Jurisdiction: Covers the state of Rajasthan.
+
+Time Duration: 83.64ms
+
+Saved Time:
+2026-06-09 12:03:29
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Arrivals to India
+
+🤖 AI:
+It may be considered on case to case basis by the Immigration Authorities.
+
+Time Duration: 307.02ms
+
+Saved Time:
+2026-06-09 12:03:48
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Can I undertake Tourism while on visit to India on  Business/ Conference/ Medical Visa
+
+🤖 AI:
+Foreign nationals who are granted a particular type of visa with reference to the purpose of visit shall be required to strictly adhere to the purpose of visit declared while submitting the visa application. However, a foreign national (other than a Pakistani national) coming to India on any type of visa will be allowed to avail activities permitted under Tourist Visa.
+
+Time Duration: 91.77ms
+
+Saved Time:
+2026-06-09 12:04:44
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Working hours
+
+🤖 AI:
+Generally, no. Conversion of a Tourist Visa into any other visa type is not permitted while you are inside the country. If your purpose of stay changes, you usually need to leave India and apply for the correct visa category from abroad.
+
+Time Duration: 259.34ms
+
+Saved Time:
+2026-06-09 12:04:54
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Office address of the Commissioner of Immigration
+
+🤖 AI:
+There are 24 Chief Immigration Officers functioning at Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur, Guwahati, New Jalpaiguri, Dhamra, and Mopa.
+
+Time Duration: 316.45ms
+
+Saved Time:
+2026-06-09 12:06:28
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Office address of the Commissioner of Immigration
+
+🤖 AI:
+There are 24 Chief Immigration Officers functioning at Goa, Jaipur, Gaya, Varanasi, Nagpur, Pune, Indore, Mangalore, Trichy, Coimbatore, Bagdogra, Chandigarh, Haridaspur, Kannur, Dera Baba Nanak, Raxaul, Sonauli, Gede, Munabao, Chitpur, Guwahati, New Jalpaiguri, Dhamra, and Mopa.
+
+Time Duration: 257.84ms
+
+Saved Time:
+2026-06-09 12:09:25
+
+
+==================================================
+
+Chatbot
+
+🧑 You: Official telephone and telefax number
+
+🤖 AI:
+Name: Ms. I.B. Rani, IPS Office Address: 7th Floor, Tower 'J', World Trade Centre (WTC), Nauroji Nagar, New Delhi - 110029 Telephone No: 011-26102622 (Telefax)
+
+Time Duration: 943.21ms
+
+Saved Time:
+2026-06-09 12:09:35
+

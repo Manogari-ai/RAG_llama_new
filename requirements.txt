@@ -1,0 +1,1578 @@
+"""
+rag_engine.py  —  Pageindex_RAG_V5
+===================================
+
+Zero static domain word lists.  All keyword importance is derived from:
+  • Universal closed-class POS filter  (grammatical tags only — language-level,
+    not domain-level)
+  • Corpus IDF                         (rare words score high automatically)
+  • Proper-noun boost                  (NNP/NNPS × 1.5 from POS tagger)
+  • Bigram / trigram phrase extraction (adjacent content tokens)
+"""
+
+from __future__ import annotations
+
+import faiss
+import numpy as np
+import requests
+import re
+import os
+import time
+import math
+from datetime import datetime
+from collections import Counter
+from nltk.stem import PorterStemmer
+from difflib import SequenceMatcher
+
+# ──────────────────────────────────────────────────────────────────────────────
+# OPTIONAL DEPS
+# ──────────────────────────────────────────────────────────────────────────────
+
+try:
+    from spellchecker import SpellChecker as _SC
+    _spell = _SC()
+    SPELL_AVAILABLE = True
+except ImportError:
+    SPELL_AVAILABLE = False
+    print("[RAG] pyspellchecker not installed — spell correction disabled.")
+
+# ──────────────────────────────────────────────────────────────────────────────
+# FILES / URLS
+# ──────────────────────────────────────────────────────────────────────────────
+
+INDEX_FILE        = "vector_db/index.faiss"
+CHUNKS_FILE       = "vector_db/chunks.txt"
+OLLAMA_EMBED_URL  = "http://localhost:11434/api/embeddings"
+OLLAMA_GEN_URL    = "http://localhost:11434/api/generate"
+EMBED_MODEL       = "nomic-embed-text"
+LLM_MODEL         = "llama3.2:3b"
+
+session = requests.Session()
+
+# ──────────────────────────────────────────────────────────────────────────────
+# LOAD
+# ──────────────────────────────────────────────────────────────────────────────
+
+index: faiss.Index | None = None
+chunks: list[str] = []
+
+
+def _load_db() -> None:
+    global index, chunks
+    try:
+        if os.path.exists(INDEX_FILE) and os.path.exists(CHUNKS_FILE):
+            index = faiss.read_index(INDEX_FILE)
+            with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
+                raw = f.read()
+            chunks = [c.strip() for c in raw.split("\n---CHUNK---\n") if c.strip()]
+            print(f"[RAG] Loaded {len(chunks)} chunks")
+        else:
+            print("[RAG] Warning: Vector DB not found.  Run: python ingest.py first.")
+    except Exception as exc:
+        print(f"[RAG] Load error: {exc}")
+
+
+_load_db()
+
+# ──────────────────────────────────────────────────────────────────────────────
+# EMBEDDING CACHE
+# ──────────────────────────────────────────────────────────────────────────────
+
+_emb_cache: dict[str, list[float]] = {}
+
+
+def get_embedding(text: str) -> list[float]:
+    if text in _emb_cache:
+        return _emb_cache[text]
+    try:
+        res  = session.post(
+            OLLAMA_EMBED_URL,
+            json={"model": EMBED_MODEL, "prompt": text},
+            timeout=30,
+        )
+        data = res.json()
+        if "embedding" not in data:
+            raise RuntimeError(
+                f"Ollama embedding response missing 'embedding' key. "
+                f"Status={res.status_code}, body={res.text[:200]}"
+            )
+        emb = data["embedding"]
+    except Exception as exc:
+        raise RuntimeError(f"Embedding request failed: {exc}") from exc
+    _emb_cache[text] = emb
+    return emb
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# UNIVERSAL CLOSED-CLASS POS FILTER
+#
+# These tags represent *grammatical function words* in English — a closed set
+# that does not grow with vocabulary.  They carry no content meaning and are
+# discarded regardless of domain.
+#
+# Everything NOT in this set is considered a potential content token.
+# No positive "allow-list" of POS tags is needed: we discard grammar,
+# keep everything else.
+#
+# Why this is domain-agnostic:
+#   DT  (a, the, this, that)   — closed class in all English domains
+#   IN  (of, for, in, as)      — closed class
+#   TO  (to)                   — closed class
+#   CC  (and, or, but)         — closed class
+#   PRP / PRP$                 — pronouns — closed class
+#   WP / WP$ / WDT / WRB      — wh-words — closed class
+#   MD  (can, will, should)    — modals — closed class
+#   EX  (existential there)    — closed class
+#   RP  (particle: up, out)    — closed class
+#   UH  (interjections)        — closed class
+#   PDT (predeterminer: all)   — closed class
+#   SYM / POS / punctuation    — symbols / 's / punct
+# ──────────────────────────────────────────────────────────────────────────────
+
+_CLOSED_CLASS_TAGS: frozenset[str] = frozenset({
+    "DT", "IN", "TO", "CC",
+    "PRP", "PRP$",
+    "WP", "WP$", "WDT", "WRB",
+    "MD", "EX", "RP", "UH", "PDT",
+    "SYM", "POS",
+    ".", ",", ":", "``", "''", "-LRB-", "-RRB-", "#", "$",
+})
+
+# Proper-noun boost factor (POS tagger already identified these as named entities)
+_PROPER_NOUN_BOOST = 1.5
+_PROPER_NOUN_TAGS  = frozenset({"NNP", "NNPS"})
+
+stemmer = PorterStemmer()
+
+# NLTK bootstrap
+try:
+    import nltk
+    nltk.data.find("taggers/averaged_perceptron_tagger_eng")
+    _POS_AVAILABLE = True
+except LookupError:
+    import nltk
+    nltk.download("averaged_perceptron_tagger_eng", quiet=True)
+    nltk.download("punkt_tab", quiet=True)
+    _POS_AVAILABLE = True
+except Exception:
+    _POS_AVAILABLE = False
+    print("[RAG] NLTK POS tagger unavailable — falling back to length heuristic.")
+
+
+def _pos_filter(text: str) -> list[tuple[str, str, bool]]:
+    """
+    Tokenise + POS-tag *text*.
+
+    Returns list of (word, tag, is_proper_noun) for every token whose tag
+    is NOT in _CLOSED_CLASS_TAGS and whose surface form is ≥ 2 characters.
+
+    Falls back to (word, 'NN', False) for alpha tokens ≥ 3 chars when NLTK
+    is unavailable.
+    """
+    if not _POS_AVAILABLE:
+        return [(w, "NN", False) for w in re.findall(r"[a-zA-Z]{3,}", text)]
+
+    import nltk
+    tokens = nltk.word_tokenize(text)
+    tagged = nltk.pos_tag(tokens)
+    result = []
+    for word, tag in tagged:
+        if tag in _CLOSED_CLASS_TAGS:
+            continue
+        if len(word) < 2:
+            continue
+        is_proper = tag in _PROPER_NOUN_TAGS
+        result.append((word, tag, is_proper))
+    return result
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# CORPUS IDF TABLE
+# ──────────────────────────────────────────────────────────────────────────────
+
+_word_freq:         Counter = Counter()   # stem → doc frequency in Q texts
+_total_qa_docs:     int     = 0           # total Q texts seen
+
+
+def build_word_frequency() -> None:
+    """
+    Build stem-level IDF table from the Q texts in the chunk corpus.
+    Only content tokens (not closed-class) are counted.
+    Called once after DB load; re-called after DB reload.
+    """
+    global _word_freq, _total_qa_docs
+    _word_freq.clear()
+    _total_qa_docs = 0
+
+    for chunk in chunks:
+        norm   = re.sub(r'(?<!\n)\s+(?=Q\s*:)', '\n', chunk)
+        blocks = re.split(r'(?=\nQ\s*:)', '\n' + norm)
+        for block in blocks:
+            qm = re.search(
+                r'Q\s*:\s*(.+?)(?=\nA\s*:|\nAns\s*:|\Z)',
+                block, re.DOTALL | re.IGNORECASE
+            )
+            if not qm:
+                continue
+            pos_tokens = _pos_filter(qm.group(1))
+            stems = {stemmer.stem(w.lower()) for w, _, _ in pos_tokens}
+            for s in stems:
+                _word_freq[s] += 1
+            _total_qa_docs += 1
+
+
+def _idf(stem: str) -> float:
+    freq = _word_freq.get(stem, 0)
+    return math.log((_total_qa_docs + 1) / (freq + 1))
+
+
+def _token_weight(word: str, tag: str, stem: str) -> float:
+    """
+    Importance = IDF × proper-noun boost.
+    No domain-specific lists; weight derives entirely from corpus statistics
+    and universal POS classification.
+    """
+    boost = _PROPER_NOUN_BOOST if tag in _PROPER_NOUN_TAGS else 1.0
+    return boost * _idf(stem)
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# SPELL CORRECTION  (corpus-aware, no domain word list)
+#
+# Instead of a hard-coded DOMAIN_WORDS set, we protect any word whose stem
+# appears in the corpus IDF table with a reasonable document frequency —
+# i.e. words the corpus itself considers meaningful.
+# Very short words (≤ 3 chars) and all-uppercase tokens are also left alone.
+# ──────────────────────────────────────────────────────────────────────────────
+
+def _is_corpus_term(word: str) -> bool:
+    """
+    Return True if the stemmed form of *word* is attested in the corpus
+    (appeared in ≥ 1 Q text).  These should never be spell-corrected.
+    """
+    stem = stemmer.stem(word.lower())
+    return _word_freq.get(stem, 0) > 0
+
+
+def correct_spelling(text: str) -> str:
+    """
+    Correct obvious spelling errors in *text*.
+
+    Skips:
+      • Words ≤ 3 chars
+      • All-uppercase tokens (acronyms)
+      • Tokens containing digits
+      • Tokens whose stem exists in the corpus IDF table
+      • Tokens that are not purely alphabetic after stripping punctuation
+    """
+    if not SPELL_AVAILABLE:
+        return text
+
+    words     = text.split()
+    corrected = []
+    for word in words:
+        clean = re.sub(r"[^a-zA-Z]", "", word).lower()
+        if (
+            len(clean) <= 3
+            or not clean.isalpha()
+            or word.isupper()
+            or _is_corpus_term(clean)
+        ):
+            corrected.append(word)
+            continue
+
+        suggestion = _spell.correction(clean)
+        if suggestion and suggestion != clean:
+            if word[0].isupper():
+                suggestion = suggestion.capitalize()
+            corrected.append(suggestion)
+            print(f"[SPELL] '{word}' → '{suggestion}'")
+        else:
+            corrected.append(word)
+
+    return " ".join(corrected)
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# KEYWORD EXTRACTION
+#
+# Returns stemmed tokens sorted by descending importance (IDF × POS boost).
+# No allow/deny word lists — every non-closed-class token is scored.
+# ──────────────────────────────────────────────────────────────────────────────
+
+def keywords(text: str) -> list[str]:
+    """
+    Extract content-bearing keywords from *text*, ranked by importance.
+
+    Process:
+      1. POS-tag and discard closed-class tokens.
+      2. Stem remaining tokens.
+      3. Score each stem: IDF × proper-noun boost.
+      4. Return stems sorted by descending score.
+
+    Result: country names / visa types / medical terms score highest because:
+      a) They are rare in the corpus   → high IDF
+      b) They are tagged NNP by POS    → ×1.5 boost
+    Generic verbs like "need", "apply" score low because they appear in
+    nearly every Q text → low IDF.
+    """
+    pos_tokens = _pos_filter(text)
+    seen: dict[str, float] = {}
+    for word, tag, _ in pos_tokens:
+        stem = stemmer.stem(word.lower())
+        if stem in seen:
+            continue
+        seen[stem] = _token_weight(word, tag, stem)
+    return [stem for stem, _ in sorted(seen.items(), key=lambda x: -x[1])]
+
+
+def _raw_stems(text: str) -> list[str]:
+    """Stemmed content tokens from *text* (order preserved, no dedup)."""
+    pos_tokens = _pos_filter(text)
+    return [stemmer.stem(w.lower()) for w, _, _ in pos_tokens]
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# PHRASE (BIGRAM / TRIGRAM) EXTRACTION
+#
+# Adjacent content tokens form candidate phrases.
+# Both tokens have already passed the POS filter — no extra check needed.
+# ──────────────────────────────────────────────────────────────────────────────
+
+def extract_ngrams(pos_tokens: list[tuple[str, str, bool]],
+                   n: int = 2) -> list[str]:
+    """Return lowercase n-grams from adjacent content tokens."""
+    words = [w.lower() for w, _, _ in pos_tokens]
+    return [" ".join(words[i:i+n]) for i in range(len(words) - n + 1)]
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# WEIGHTED MATCH SCORE
+# ──────────────────────────────────────────────────────────────────────────────
+
+def _weighted_match_score(
+    query_stems:  list[str],
+    query_bigrams: list[str],
+    target_text:  str,
+) -> float:
+    """
+    Score how well *target_text* matches the query.
+
+    Per matching stem:  IDF × proper-noun boost (derived from POS + corpus).
+    Per bigram hit:     +5.0  (rewards multi-word phrase matches).
+    """
+    target_lower = target_text.lower()
+    target_pos   = _pos_filter(target_text)
+    target_stem_tags: dict[str, str] = {}
+    for word, tag, _ in target_pos:
+        s = stemmer.stem(word.lower())
+        target_stem_tags[s] = tag
+
+    score = 0.0
+    for stem in query_stems:
+        if stem not in target_stem_tags:
+            continue
+        tag = target_stem_tags[stem]
+        score += _token_weight(stem, tag, stem)
+
+    for bigram in query_bigrams:
+        if bigram in target_lower:
+            score += 5.0
+
+    return score
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# KW SCORE  (fast lexical overlap for chunk ranking)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def kw_score(qwords: list[str], chunk: str) -> float:
+    cl = chunk.lower()
+    score = sum(2.0 for w in qwords if w in cl)
+    for i in range(len(qwords) - 1):
+        if qwords[i] + " " + qwords[i + 1] in cl:
+            score += 3.0
+    return score
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# CHUNK STRUCTURE HELPERS
+# ──────────────────────────────────────────────────────────────────────────────
+
+def parse_chunk_parts(chunk: str) -> tuple[str, str, int | None]:
+    """Returns (header_lower, entry_title_lower, entry_number)."""
+    header = ""
+    hm = re.match(r"^\[(.+?)\]", chunk)
+    if hm:
+        header = hm.group(1).lower()
+
+    title  = ""
+    number = None
+    tm     = re.search(r"(\d+)\.\s+([A-Za-z][^\n\r]{1,80})", chunk)
+    if tm:
+        number = int(tm.group(1))
+        raw    = tm.group(2)
+        raw    = re.split(
+            r"\s+[•o]\s+|Location\b|In-Charge\b|Address\b"
+            r"|Phone\b|Email\b|Contact\b|Jurisdiction\b",
+            raw,
+        )[0]
+        title = raw.strip().lower()
+
+    return header, title, number
+
+
+def _chunk_has_directory_fields(chunk: str) -> bool:
+    """
+    Detect whether a chunk is a directory entry by looking for
+    structured field patterns (no hard-coded field names required —
+    just colon-separated label: value lines).
+    """
+    text = chunk.lower()
+    # Heuristic: ≥ 3 "label: value" lines suggests a directory record
+    label_lines = re.findall(r"\b[a-z][\w\s-]{2,20}:\s+\S", text)
+    return len(label_lines) >= 3
+
+
+def _detect_directory_type(chunk: str) -> str | None:
+    """
+    Return 'frro', 'poe', or None based on chunk structure signals.
+    Does NOT use a static word list — uses structural field patterns.
+    """
+    text = chunk.lower()
+    # FRRO entries typically have in-charge + address + phone + email
+    if re.search(r"in-charge\s*:", text) and re.search(r"email\s*:", text):
+        return "frro"
+    # POE entries typically have location + jurisdiction + contact
+    if re.search(r"jurisdiction\s*:", text) and re.search(r"contact\s*:", text):
+        return "poe"
+    return None
+
+
+def _detect_query_field(query: str) -> str | None:
+    """
+    Detect which specific field the user is asking for.
+    Uses regex patterns on the query — no static alias lists.
+    """
+    ql = query.lower()
+    patterns = [
+        (r"\b(address|location)\b",            "address"),
+        (r"\b(phone|fax|telephone|number)\b",  "phone"),
+        (r"\bemail\b",                          "email"),
+        (r"\bin[-\s]?charge\b",                "incharge"),
+        (r"\bjurisdiction\b",                  "jurisdiction"),
+        (r"\bcontact\b",                        "contact"),
+    ]
+    for pat, field in patterns:
+        if re.search(pat, ql):
+            return field
+    return None
+
+
+def _extract_field(chunk, field):
+
+    field_names = {
+        "address": ["address", "location"],
+        "phone": ["phone"],
+        "email": ["email", "contact"],
+        "incharge": ["in-charge"],
+        "contact": ["contact"],
+        "jurisdiction": ["jurisdiction"],
+    }
+
+    labels = field_names.get(field)
+
+    if not labels:
+        return None
+
+    text = re.sub(r"\s+", " ", chunk)
+
+    all_labels = [
+        "in-charge",
+        "address",
+        "location",
+        "phone",
+        "email",
+        "contact",
+        "jurisdiction",
+    ]
+
+    for label in labels:
+
+        pattern = (
+            rf"{re.escape(label)}\s*:\s*(.*?)"
+            rf"(?=\s*(?:{'|'.join(map(re.escape, all_labels))})\s*:|$)"
+        )
+
+        m = re.search(
+            pattern,
+            text,
+            re.IGNORECASE
+        )
+
+        if m:
+            return m.group(1).strip()
+
+    return None
+
+
+def format_entry(chunk: str, field: str | None = None) -> str:
+    clean = re.sub(r"^\[.+?\]\s*", "", chunk).strip()
+    clean = re.sub(r"^\d+\.\s+", "", clean).strip()
+
+    if field:
+        value = _extract_field(chunk, field)
+        if value:
+            return f"{field.capitalize()}: {value}"
+
+    a_match = re.search(r"(?:A|Ans)\s*:\s*(.+)", clean, re.DOTALL | re.IGNORECASE)
+    q_match = re.search(r"Q\s*:", clean, re.IGNORECASE)
+    if q_match and a_match:
+        return re.sub(r"\s+", " ", a_match.group(1)).strip()
+
+    faq = re.match(
+        r"^(How|What|Where|When|Why|Who|Can|Do|Does|Is|Are|Should|Will|May)\b.*?\?\s*(.+)$",
+        clean, re.IGNORECASE | re.DOTALL,
+    )
+    if faq:
+        return faq.group(2).strip()
+
+    clean = re.sub(r"\s*[•]\s*", "\n• ", clean)
+    clean = re.sub(r"\s+o\s+(?=[A-Z])", "\no ", clean)
+    return clean.strip()
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# PNR DETECTION
+# ──────────────────────────────────────────────────────────────────────────────
+
+_PNR_RE = re.compile(r'\b([A-Z]{1,2}\d{6,10}|\d{8,12})\b')
+
+
+def extract_pnr(text: str) -> str | None:
+    m = _PNR_RE.search(text.upper())
+    return m.group(1) if m else None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# NORMALISE
+# ──────────────────────────────────────────────────────────────────────────────
+
+def normalize(text: str) -> str:
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9 ]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# RETRIEVE  (vector + keyword hybrid)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def retrieve(query: str, k: int = 8) -> list[str]:
+    if index is None or not chunks:
+        return []
+
+    seen:  set[str]  = set()
+    final: list[str] = []
+
+    # ── Vector search (graceful fallback if Ollama unavailable) ──
+    try:
+        q_emb = np.array([get_embedding(query)]).astype("float32")
+        faiss.normalize_L2(q_emb)
+        D, I = index.search(q_emb, k)
+        for score, i in zip(D[0], I[0]):
+            if i < len(chunks):
+                c = chunks[i].strip()
+                if len(c) >= 40 and c not in seen and score >= 0.25:
+                    final.append(c)
+                    seen.add(c)
+    except Exception as emb_err:
+        print(f"[RETRIEVE] Embedding unavailable ({emb_err}), using keyword-only fallback")
+
+    qwords = keywords(query)
+    if qwords:
+        scored = [
+            (kw_score(qwords, c), c)
+            for c in chunks
+            if kw_score(qwords, c) > 0
+        ]
+        scored.sort(reverse=True, key=lambda x: x[0])
+        for _, c in scored[:4]:
+            if c not in seen:
+                final.append(c)
+                seen.add(c)
+
+    return final[:10]
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# EXACT QUESTION MATCH  (fast path)
+# ──────────────────────────────────────────────────────────────────────────────
+
+
+
+
+def clean(text: str) -> str:
+    text = text.lower()
+
+    # remove urls
+    text = re.sub(r"https?://\S+", "", text)
+
+    # remove punctuation
+    text = re.sub(r"[^\w\s]", " ", text)
+
+    # collapse spaces
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
+
+
+
+def _chunk_question_match(query: str):
+
+    global chunks
+
+    query_norm = clean(query)
+
+    best_answer = None
+    best_score  = 0
+
+    for chunk in chunks:
+
+        # ── Normalise chunk: insert newlines before Q/A markers ──────────
+        # Handles inline format: "Q1: text A: text Q2: text A: text"
+        normalised = re.sub(
+            r'\s+(?=Q\s*\d*\s*[:.]\s*)',   # newline before every Q: / Q1: / Q2:
+            '\n',
+            chunk
+        )
+        normalised = re.sub(
+            r'\s+(?=(?:A|Ans)\s*[:.]\s*)',  # newline before every A: / Ans:
+            '\n',
+            normalised
+        )
+
+        lines = [l.strip() for l in normalised.splitlines() if l.strip()]
+
+        for i, line in enumerate(lines):
+
+            # ── Format A: Q: / Q1: / Q2: prefix ─────────────────────────
+            qprefix = re.match(
+                r"^Q\s*\d*\s*[:.]?\s*(.+)",
+                line,
+                re.IGNORECASE
+            )
+            if qprefix:
+                question = qprefix.group(1).strip()
+                q_norm   = clean(question)
+
+                def _collect_answer(start_i):
+                    answer_lines = []
+                    for j in range(start_i + 1, len(lines)):
+                        nxt = lines[j]
+                        if re.match(r"^(?:Q\s*\d*\s*[:.]?\s*|\d+\.\s*)", nxt, re.IGNORECASE):
+                            break
+                        am = re.match(r"^(?:A\s*:|Ans\s*:)\s*(.*)", nxt, re.IGNORECASE)
+                        answer_lines.append(am.group(1) if am else nxt)
+                    return " ".join(answer_lines).strip()
+
+                if q_norm == query_norm:
+                    ans = _collect_answer(i)
+                    if ans:
+                        return ans
+
+                score = SequenceMatcher(None, query_norm, q_norm).ratio()
+                if score > best_score:
+                    best_score  = score
+                    best_answer = _collect_answer(i)
+
+                continue
+
+            # ── Format B: numbered inline  "1. Question? Answer" ─────────
+            numbered = re.match(r"^\d+\.\s+(.+)", line, re.IGNORECASE)
+            if not numbered:
+                continue
+
+            body = numbered.group(1).strip()
+
+            # B2: Ans: on same line
+            ans_inline = re.split(
+                r"\s+(?:Ans|A)\s*:\s*",
+                body, maxsplit=1, flags=re.IGNORECASE
+            )
+            if len(ans_inline) == 2:
+                question = ans_inline[0].strip()
+                answer   = ans_inline[1].strip()
+            else:
+                # B1: question ends at first "?"
+                qmark = body.find("?")
+                if qmark == -1:
+                    continue
+                question = body[: qmark + 1].strip()
+                answer   = body[qmark + 1 :].strip()
+
+            if not answer:
+                answer_lines = []
+                for j in range(i + 1, len(lines)):
+                    nxt = lines[j]
+                    if re.match(r"^\d+\.\s+", nxt):
+                        break
+                    am = re.match(r"^(?:A\s*:|Ans\s*:)\s*(.*)", nxt, re.IGNORECASE)
+                    if am:
+                        answer_lines.append(am.group(1))
+                    elif answer_lines:
+                        answer_lines.append(nxt)
+                answer = " ".join(answer_lines).strip()
+
+            if not answer:
+                continue
+
+            q_norm = clean(question)
+
+            if q_norm == query_norm:
+                return answer
+
+            score = SequenceMatcher(None, query_norm, q_norm).ratio()
+            if score > best_score:
+                best_score  = score
+                best_answer = answer
+
+    if best_score >= 0.95:
+        return best_answer
+
+    return None
+
+# ──────────────────────────────────────────────────────────────────────────────
+# DIRECT Q&A SEARCH
+#
+# Pipeline:
+#   1. Exact question match
+#   2. PNR priority  (Q → A fallback)
+#   3. Weighted rare-keyword match in QUESTIONS  (majority-of-top-stems gate)
+#   4. Weighted rare-keyword match in ANSWERS    (fallback only)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def _load_all_qa_pairs() -> list[tuple[str, str]]:
+    pairs: list[tuple[str, str]] = []
+
+    for chunk in chunks:
+
+        # ── Format A: Q:/A: blocks — normalise inline chains first ───────
+        norm = re.sub(r'\s+(?=Q\s*\d*\s*[:.]\s*)', '\n', chunk)
+        norm = re.sub(r'\s+(?=(?:A|Ans)\s*[:.]\s*)', '\n', norm)
+        norm = re.sub(r'(?<!\n)\s+(?=Q\s*:)', '\n', norm)
+
+        blocks = re.split(r'(?=\nQ\s*\d*\s*:)', '\n' + norm)
+        for block in blocks:
+            qm = re.search(
+                r'Q\s*\d*\s*:\s*(.+?)(?=\n(?:A|Ans)\s*:|\Z)',
+                block, re.DOTALL | re.IGNORECASE
+            )
+            am = re.search(
+                r'(?:A\s*:|Ans\s*:)\s*(.+?)(?=\nQ\s*\d*\s*:|\Z)',
+                block, re.DOTALL | re.IGNORECASE
+            )
+            if qm and am:
+                pairs.append((
+                    re.sub(r'\s+', ' ', qm.group(1)).strip(),
+                    re.sub(r'\s+', ' ', am.group(1)).strip(),
+                ))
+
+        # ── Format B: numbered inline  "1. Question? Answer" ─────────────
+        for line in chunk.splitlines():
+            line = line.strip()
+            nm = re.match(r'^\d+\.\s+(.+)', line)
+            if not nm:
+                continue
+            body = nm.group(1).strip()
+
+            # B2: Ans: on same line
+            ans_split = re.split(
+                r'\s+(?:Ans|A)\s*:\s*',
+                body, maxsplit=1, flags=re.IGNORECASE
+            )
+            if len(ans_split) == 2:
+                q_text = re.sub(r'\s+', ' ', ans_split[0]).strip()
+                a_text = re.sub(r'\s+', ' ', ans_split[1]).strip()
+                if q_text and a_text:
+                    pairs.append((q_text, a_text))
+                continue
+
+            # B1: split on first "?"
+            qmark = body.find('?')
+            if qmark == -1:
+                continue
+            q_text = re.sub(r'\s+', ' ', body[: qmark + 1]).strip()
+            a_text = re.sub(r'\s+', ' ', body[qmark + 1 :]).strip()
+            if q_text and a_text:
+                pairs.append((q_text, a_text))
+
+    return pairs
+
+
+def _extract_intent_phrases(corrected_query: str,
+                            pos_tokens: list[tuple[str, str, bool]],
+                            top_rare: list[str]) -> list[str]:
+    """
+    Build high-value intent phrases from the query.
+
+    Three sources (all corpus-driven, no static lists):
+
+    1. Adjacent-token bigrams / trigrams from POS-filtered tokens.
+       e.g. "medical treatment", "business india"
+
+    2. Cross-token semantic pairs: every combination of two rare stems
+       that both appear in the query surface text, joined as a phrase.
+       e.g. query "visit India for medical treatment" → top_rare might be
+       ["afghanistan", "treatment", "visit", "india"] →
+       pairs: "treatment visit", "india treatment", "afghanistan india" …
+       Phrase is kept only if BOTH words appear in the query string.
+
+    3. Whole-query rare-word chain: if ≥ 2 rare stems found, their
+       surface forms (in query order) form a single long phrase.
+       e.g. "medical treatment visa application"
+
+    Returns deduplicated list of lowercase phrase strings.
+    All phrases are used for +IDF-weighted scoring, not flat +5.
+    """
+    q_lower = corrected_query.lower()
+    phrases: list[str] = []
+
+    # Source 1: adjacent n-grams
+    for n in (2, 3):
+        phrases.extend(extract_ngrams(pos_tokens, n))
+
+    # Source 2: semantic pairs from top rare stems
+    # Recover surface forms in query order
+    surface_order: list[str] = []
+    seen_stems: set[str] = set()
+    for word, tag, _ in pos_tokens:
+        s = stemmer.stem(word.lower())
+        if s in top_rare and s not in seen_stems:
+            surface_order.append(word.lower())
+            seen_stems.add(s)
+
+    for i in range(len(surface_order)):
+        for j in range(i + 1, len(surface_order)):
+            a, b = surface_order[i], surface_order[j]
+            if a in q_lower and b in q_lower:
+                phrases.append(f"{a} {b}")
+                phrases.append(f"{b} {a}")  # both orderings
+
+    # Source 3: rare-word chain
+    if len(surface_order) >= 2:
+        phrases.append(" ".join(surface_order))
+
+    # Deduplicate preserving order
+    seen: set[str] = set()
+    result: list[str] = []
+    for p in phrases:
+        if p not in seen and len(p) > 2:
+            seen.add(p)
+            result.append(p)
+    return result
+
+
+def _phrase_weight(phrase: str) -> float:
+    """
+    IDF-based weight for a phrase.
+    Each word in the phrase contributes its stem IDF; phrase weight = sum.
+    Longer phrases (more rare words) naturally score higher.
+    """
+    words = phrase.split()
+    return sum(_idf(stemmer.stem(w)) for w in words)
+
+
+def direct_qa_search(query: str) -> str | None:
+    """
+    Searches all Q/A pairs with smart keyword + intent-phrase matching.
+    Receives a pre-spell-corrected query from ask().
+
+    Pipeline:
+      1. Exact question match           (normalized string equality)
+      2. PNR priority                   (Q first → A fallback)
+      3. Intent-phrase + rare-keyword   match in QUESTIONS
+         • Phrase hits weighted by phrase IDF (not flat +5)
+         • Majority-of-top-stems gate
+      4. Same weighted match in ANSWERS (fallback only)
+    """
+    query_norm  = normalize(query)
+    q_stems     = keywords(query)
+    top_rare    = q_stems[:6]
+    pos_tokens  = _pos_filter(query)
+    intent_phrases = _extract_intent_phrases(query, pos_tokens, top_rare)
+    pnr            = extract_pnr(query)
+
+    if not top_rare and not pnr:
+        return None
+
+    print(
+        f"[KEYWORDS] stems={top_rare}  "
+        f"phrases={intent_phrases[:6]}  "
+        f"pnr={pnr}"
+    )
+
+    qa_pairs = _load_all_qa_pairs()
+
+    # ── 1. Exact question match ──
+    for q_text, a_text in qa_pairs:
+        if normalize(q_text) == query_norm:
+            print(f"[EXACT QUESTION MATCH] {q_text}")
+            return a_text
+
+    # ── 2. PNR priority ──
+    if pnr:
+        for q_text, a_text in qa_pairs:
+            if pnr in q_text.upper():
+                print(f"[PNR QUESTION MATCH] {q_text}")
+                return a_text
+        for q_text, a_text in qa_pairs:
+            if pnr in a_text.upper():
+                print(f"[PNR ANSWER MATCH] {q_text}")
+                return a_text
+
+    if not top_rare:
+        return None
+
+    required_hits = max(1, len(top_rare) // 2 + 1)   # majority gate
+
+    def _score_text(text: str) -> float:
+        """
+        Score *text* against query stems + intent phrases.
+
+        Per stem hit:   IDF × proper-noun boost  (from _token_weight)
+        Per phrase hit: sum of per-word IDF values
+                        (proportional — longer/rarer phrases score much higher
+                         than short common ones)
+        """
+        text_lower = text.lower()
+        target_pos = _pos_filter(text)
+        target_stem_tags: dict[str, str] = {}
+        for word, tag, _ in target_pos:
+            s = stemmer.stem(word.lower())
+            target_stem_tags[s] = tag
+
+        score = 0.0
+        for stem in top_rare:
+            if stem in target_stem_tags:
+                score += _token_weight(stem, target_stem_tags[stem], stem)
+
+        for phrase in intent_phrases:
+            if phrase in text_lower:
+                score += _phrase_weight(phrase)
+
+        return score
+
+    # ── 3. Weighted match in QUESTIONS ──
+    best_q_answer: str | None = None
+    best_q_score:  float       = 0.0
+    for q_text, a_text in qa_pairs:
+        q_stems_set = set(_raw_stems(q_text))
+        hits = sum(1 for w in top_rare if w in q_stems_set)
+        if hits < required_hits:
+            continue
+        score = _score_text(q_text)
+        if score > best_q_score:
+            best_q_score  = score
+            best_q_answer = a_text
+
+    if best_q_answer:
+        print(f"[RARE QUESTION MATCH] score={best_q_score:.2f}")
+        return best_q_answer
+
+    # ── 4. Weighted match in ANSWERS ──
+    best_a_answer: str | None = None
+    best_a_score:  float       = 0.0
+    for q_text, a_text in qa_pairs:
+        a_stems_set = set(_raw_stems(a_text))
+        hits = sum(1 for w in top_rare if w in a_stems_set)
+        if hits < required_hits:
+            continue
+        score = _score_text(a_text)
+        if score > best_a_score:
+            best_a_score  = score
+            best_a_answer = a_text
+
+    if best_a_answer:
+        print(f"[RARE ANSWER MATCH] score={best_a_score:.2f}")
+        return best_a_answer
+
+    return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# DIRECTORY ENTRY SEARCH
+#
+# No hard-coded "frro" / "poe" keyword list.
+# Directory type is inferred from query keywords matching chunk structural
+# patterns (in-charge+email → frro, jurisdiction+contact → poe).
+# ──────────────────────────────────────────────────────────────────────────────
+
+def _detect_directory_keyword(query: str) -> str | None:
+    """
+    Return 'frro' or 'poe' ONLY when the query explicitly contains one of
+    these directory trigger terms.  No corpus heuristic — exact keyword match.
+
+    Triggers:
+      frro  →  "frro", "frro contact", "frro contact directory"
+      poe   →  "poe", "protector of emigrants", "poe office"
+
+    Everything else returns None — policy/visa/general queries never match.
+    """
+    q = query.lower()
+    if re.search(r'\bfrro\b', q):
+        return 'frro'
+    if re.search(r'\bpoe\b', q) \
+       or re.search(r'\bprotector\s+of\s+emigrants\b', q):
+        return 'poe'
+    return None
+
+
+def find_directory_entry(query: str) -> str | None:
+
+    dir_type = _detect_directory_keyword(query)
+
+    if dir_type is None:
+        return None
+
+    qwords = set(keywords(query))
+    field = _detect_query_field(query)
+
+    # -----------------------------------
+    # FRRO contact => phone
+    # -----------------------------------
+
+    if (
+        dir_type == "frro"
+        and field == "contact"
+    ):
+        field = "phone"
+
+    best_chunk = None
+    best_score = 0
+
+    for chunk in chunks:
+
+        text = chunk.lower()
+
+        # -----------------------------------
+        # FRRO
+        # -----------------------------------
+
+        if dir_type == "frro":
+
+            if not (
+                re.search(r"in-charge\s*:", text)
+                and re.search(r"email\s*:", text)
+            ):
+                continue
+
+        # -----------------------------------
+        # POE
+        # -----------------------------------
+
+        elif dir_type == "poe":
+
+            if not (
+                re.search(r"jurisdiction\s*:", text)
+                and re.search(r"contact\s*:", text)
+            ):
+                continue
+
+        chunk_words = set(keywords(chunk))
+
+        score = len(qwords & chunk_words)
+
+        if score > best_score:
+            best_score = score
+            best_chunk = chunk
+
+    if not best_chunk or best_score < 1:
+        return None
+
+    clean = re.sub(
+        r"^\[.+?\]\s*",
+        "",
+        best_chunk,
+        flags=re.DOTALL
+    ).strip()
+
+    clean = re.sub(
+        r"^\d+\.\s*",
+        "",
+        clean
+    ).strip()
+
+    # -----------------------------------
+    # Specific field requested
+    # -----------------------------------
+
+    if field:
+
+        value = _extract_field(
+            best_chunk,
+            field
+        )
+
+        if value:
+
+            # email only
+            if field == "email":
+
+                emails = re.findall(
+                    r'[\w\.-]+@[\w\.-]+\.\w+',
+                    value
+                )
+
+                if emails:
+                    return "; ".join(emails)
+
+            # phone only
+            if field == "phone":
+                return value.strip()
+
+            # contact only
+            if field == "contact":
+                return value.strip()
+
+            return value
+
+    # -----------------------------------
+    # Full entry
+    # -----------------------------------
+
+    return clean
+
+# ──────────────────────────────────────────────────────────────────────────────
+# EXACT ENTRY MATCH  (for named offices / cities)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def find_exact_entry(query: str) -> tuple[str | None, str | None]:
+    qwords = keywords(query)
+    if not qwords:
+        return None, None
+
+    field = _detect_query_field(query)
+    print("[FIELD]", field)
+    # Compute per-title word frequency to identify generic words dynamically
+    all_titles: list[set[str]] = []
+    for chunk in chunks:
+        _, title, _ = parse_chunk_parts(chunk)
+        if title:
+            all_titles.append(set(re.findall(r"[a-z]+", title)))
+
+    if not all_titles:
+        return None, None
+
+    title_wf: dict[str, int] = {}
+    for ts in all_titles:
+        for w in ts:
+            title_wf[w] = title_wf.get(w, 0) + 1
+
+    # Words appearing in > half of all titles are "generic" for this corpus
+    generic_threshold = len(all_titles) / 2
+    generic_in_titles = {w for w, cnt in title_wf.items() if cnt > generic_threshold}
+
+    disc_words = [w for w in qwords if w not in generic_in_titles]
+    if not disc_words:
+        return None, None
+
+    best_score: float       = 0.0
+    best_chunk: str | None  = None
+
+    for chunk in chunks:
+        body_start = re.search(r"^\[.+?\]\s*", chunk)
+        body_text  = chunk[body_start.end():] if body_start else chunk
+
+        # Skip Q&A chunks
+        if re.search(r"^\s*(?:\d+[\.:]\s*)?Q\s*:", body_text, re.IGNORECASE | re.MULTILINE):
+            continue
+        if re.search(r"^\s*\d+[\.:]\s*\S.*?\n\s*(?:Ans|A)\s*:", body_text, re.IGNORECASE | re.DOTALL):
+            continue
+
+        header, title, _ = parse_chunk_parts(chunk)
+        if not title:
+            continue
+
+        matched = [w for w in disc_words if w in title]
+        if len(matched) < len(disc_words):
+            continue
+
+        header_score = sum(3 for w in qwords if w in header)
+        title_score  = len(matched) * 5
+        total        = float(header_score + title_score)
+
+        if total > best_score:
+            best_score = total
+            best_chunk = chunk
+
+    if best_chunk:
+        return best_chunk, field
+    return None, None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# SECTION MATCH
+# ──────────────────────────────────────────────────────────────────────────────
+
+def find_section_chunks(query: str) -> list[str]:
+    qwords = keywords(query)
+    if not qwords:
+        return []
+
+    header_scores: dict[str, float] = {}
+    for chunk in chunks:
+        hm = re.match(r"^\[(.+?)\]", chunk)
+        if not hm:
+            continue
+        h     = hm.group(1).lower()
+        score = sum(1.0 for w in qwords if w in h)
+        if score > 0:
+            header_scores[h] = max(header_scores.get(h, 0.0), score)
+
+    if not header_scores:
+        return []
+
+    best_header = max(header_scores, key=lambda h: header_scores[h])
+    matched = [
+        chunk for chunk in chunks
+        if re.match(r"^\[(.+?)\]", chunk)
+        and re.match(r"^\[(.+?)\]", chunk).group(1).lower() == best_header
+    ]
+
+    def _entry_num(c: str) -> int:
+        m = re.search(r"(\d+)\.\s+[A-Z]", c)
+        return int(m.group(1)) if m else 9999
+
+    matched.sort(key=_entry_num)
+    return matched
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# CONTACT BLOCK MATCH
+# ──────────────────────────────────────────────────────────────────────────────
+
+def find_contact_block(query: str) -> str | None:
+    qwords = keywords(query)
+    if not qwords:
+        return None
+
+    best_score: float       = 0.0
+    best_chunk: str | None  = None
+
+    for chunk in chunks:
+        hm = re.match(r"^\[(.+?)\]", chunk)
+        if not hm:
+            continue
+        header = hm.group(1).lower()
+        body   = chunk[hm.end():].lower()
+
+        if re.search(r"\n\d+\.\s+[A-Z]", chunk):
+            continue
+        if re.search(r"\bQ\s*:", chunk):
+            continue
+
+        header_hits = sum(1.0 for w in qwords if w in header)
+        body_hits   = sum(1.0 for w in qwords if w in body)
+        score       = header_hits * 3.0 + body_hits
+
+        if score > best_score:
+            best_score = score
+            best_chunk = chunk
+
+    min_needed = max(2.0, len(qwords) * 0.5)
+    if best_score >= min_needed and best_chunk:
+        return best_chunk
+    return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# NUMBERED Q&A EXTRACTION
+# ──────────────────────────────────────────────────────────────────────────────
+
+def extract_numbered_qa(query: str, results: list[str]) -> str | None:
+    qwords     = keywords(query)
+    pos_tokens = _pos_filter(query)
+    phrases    = _extract_intent_phrases(query, pos_tokens, qwords[:6])
+    if not qwords:
+        return None
+
+    best_answer: str | None = None
+    best_score:  float       = 0.0
+
+    for chunk in results:
+        normalized = re.sub(r"\s+(?=\d+[\.:]\s)", "\n", chunk)
+        normalized = re.sub(r"\s+(?=Ans\s*:)",    "\n", normalized)
+
+        for item in re.split(r"\n(?=\d+[\.:]\s)", normalized):
+            item = item.strip()
+            am   = re.search(r"Ans\s*:\s*(.+?)(?=\n\d+[\.:]\s|\Z)", item, re.DOTALL | re.IGNORECASE)
+            if not am:
+                continue
+            q_part  = item[: am.start()].strip()
+            q_text  = re.sub(r"^\d+[\.:]\s*", "", q_part).strip()
+            q_text  = re.sub(r"\s+", " ", q_text)
+            a_text  = re.sub(r"\s+", " ", am.group(1)).strip()
+            q_lower = q_text.lower()
+
+            q_kw   = keywords(q_text)
+            score  = float(len(set(qwords) & set(q_kw)))
+            for phrase in phrases:
+                if phrase in q_lower:
+                    score += _phrase_weight(phrase)
+
+            if score > best_score:
+                best_score   = score
+                best_answer  = a_text
+
+    min_score = max(2.0, len(qwords) * 0.5)
+    if best_score >= min_score and best_score / max(len(qwords), 1) >= 0.4 and best_answer:
+        return best_answer
+    return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# PLAIN Q&A EXTRACTION
+# ──────────────────────────────────────────────────────────────────────────────
+
+def extract_qa_answer(query: str, results: list[str]) -> str | None:
+    qwords     = keywords(query)
+    pos_tokens = _pos_filter(query)
+    phrases    = _extract_intent_phrases(query, pos_tokens, qwords[:6])
+    if not qwords:
+        return None
+
+    best_answer: str | None = None
+    best_score:  float       = 0.0
+
+    for chunk in results:
+        normalized = re.sub(r"\s+(?=Q\s*:)", "\n", chunk)
+        normalized = re.sub(r"\s+(?=A\s*:)", "\n", normalized)
+
+        for pair in re.split(r"(?=\nQ\s*:)", "\n" + normalized):
+            pair = pair.strip()
+            if not re.search(r"Q\s*:", pair, re.IGNORECASE):
+                continue
+            qm = re.match(
+                r"(?:\[.*?\]\s*\n?)?\s*Q\s*:\s*(.+?)(?=\nA\s*:|\nAns\s*:|\Z)",
+                pair, re.DOTALL | re.IGNORECASE
+            )
+            if not qm:
+                continue
+            q_text  = re.sub(r"\s+", " ", qm.group(1).strip().strip('"\''))
+            am = re.search(
+                r"(?:A\s*:|Ans\s*:)\s*(.+?)(?=\nQ\s*:|\Z)",
+                pair, re.DOTALL | re.IGNORECASE
+            )
+            if not am:
+                continue
+            a_text = re.sub(r"\s+", " ", am.group(1)).strip()
+            if not a_text or len(a_text) < 5:
+                continue
+
+            q_lower = q_text.lower()
+            q_kw    = keywords(q_text)
+            score   = float(len(set(qwords) & set(q_kw)))
+            for phrase in phrases:
+                if phrase in q_lower:
+                    score += _phrase_weight(phrase)
+            if q_kw:
+                score += score / max(len(qwords), 1)
+
+            if score > best_score:
+                best_score  = score
+                best_answer = a_text
+
+    min_score = max(2.0, len(qwords) * 0.5)
+    if best_score >= min_score and best_score / max(len(qwords), 1) >= 0.4 and best_answer:
+        return best_answer
+    return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# LLM FALLBACK
+# ──────────────────────────────────────────────────────────────────────────────
+
+def llm_answer(query: str, context: str) -> str | None:
+    prompt = f"""You are a strict PDF question-answering assistant.
+
+Rules:
+- Answer ONLY using the context below.  Do NOT use outside knowledge.
+- Give the complete answer without truncating.
+- Return ONLY the direct answer — no preamble, no explanation.
+- If the context has a table, numbered list, or bullet list relevant to the
+  question, preserve that structure.
+- If the answer cannot be found in the context, respond ONLY with:
+  Not found in PDF.
+- Do NOT guess or infer answers not clearly stated in the context.
+
+Context:
+{context[:7000]}
+
+Question: {query}
+Answer:"""
+    try:
+        res = session.post(
+            OLLAMA_GEN_URL,
+            json={
+                "model":   LLM_MODEL,
+                "prompt":  prompt,
+                "stream":  False,
+                "options": {
+                    "temperature": 0,
+                    "num_predict": 600,
+                    "top_k":       20,
+                    "top_p":       0.9,
+                },
+            },
+            timeout=90,
+        )
+        answer = res.json().get("response", "").strip()
+        answer = re.split(r"\nQ\s*:", answer)[0].strip()
+
+        not_found_phrases = [
+            "not found in pdf", "no data found",
+            "not present in", "not mentioned in",
+        ]
+        if any(p in answer.lower() for p in not_found_phrases):
+            return None
+        return answer or None
+    except Exception as exc:
+        print(f"[LLM ERROR] {exc}")
+        return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# SAVE CHAT HISTORY
+# ──────────────────────────────────────────────────────────────────────────────
+
+def save_chat(question: str, answer: str, duration_ms: float) -> None:
+    try:
+        os.makedirs("result", exist_ok=True)
+        with open("result/chat_history.txt", "a", encoding="utf-8") as f:
+            f.write(
+                f"\n{'='*50}\n\nChatbot\n\n"
+                f"🧑 You: {question}\n\n"
+                f"🤖 AI:\n{answer}\n\n"
+                f"Time Duration: {duration_ms:.2f}ms\n\n"
+                f"Saved Time:\n{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+            )
+    except Exception as exc:
+        print(f"[SAVE CHAT ERROR] {exc}")
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# MAIN ASK FUNCTION
+#
+# Pipeline (strict order):
+#
+#   1. Exact question match
+#   2. Directory match  — ONLY fires on "frro" / "poe" / "protector of emigrants"
+#   3. Rare keyword match  (Q first → A fallback)
+#   4. Vector retrieval + Q&A extraction
+#   5. LLM fallback
+# ──────────────────────────────────────────────────────────────────────────────
+
+def ask(query: str) -> str:
+    try:
+        if index is None or not chunks:
+            _load_db()
+        if index is None or not chunks:
+            return "⚠️ No PDFs ingested yet.  Please run: python ingest.py"
+
+        query = query.strip()
+        if not query:
+            return "Please ask a question."
+        if query.lower() in {"hi", "hello", "hey"}:
+            return "👋 Please ask a question about the PDF."
+
+        print(f"\n[ASK] {query!r}")
+
+        if _total_qa_docs == 0:
+            build_word_frequency()
+
+        # ── Spell correction: runs ONCE here, all steps use corrected query ──
+        corrected = correct_spelling(query)
+        if corrected != query:
+            print(f"[SPELL] '{query}' → '{corrected}'")
+        query = corrected
+
+        start = time.time()
+
+        def _done(answer: str, label: str) -> str:
+            ms = (time.time() - start) * 1000
+            save_chat(query, answer, ms)
+            print(f"[ASK] {label} → {answer[:80]}")
+            return answer
+
+        # ── 1. Exact question match ──────────────────────────────────────────
+        ans = _chunk_question_match(query)
+        if ans:
+            print('1');
+            return _done(ans, "Exact Question Match")
+
+        # ── 2. Directory match ───────────────────────────────────────────────
+        # Gate: query MUST contain "frro", "poe", or "protector of emigrants"
+        ans = find_directory_entry(query)
+        if ans:
+            print('2');
+            return _done(ans, "Directory Match")
+
+        # ── 3. Rare keyword match (Q first → A fallback) ─────────────────────
+        ans = direct_qa_search(query)
+        if ans:
+            print('3');
+            return _done(ans, "Rare Keyword Match")
+
+        # ── 4. Vector retrieval + Q&A extraction ─────────────────────────────
+        results = retrieve(query, k=8)
+        print(f"[ASK] {len(results)} chunks retrieved")
+
+        if not results:
+            return _done("⚠️ No data found in PDF", "No Results")
+
+        ans = extract_numbered_qa(query, results)
+        if ans:
+            return _done(ans, "Numbered QA")
+
+        ans = extract_qa_answer(query, results)
+        if ans:
+            return _done(ans, "QA Extraction")
+
+        # ── 5. LLM fallback ──────────────────────────────────────────────────
+        qwords_llm   = keywords(query)
+        top_kw_score = max((kw_score(qwords_llm, c) for c in results), default=0)
+        if top_kw_score >= 2:
+            print("[ASK] LLM fallback")
+            ans = llm_answer(query, "\n\n".join(results))
+            if ans:
+                return _done(ans, "LLM")
+
+        return _done(
+            "⚠️ No relevant information found in the PDF for your question.",
+            "No Match"
+        )
+
+    except Exception as exc:
+        print(f"[ASK ERROR] {exc}")
+        return "⚠️ Error processing your question"
+
+# ──────────────────────────────────────────────────────────────────────────────
+# RELOAD DB
+# ──────────────────────────────────────────────────────────────────────────────
+
+def reload_db() -> None:
+    global index, chunks
+    try:
+        print("\n[RAG] Reloading vector database...")
+        if os.path.exists(INDEX_FILE):
+            index = faiss.read_index(INDEX_FILE)
+        if os.path.exists(CHUNKS_FILE):
+            with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
+                raw = f.read()
+            chunks = [c.strip() for c in raw.split("\n---CHUNK---\n") if c.strip()]
+        build_word_frequency()
+        print(f"[RAG] Reload complete → {len(chunks)} chunks")
+    except Exception as exc:
+        print(f"[RAG RELOAD ERROR] {exc}")
